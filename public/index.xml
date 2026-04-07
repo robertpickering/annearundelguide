@@ -4,10 +4,8 @@
     <title>Anne Arundel Guide</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Anne Arundel Guide</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2026 </copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
   </channel>
 </rss>

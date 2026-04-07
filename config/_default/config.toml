@@ -1,6 +1,11 @@
 baseURL = "https://annearundelguide.com/"
 languageCode = "en-us"
 title = "Anne Arundel Guide"
-theme = "blowfish"
+theme = "roadster"
+
+[params]
+  description = "A local guide to Anne Arundel County"
+  author = "Anne Arundel Guide"
 
 enableRobotsTXT = true
+
