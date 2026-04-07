@@ -1,18 +1,14 @@
 baseURL = "https://annearundelguide.com/"
 languageCode = "en-us"
 title = "Anne Arundel Guide"
-theme = "stack"
+theme = "papermod"
 
 enableRobotsTXT = true
 
 [params]
   description = "A comprehensive local guide to Anne Arundel County, Maryland"
-  mainSections = ["cities"]
-
-[menu]
-
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+  ShowBreadCrumbs = true
+  ShowReadingTime = false
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = false
+  ShowShareButtons = false
