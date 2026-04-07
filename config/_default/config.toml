@@ -1,6 +1,7 @@
 baseURL = "https://annearundelguide.com/"
 languageCode = "en-us"
 title = "Anne Arundel Guide"
+theme = "papermod"
 
 enableRobotsTXT = true
 
