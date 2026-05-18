@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Joint Base Andrews on Anne Arundel Guide</title>
+    <title>Joint-Base-Andrews on Anne Arundel Guide</title>
     <link>https://annearundelguide.com/tags/joint-base-andrews/</link>
-    <description>Recent content in Joint Base Andrews on Anne Arundel Guide</description>
+    <description>Recent content in Joint-Base-Andrews on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid>https://annearundelguide.com/topics/veterans-military-resources/</guid>
       <description>Complete guide for military families and veterans living in Anne Arundel County, including VA benefits, local resources, schools, and community support</description>
+    </item>
+    <item>
+      <title>Veterans &amp; Military Resources in Anne Arundel County</title>
+      <link>https://annearundelguide.com/topics/veterans-military-resources/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/topics/veterans-military-resources/</guid>
+      <description>Support and resources for military families and veterans living in Anne Arundel County. From VA benefits to local services.</description>
     </item>
   </channel>
 </rss>
