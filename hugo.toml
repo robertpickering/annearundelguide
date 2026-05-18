@@ -1,3 +1,56 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://annearundelguide.com/'
+languageCode = 'en-us'
+title = 'Anne Arundel County Guide'
+theme = 'papermod'
+
+[params]
+  author = "Anne Arundel Community Guide"
+  description = "Your comprehensive guide to living in Anne Arundel County, Maryland"
+  showPostNavigation = true
+  showReadingTime = true
+  showWordCount = true
+  showToc = true
+  disableSpecial1stPost = false
+  disableHL = false
+  enableEmoji = true
+  disableThemeToggle = true
+  label = { text = "Anne Arundel Guide", icon = "/logo.png" }
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Settling In"
+    url = "/topics/settling-in/"
+    weight = 2
+  [[menu.main]]
+    name = "Schools"
+    url = "/topics/schools/"
+    weight = 3
+  [[menu.main]]
+    name = "Healthcare"
+    url = "/topics/healthcare/"
+    weight = 4
+  [[menu.main]]
+    name = "Transportation"
+    url = "/topics/transportation/"
+    weight = 5
+  [[menu.main]]
+    name = "Budgeting"
+    url = "/topics/budgeting/"
+    weight = 6
+  [[menu.main]]
+    name = "Veterans"
+    url = "/topics/veterans-military/"
+    weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]

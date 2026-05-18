@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Transportation on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/categories/transportation/</link>
+    <description>Recent content in Transportation on Anne Arundel Guide</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://annearundelguide.com/categories/transportation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commuting &amp; Transportation in Anne Arundel County</title>
+      <link>https://annearundelguide.com/topics/commuting-transportation/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/topics/commuting-transportation/</guid>
+      <description>Complete guide to commuting, public transit, ferry services, parking, and transportation options in Anne Arundel County, MD</description>
+    </item>
+  </channel>
+</rss>

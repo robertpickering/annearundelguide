@@ -5,5 +5,7 @@ theme = "papermod"
 
 enableRobotsTXT = true
 
+canonifyURLs = true
+
 [params]
   description = "A comprehensive local guide to Anne Arundel County, Maryland"
