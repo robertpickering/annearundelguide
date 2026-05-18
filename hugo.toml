@@ -23,27 +23,27 @@ theme = 'papermod'
     weight = 1
   [[menu.main]]
     name = "Settling In"
-    url = "/topics/settling-in/"
+    url = "/topics/settling-in-first-30-days/"
     weight = 2
   [[menu.main]]
     name = "Schools"
-    url = "/topics/schools/"
+    url = "/topics/schools-education-pathways/"
     weight = 3
   [[menu.main]]
     name = "Healthcare"
-    url = "/topics/healthcare/"
+    url = "/topics/healthcare-navigation/"
     weight = 4
   [[menu.main]]
     name = "Transportation"
-    url = "/topics/transportation/"
+    url = "/topics/commuting-transportation/"
     weight = 5
   [[menu.main]]
     name = "Budgeting"
-    url = "/topics/budgeting/"
+    url = "/topics/budgeting-cost-living/"
     weight = 6
   [[menu.main]]
     name = "Veterans"
-    url = "/topics/veterans-military/"
+    url = "/topics/veterans-military-resources/"
     weight = 7
 
 [markup]

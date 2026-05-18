@@ -3,80 +3,54 @@ title: "Anne Arundel County Guide"
 description: "Your comprehensive guide to living in Anne Arundel County, Maryland - from settling in to schools, healthcare, transportation, and more"
 date: 2026-05-18
 draft: false
-weight: 1
+slug: "/"
 ---
 
-# Welcome to Anne Arundel County Guide
+# Welcome to Anne Arundel County
 
-Anne Arundel County is Maryland's third-most populous county, located on the Chesapeake Bay between Baltimore and Washington DC. With its diverse communities, strong military presence, excellent schools, and coastal charm, AAC offers something for everyone.
+Welcome to your comprehensive guide for living in Anne Arundel County, Maryland. Whether you're moving here for the first time, planning a career change, or looking to understand what makes this county special, you've come to the right place.
 
-This guide is designed to help new residents, military families, and anyone considering a move to Anne Arundel County navigate all aspects of life here.
+## Essential Guides for New Residents
 
----
+### [**Settling In**](/topics/settling-in-first-30-days/)
+A realistic guide for your first 30 days in Anne Arundel County. Learn about vehicle registration, utilities, finding a doctor, and building your local network. Practical advice without the fluff.
 
-## Quick Navigation
+### [**Schools & Education**](/topics/schools-education-pathways/)
+Complete guide to AACPS schools, ratings, special programs, private school options, and educational pathways. Written by a parent who's navigated the system for over a decade.
 
-### [**Settling In**](/topics/settling-in/)
-Everything you need for your first 30 days in Anne Arundel County - vehicle registration, utilities, schools, healthcare, and essential services.
+### [**Healthcare**](/topics/healthcare-navigation/)
+Finding doctors, hospitals, insurance options, and navigating the healthcare system in Anne Arundel County. What you actually need to know without the jargon.
 
-### [**Schools & Education**](/topics/schools/)
-Complete guide to AACPS schools, ratings, special programs, private school options, and educational pathways.
+### [**Transportation**](/topics/commuting-transportation/)
+Commuting, public transit, ferry services, parking, and transportation options in Anne Arundel County. Realistic advice for getting around when you work in Baltimore, DC, or locally.
 
-### [**Healthcare**](/topics/healthcare/)
-Finding doctors, hospitals, insurance options, and navigating the healthcare system in Anne Arundel County.
+### [**Budgeting**](/topics/budgeting-cost-living/)
+Complete cost of living breakdown, property taxes, utility costs, housing prices, and financial planning for Anne Arundel County. Know what you're budgeting for before you move.
 
-### [**Transportation**](/topics/transportation/)
-Commuting options, public transit, ferry services, and parking information for the county.
+### [**Veterans & Military**](/topics/veterans-military-resources/)
+Support and resources for military families and veterans living in Anne Arundel County. From VA benefits to local services at Fort Meade and Joint Base Andrews.
 
-### [**Budgeting**](/topics/budgeting/)
-Cost of living breakdown, property taxes, utility costs, and financial planning for AAC residents.
+## Why Anne Arundel County?
 
-### [**Veterans & Military**](/topics/veterans-military/)
-Resources for military families and veterans, including VA benefits, TRICARE, and local support organizations.
+Anne Arundel County sits between Baltimore and Washington DC, offering the best of both worlds:
+- Quick access to major cities (30-60 minutes to either Baltimore or DC)
+- Strong school districts
+- Beautiful waterfront communities along the Chesapeake Bay
+- Growing job market with tech, healthcare, and government sectors
+- Mix of urban convenience and suburban quality of life
 
----
+## What You'll Find Here
 
-## About Anne Arundel County
+This guide is designed for people who are actually moving here, not just visiting. We focus on:
+- Practical, actionable information
+- Real costs and timelines
+- No jargon or corporate speak
+- Honest assessments of what works and what doesn't
 
-### Key Facts
-- **County Seat:** Annapolis (Maryland's capital)
-- **Population:** ~587,000
-- **Founded:** 1637
-- **Major Employers:** Naval Academy, Fort Meade, Joint Base Andrews, Federal government
-- **Commute:** 30-60 minutes to DC or Baltimore
+Each topic is a standalone article with reading times of 5-6 minutes. We've made them easy to navigate and cross-reference so you can find exactly what you need, when you need it.
 
-### Communities
-Anne Arundel County includes diverse communities:
-- **Annapolis:** Historic waterfront city, state capital
-- **Glen Burnie:** Largest community, shopping hub
-- **Severna Park:** Top-rated schools, family-friendly
-- **Crofton:** Master-planned community, active lifestyle
-- **Odenton:** Military proximity, growing area
-- **Arnold:** Waterfront access, military families
-- **Severn:** Family-oriented, newer developments
-- And many more!
+## Ready to Get Started?
 
-### Why Move to Anne Arundel?
-- Strong military presence with extensive support
-- Top-rated schools
-- Mix of urban and coastal lifestyles
-- Easy access to DC and Baltimore
-- Rich history and culture
-- Active community life
-- Excellent healthcare facilities
+Pick a topic above based on what you need most, or browse all the guides in the menu. There's a lot of information here, but we've organized it to help you find what matters to you right now.
 
----
-
-## Use This Guide
-
-Whether you're:
-- **Moving to the area** - Start with "Settling In"
-- **A military family** - Check out "Veterans & Military" resources
-- **Looking for schools** - Read our comprehensive "Schools" guide
-- **Budgeting for a move** - See our "Budgeting" section
-- **Concerned about healthcare** - Learn about local "Healthcare" options
-- **Planning your commute** - Review "Transportation" options
-
-Each article is written by subject experts who understand the local community and can provide actionable, practical information.
-
-**Explore the sections above to find the resources you need to make Anne Arundel County your home!**
+Happy reading—and welcome to Anne Arundel County!
