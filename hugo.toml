@@ -1,7 +1,7 @@
 baseURL = 'https://annearundelguide.com/'
 languageCode = 'en-us'
 title = 'Anne Arundel County Guide'
-theme = 'papermod'
+theme = 'blowfish'
 
 [params]
   author = "Anne Arundel Community Guide"
