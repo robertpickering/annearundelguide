@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Anne Arundel County Guide'
 theme = 'blowfish'
 
+[module]
+  [[module.imports]]
+    path = 'blowfish'
+
 [params]
   author = "Anne Arundel Community Guide"
   description = "Your comprehensive guide to living in Anne Arundel County, Maryland"
