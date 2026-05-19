@@ -8,7 +8,8 @@ theme = 'blowfish'
     path = 'blowfish'
 
 [params]
-  author = "Anne Arundel Community Guide"
+  [params.author]
+    name = "Anne Arundel Community Guide"
   description = "Your comprehensive guide to living in Anne Arundel County, Maryland"
   showPostNavigation = true
   showReadingTime = true
