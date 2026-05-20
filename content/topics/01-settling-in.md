@@ -5,7 +5,6 @@ date: 2026-05-18
 draft: false
 slug: "settling-in-first-30-days"
 tags: ["new residents", "settling in", "first month", "Maryland", "Anne Arundel County", "utilities", "vehicle registration", "schools", "healthcare"]
-author: "Anne Arundel Community Guide Team"
 categories: ["Getting Started"]
 weight: 1
 ---
@@ -14,7 +13,6 @@ weight: 1
 
 Welcome to Anne Arundel County! Whether you're relocating for military service at Naval Academy, Fort Meade, or Joint Base Andrews, working in the DC/Baltimore corridor, or simply seeking Maryland's coastal lifestyle, this guide will help you navigate your first month in our beautiful county.
 
-**Written by your local settling-in specialist with 10+ years helping new Anne Arundel residents**
 
 ---
 
@@ -512,3 +510,28 @@ Your first 30 days in Anne Arundel County will be busy, but with proper planning
 Remember: Anne Arundel County residents are known for being friendly and helpful. Don't be shy about asking for recommendations or assistance as you settle in.
 
 **Welcome to the community!**
+
+
+## Official Government Resources
+
+### Anne Arundel County Government
+
+**Official County Website**  
+- Main County Site: [www.aacounty.org](https://www.aacounty.org)  
+- County Services: [www.aacounty.org/departments](https://www.aacounty.org/departments)  
+- OpenData Portal: [data.aacounty.org](https://data.aacounty.org)
+
+### Maryland State Government
+
+**Official State Portal**  
+- MD.gov: [maryland.gov](https://maryland.gov/)  
+- State Departments: [maryland.gov/agencies](https://maryland.gov/agencies)  
+- State Services: [maryland.gov/services](https://maryland.gov/services)
+
+---
+
+*Last updated: May 2026*
+
+---
+
+*Last updated: May 2026*

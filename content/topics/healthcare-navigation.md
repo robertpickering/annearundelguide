@@ -14,7 +14,7 @@ weight: 3
 
 **Estimated reading time: 5 minutes**
 
-Moving to a new area means figuring out healthcare from scratch. You need a primary care doctor, maybe a specialist, and you need to know where to go when things go wrong. Here's what I've learned about navigating healthcare in Anne Arundel County.
+Moving to a new area means figuring out healthcare from scratch. You need a primary care doctor, maybe a specialist, and you need to know where to go when things go wrong. Here's what's known about navigating healthcare in Anne Arundel County.
 
 ## Where People Actually Get Care
 
@@ -144,7 +144,7 @@ Most primary care doctors don't do dental work. You'll need a separate dental pr
 
 You're entitled to copies of your medical records. Request them in writing from the medical facility's medical records department. There may be a small fee, and it can take a few weeks to process.
 
-## My Take
+## Key Takeaways
 
 The healthcare system isn't designed to be intuitive, and that's frustrating. But if you take it step by step, it becomes manageable. The most important thing is having a primary care doctor you trust and understand. That person becomes your advocate and guide through the system.
 
@@ -154,7 +154,41 @@ Don't be afraid to switch doctors if the relationship isn't working. You need to
 
 For more detailed information:
 - [**Hospital Comparison Guide**](/topics/hospitals-guide/) - Side-by-side facility comparisons
-- [**Insurance Navigation**](/topics/insurance-guide/) - Complete insurance process breakdown
+- **Insurance Navigation** - Contact Maryland Health Connection at [marylandhealthconnection.gov](https://www.marylandhealthconnection.gov) - Complete insurance process breakdown
 - [**Pediatric Care Resources**](/topics/pediatric-care/) - Children's healthcare information
 
 Healthcare in Anne Arundel County has good options, but you need to navigate it actively. Take the time to find the right providers, understand your coverage, and build relationships with your medical team. Your health is worth the effort.
+
+
+## Official Government Health Resources
+
+### Maryland Department of Health
+
+**Official State Health Department**  
+- State Health Site: [health.maryland.gov](https://health.maryland.gov)  
+- Health Alerts: [health.maryland.gov/Pages/healthalerts.aspx](https://health.maryland.gov/Pages/healthalerts.aspx)  
+- Disease Control: [health.maryland.gov/phpa/dcpo](https://health.maryland.gov/phpa/dcpo)
+
+### Anne Arundel County Health Department
+
+**County Health Department**  
+- Official County Health: [www.aacounty.org/health](https://www.aacounty.org/health)  
+- Immunization Records: [www.aacounty.org/departments/public-health/immunization](https://www.aacounty.org/departments/public-health/immunization)  
+- Address: 1000 State Road, Annapolis, MD 21401 | Phone: 410-222-7200
+
+### Federal Health Resources
+
+**Centers for Disease Control (CDC)**  
+- CDC Website: [cdc.gov](https://www.cdc.gov)  
+- Health Topics: [cdc.gov/healthtopics](https://www.cdc.gov/healthtopics)
+
+**Maryland Health Connection**  
+- State Health Insurance: [marylandhealthconnection.gov](https://www.marylandhealthconnection.gov)
+
+---
+
+*Last updated: May 2026*
+
+---
+
+*Last updated: May 2026*

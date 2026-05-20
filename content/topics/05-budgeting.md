@@ -5,14 +5,12 @@ date: 2026-05-18
 draft: false
 slug: "budgeting-cost-living"
 tags: ["budgeting", "cost of living", "property taxes", "utilities", "banking", "financial", "housing costs"]
-author: "David Wilson - Financial Planner"
 categories: ["Finance"]
 weight: 5
 ---
 
 # Budgeting for Anne Arundel County
 
-**As a certified financial planner who has helped hundreds of Anne Arundel County families manage their finances, I know how important understanding local costs is for successful budgeting. This guide breaks down real costs you'll face living in our beautiful county.**
 
 ---
 
@@ -855,3 +853,28 @@ Budgeting for Anne Arundel County requires understanding that costs run 8-35% ab
 **Remember:** A budget that works is one you actually follow. Start simple, track honestly, and adjust as needed.
 
 Your financial success in Anne Arundel County is absolutely achievable with the right planning and local knowledge!
+
+
+## Official Government Resources
+
+### Anne Arundel County Government
+
+**Official County Website**  
+- Main County Site: [www.aacounty.org](https://www.aacounty.org)  
+- County Services: [www.aacounty.org/departments](https://www.aacounty.org/departments)  
+- OpenData Portal: [data.aacounty.org](https://data.aacounty.org)
+
+### Maryland State Government
+
+**Official State Portal**  
+- MD.gov: [maryland.gov](https://maryland.gov/)  
+- State Departments: [maryland.gov/agencies](https://maryland.gov/agencies)  
+- State Services: [maryland.gov/services](https://maryland.gov/services)
+
+---
+
+*Last updated: May 2026*
+
+---
+
+*Last updated: May 2026*

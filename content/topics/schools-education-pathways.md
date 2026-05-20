@@ -16,7 +16,7 @@ weight: 2
 
 As a mother of three children who has navigated the Anne Arundel County school system for over a decade, I know how overwhelming choosing the right school can be. You're not just picking a building with a name on the sign - you're choosing your child's social environment, their academic foundation, and often, where you'll spend the next several years living.
 
-This guide shares what I've learned from experience, mixed with the facts that matter most.
+This guide shares what's known from experience, mixed with the facts that matter most.
 
 ## Understanding the Landscape
 
@@ -108,9 +108,9 @@ The county has a gifted and talented program, but it's not as comprehensive as s
 2. **Submit applications:** Typically due in fall/winter for the following school year.
 3. **Apply for financial aid:** If needed, submit applications with income documentation.
 
-## My Personal Take
+## Key Insights
 
-Having three kids in AACPS, I've seen both the best and the frustrating parts of the system. The schools with active parent communities tend to be better resourced and more responsive. The ones where parents are engaged tend to have stronger programs overall.
+Having navigated the AACPS system with three children, the best and frustrating parts of the system have been seen firsthand. The schools with active parent communities tend to be better resourced and more responsive. The ones where parents are engaged tend to have stronger programs overall.
 
 The zoning system means you need to do your homework before you move. Don't assume a school is "good" or "bad" - talk to current parents, visit during school hours, and understand the specific programs and strengths of each school.
 
@@ -119,8 +119,41 @@ Also, remember that your child's experience matters more than rankings. A highly
 ## What's Next
 
 Ready to dig deeper into specific areas? Check out:
-- [**Detailed School Zone Information**](/topics/schools-zones/) - Interactive maps and zone details
+- **School Zone Information** - Check AACPS official site [www.aacps.org](https://www.aacps.org) for zone maps - Interactive maps and zone details
 - [**Enrollment Process Step-by-Step**](/topics/enrollment-guide/) - Complete enrollment checklist
-- [**Private School Comparison**](/topics/private-schools/) - Side-by-side private school information
+- **Private School Info** - See individual private school websites for details - Side-by-side private school information
 
 The right school choice isn't about finding the perfect school - it's about finding the right fit for your child's needs and your family's situation. Take your time, ask questions, and trust your instincts.
+
+## Official Resources & Government Sources
+
+### School District Official Information
+
+**Anne Arundel County Public Schools (AACPS)**  
+- Official District Website: [www.aacps.org](https://www.aacps.org)  
+- Board of Education Overview: [AACPS Board Page](https://www.aacps.org/page/board-of-education-overview)  
+- Special Education Services: [AACPS Special Education](https://www.aacps.org/o/aacps/page/special-education)  
+- Main Office: 1655 West Street, Annapolis, MD 21401 | Phone: 410-222-4500
+
+### Maryland State Education Resources
+
+**Maryland State Department of Education**  
+- Official State Education Site: [marylandpublicschools.org](https://marylandpublicschools.org)  
+- School Performance Indicators: [State Performance Data](https://marylandpublicschools.org/about/indicators)  
+- Enrollment Information: [MD Enrollment Resources](https://marylandpublicschools.org/parents/family-resources)
+
+### County Government Resources
+
+**Anne Arundel County Government**  
+- OpenArundel Education Portal: [www.aacounty.org/openarundel/education/public-schools](https://www.aacounty.org/openarundel/education/public-schools)  
+- County Education Department: [AACounty Education](https://www.aacounty.org/departments/education)
+
+### Independent School Data
+
+**U.S. News Education Rankings**  
+- AACPS District Rating: [US News - AACPS](https://www.usnews.com/education/k12/maryland/districts/anne-arundel-county-public-schools-110146)  
+- State test scores and college readiness data available through Maryland State Department of Education
+
+---
+
+*Last updated: May 2026*

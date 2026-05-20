@@ -182,11 +182,11 @@ The GI Bill provides education benefits for veterans and their families.
 
 **Educational programs:** Some organizations offer tutoring and academic support for military children.
 
-## My Perspective
+## Key Insights
 
-Having lived near Fort Meade and worked with military families in the county, I've seen firsthand how valuable these resources are. But here's the reality: many veterans don't know they're eligible for benefits, and even fewer use them.
+Living near Fort Meade and working with military families in the county has shown firsthand how valuable these resources are. But here's the reality: many veterans don't know they're eligible for benefits, and even fewer use them.
 
-The biggest mistake I see veterans make is not asking for help. There are plenty of people in the county who want to support you - Veterans Service Officers, local nonprofits, VA representatives, and community organizations.
+The biggest mistake veterans make is not asking for help. There are plenty of people in the county who want to support you - Veterans Service Officers, local nonprofits, VA representatives, and community organizations.
 
 Don't be proud enough to do everything alone. These resources exist specifically to support you and your family.
 
@@ -199,3 +199,47 @@ For more detailed information:
 - [**Employment Support**](/topics/military-employment/) - Job resources for veterans
 
 The military community in Anne Arundel County is strong and supportive. If you're a veteran or military family member, you have access to resources that can make your life significantly easier. Use them.
+
+
+## Official Military Resources
+
+### U.S. Department of Veterans Affairs
+
+**Official VA Website**  
+- Main VA Site: [va.gov](https://www.va.gov/)  
+- Find VA Locations: [va.gov/find-locations](https://www.va.gov/find-locations/)  
+- VA Benefits: [benefits.va.gov](https://benefits.va.gov/)  
+- GI Bill Benefits: [benefits.va.gov/gibill](https://benefits.va.gov/gibill/)
+
+### Maryland Department of Veterans Affairs
+
+**State VA Resources**  
+- State VA Office: [marylandveterans.org](https://www.marylandveterans.org)  
+- Maryland VA Services: [maryland.gov/veterans](https://maryland.gov/veterans)  
+- State VA Contact: 410-974-3810
+
+### Defense Manpower Data Center
+
+**DEERS and ID Cards**  
+- DEERS Registration: [dmdc.osd.mil](https://www.dmdc.osd.mil/appspop/deers/registrationSearch.jsp)
+
+### U.S. Department of Defense
+
+**Official DOD Site**  
+- Main DOD Website: [dod.gov](https://www.dod.gov/)  
+- Military Installations: [dod.mil/locations](https://www.dod.mil/locations)
+
+### Tricare
+
+**Military Health Care**  
+- Tricare Official Site: [tricare.mil](https://www.tricare.mil/)  
+- Provider Directory: [tricare.mil/findaprovider](https://www.tricare.mil/findaprovider)  
+- Tricare For Life: [tricare.mil/trl](https://www.tricare.mil/trl)
+
+---
+
+*Last updated: May 2026*
+
+---
+
+*Last updated: May 2026*

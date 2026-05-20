@@ -5,14 +5,12 @@ date: 2026-05-18
 draft: false
 slug: "schools-education-pathways"
 tags: ["schools", "education", "AACPS", "school districts", "parent guide", "Annapolis", "Crofton", "Glen Burnie", "Severn", "private schools"]
-author: "Sarah Mitchell - Local Parent & Education Advocate"
 categories: ["Education"]
 weight: 2
 ---
 
 # School Choices & Education Pathways in Anne Arundel County
 
-**As a mother of three children who has navigated the Anne Arundel County school system for over a decade, I know how overwhelming choosing the right school can be. This guide shares what I've learned from experience.**
 
 ---
 
@@ -706,6 +704,5 @@ Choosing the right school for your child is one of the most important decisions 
 - AACPS offers diverse options for different learning styles
 - School choice is an ongoing conversation as your child grows
 
-**As a parent, my advice:** Get involved, stay informed, and build relationships with teachers. Your child's education is a partnership between home and school.
 
 Good luck with your school search!

@@ -107,3 +107,28 @@ Need more specific information? Check out these detailed guides:
 ---
 
 The first month isn't about checking every box perfectly. It's about getting the essentials sorted and then building your life from there. You'll discover your own rhythms, your favorite local spots, and what "home" feels like in Anne Arundel County. Just take it one week at a time.
+
+
+## Official Government Resources
+
+### Anne Arundel County Government
+
+**Official County Website**  
+- Main County Site: [www.aacounty.org](https://www.aacounty.org)  
+- County Services: [www.aacounty.org/departments](https://www.aacounty.org/departments)  
+- OpenData Portal: [data.aacounty.org](https://data.aacounty.org)
+
+### Maryland State Government
+
+**Official State Portal**  
+- MD.gov: [maryland.gov](https://maryland.gov/)  
+- State Departments: [maryland.gov/agencies](https://maryland.gov/agencies)  
+- State Services: [maryland.gov/services](https://maryland.gov/services)
+
+---
+
+*Last updated: May 2026*
+
+---
+
+*Last updated: May 2026*

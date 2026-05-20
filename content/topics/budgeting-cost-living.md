@@ -14,7 +14,7 @@ weight: 5
 
 **Estimated reading time: 6 minutes**
 
-Moving to Anne Arundel County means understanding the local costs. Some are obvious (rent or mortgage), but others sneak up on you (property taxes, utility seasonal variations). Here's what I've learned about budgeting for life in the county.
+Moving to Anne Arundel County means understanding the local costs. Some are obvious (rent or mortgage), but others sneak up on you (property taxes, utility seasonal variations). Here's what's known about budgeting for life in the county.
 
 ## Housing Costs: The Big Ticket
 
@@ -156,9 +156,9 @@ These are rough estimates and depend heavily on your housing choices and lifesty
 
 5. **Track spending:** For the first few months, track every dollar. You'll discover patterns and waste you didn't know you had.
 
-## My Experience
+## Our Experience
 
-Living here for over 10 years, I've learned that budgeting is more about expectations than restrictions. The cost of living is higher than the national average, but it's manageable if you know what you're budgeting for.
+Living here for over 10 years, budgeting is more about expectations than restrictions. The cost of living is higher than the national average, but it's manageable if you know what you're budgeting for.
 
 The biggest surprise for most new residents is property taxes - they're higher than in many other areas, and they add up quickly. Also, utility costs can be higher in winter if you're not used to Maryland's cold snaps.
 
@@ -172,3 +172,28 @@ For more detailed breakdowns:
 - [**Tax Guide**](/topics/tax-guide/) - Complete tax information and filing tips
 
 Budgeting for Anne Arundel County doesn't have to be complicated. Understand the major costs, build your budget around what matters to you, and adjust as you learn what your actual spending looks like. You'll find your rhythm within a few months.
+
+
+## Official Government Resources
+
+### Anne Arundel County Government
+
+**Official County Website**  
+- Main County Site: [www.aacounty.org](https://www.aacounty.org)  
+- County Services: [www.aacounty.org/departments](https://www.aacounty.org/departments)  
+- OpenData Portal: [data.aacounty.org](https://data.aacounty.org)
+
+### Maryland State Government
+
+**Official State Portal**  
+- MD.gov: [maryland.gov](https://maryland.gov/)  
+- State Departments: [maryland.gov/agencies](https://maryland.gov/agencies)  
+- State Services: [maryland.gov/services](https://maryland.gov/services)
+
+---
+
+*Last updated: May 2026*
+
+---
+
+*Last updated: May 2026*

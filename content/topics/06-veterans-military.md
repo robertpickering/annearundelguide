@@ -5,14 +5,12 @@ date: 2026-05-18
 draft: false
 slug: "veterans-military-resources"
 tags: ["military", "veterans", "VA", "naval academy", "fort meade", "joint base andrews", "benefits", "TRICARE", "GI Bill"]
-author: "Lisa Thompson - Military Family Member & VA Benefits Specialist"
 categories: ["Military"]
 weight: 6
 ---
 
 # Veterans & Military Resources in Anne Arundel County
 
-**As a military spouse who has navigated the VA system and local resources for over 15 years, I know how important having the right support network is for military families. This guide shares everything I've learned about military life in Anne Arundel County.**
 
 ---
 
@@ -808,3 +806,47 @@ Anne Arundel County offers exceptional resources for military families and veter
 **You've served our country - now let the community serve you.**
 
 Welcome to Anne Arundel County, and thank you for your service!
+
+
+## Official Military Resources
+
+### U.S. Department of Veterans Affairs
+
+**Official VA Website**  
+- Main VA Site: [va.gov](https://www.va.gov/)  
+- Find VA Locations: [va.gov/find-locations](https://www.va.gov/find-locations/)  
+- VA Benefits: [benefits.va.gov](https://benefits.va.gov/)  
+- GI Bill Benefits: [benefits.va.gov/gibill](https://benefits.va.gov/gibill/)
+
+### Maryland Department of Veterans Affairs
+
+**State VA Resources**  
+- State VA Office: [marylandveterans.org](https://www.marylandveterans.org)  
+- Maryland VA Services: [maryland.gov/veterans](https://maryland.gov/veterans)  
+- State VA Contact: 410-974-3810
+
+### Defense Manpower Data Center
+
+**DEERS and ID Cards**  
+- DEERS Registration: [dmdc.osd.mil](https://www.dmdc.osd.mil/appspop/deers/registrationSearch.jsp)
+
+### U.S. Department of Defense
+
+**Official DOD Site**  
+- Main DOD Website: [dod.gov](https://www.dod.gov/)  
+- Military Installations: [dod.mil/locations](https://www.dod.mil/locations)
+
+### Tricare
+
+**Military Health Care**  
+- Tricare Official Site: [tricare.mil](https://www.tricare.mil/)  
+- Provider Directory: [tricare.mil/findaprovider](https://www.tricare.mil/findaprovider)  
+- Tricare For Life: [tricare.mil/trl](https://www.tricare.mil/trl)
+
+---
+
+*Last updated: May 2026*
+
+---
+
+*Last updated: May 2026*

@@ -5,14 +5,13 @@ date: 2026-05-18
 draft: false
 slug: "commuting-transportation"
 tags: ["commuting", "transportation", "MTA", "MARC", "ferry", "BWI", "parking", "bus", "highways"]
-author: "Mike Chen - Daily Commuter & Transit Expert"
 categories: ["Transportation"]
 weight: 4
 ---
 
 # Commuting & Transportation in Anne Arundel County
 
-**As someone who has commuted from Anne Arundel County to both Baltimore and DC for over a decade, I've tried every transportation option available. This guide shares what works, what doesn't, and how to choose the right commute for your life.**
+**As someone who has commuted from Anne Arundel County to both Baltimore and DC for over a decade, every transportation option has been tried. This guide shares what works, what doesn't, and how to choose the right commute for your life.**
 
 ---
 
@@ -542,3 +541,40 @@ Choosing the right transportation option for your Anne Arundel County commute de
 **My recommendation:** Track your commute costs for a month, try alternatives when possible, and be flexible with your schedule to avoid peak traffic times.
 
 **The best commute is the one that works for your life, not the fastest route.**
+
+
+## Official Transportation Resources
+
+### Maryland Transit Administration (MTA)
+
+**Public Transit Information**  
+- MTA Bus Info: [marylandtransit.com](https://marylandtransit.com/)  
+- MARC Train Info: [marylandtransit.com/marc](https://marylandtransit.com/marc)  
+- MTA Customer Service: 410-768-7000
+
+### Anne Arundel County
+
+**County Transportation**  
+- Official County Site: [www.aacounty.org](https://www.aacounty.org)  
+- Transportation Department: [www.aacounty.org/departments/transportation](https://www.aacounty.org/departments/transportation)
+
+### Federal Highway Administration
+
+**U.S. Department of Transportation**  
+- Official DOT Site: [transportation.gov](https://www.transportation.gov/)  
+- Highway Info: [fhwa.dot.gov](https://www.fhwa.dot.gov/)
+
+### Baltimore-Washington International Airport
+
+**BWI Airport Official Site**  
+- Airport Website: [bwiairport.com](https://www.bwiairport.com/)  
+- Parking Info: [bwiairport.com/parking](https://www.bwiairport.com/parking)  
+- MTA Airport Line: [marylandtransit.com/airport](https://marylandtransit.com/airport)
+
+---
+
+*Last updated: May 2026*
+
+---
+
+*Last updated: May 2026*
