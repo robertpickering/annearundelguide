@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pediatric on Anne Arundel Guide</title>
     <link>https://annearundelguide.com/tags/pediatric/</link>
     <description>Recent content in Pediatric on Anne Arundel Guide</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://annearundelguide.com/tags/pediatric/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://annearundelguide.com/tags/pediatric/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>Healthcare Navigation in Anne Arundel County</title>
-      <link>https://annearundelguide.com/topics/healthcare-navigation/</link>
+      <title>Pediatric Care in Anne Arundel County</title>
+      <link>https://annearundelguide.com/topics/pediatric-care/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/topics/healthcare-navigation/</guid>
-      <description>Complete guide to finding doctors, hospitals, insurance options, and navigating the healthcare system in Anne Arundel County, MD</description>
+      
+      <guid>https://annearundelguide.com/topics/pediatric-care/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Pediatric Care in Anne Arundel County&#xA;    &lt;div id=&#34;pediatric-care-in-anne-arundel-county&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#pediatric-care-in-anne-arundel-county&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Finding good pediatric care is crucial for your child&amp;rsquo;s health and development. Anne Arundel County has many pediatric practices serving families throughout the county.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Finding a Pediatrician&#xA;    &lt;div id=&#34;finding-a-pediatrician&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#finding-a-pediatrician&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;When to Start Looking&#xA;    &lt;div id=&#34;when-to-start-looking&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#when-to-start-looking&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;During Pregnancy:&lt;/strong&gt;&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

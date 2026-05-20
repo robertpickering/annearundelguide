@@ -192,7 +192,7 @@ The MARC Penn Line runs from BWI Rail Station to Baltimore and DC.
 
 ### MARC Website
 
-Current schedules and info: [marctrain.com](https://www.marctrain.com)
+Current schedules and info: [marylandtransit.com/marc](https://www.mtamaryland.com/marc)
 
 ## Local Shuttle Services
 

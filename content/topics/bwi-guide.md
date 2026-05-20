@@ -114,7 +114,7 @@ The MARC Penn Line runs from BWI Rail Station to Union Station in DC. This is us
 
 ### MARC Website
 
-Official MARC info and schedules: [marctrain.com](https://www.marctrain.com)
+Official MARC info and schedules: [marylandtransit.com/marc](https://www.mtamaryland.com/marc)
 
 ## Rideshare & Taxis
 
