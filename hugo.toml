@@ -11,8 +11,6 @@ theme = 'anne-arundel'
   colorScheme = "anne-arundel"
   homepage.layout = "hero"
   homepage.homepageImage = "/img/anne-arundel-hero.svg"
-  [params.author]
-    name = "Anne Arundel Community Guide"
   description = "Your comprehensive guide to living in Anne Arundel County, Maryland"
   showPostNavigation = true
   showReadingTime = true
@@ -23,6 +21,26 @@ theme = 'anne-arundel'
   enableEmoji = true
   disableThemeToggle = true
   label = { text = "Anne Arundel Guide", icon = "/logo.png" }
+  
+  [params.article]
+    showDate = true
+    showDateUpdated = false
+    showWordCount = true
+    showReadingTime = true
+    showViews = false
+    showLikes = false
+    showEdit = false
+    showZenMode = false
+    showHero = false
+    showBreadcrumbs = false
+    showTableOfContents = false
+    showAuthor = false
+    showAuthorBottom = false
+    showAuthorsBadges = false
+    showTaxonomies = false
+    showCategories = true
+    showTags = true
+    showDateOnlyInArticle = false
 
 [menu]
   [[menu.main]]
