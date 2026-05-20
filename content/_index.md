@@ -8,8 +8,7 @@ type: "home"
 # Blowfish-specific front matter
 weight: 1
 cascade:
-  - _target:
-      type: "docs"
+  - target: "type::docs"
     cascade:
       showToc: true
       tocCollapse: true
