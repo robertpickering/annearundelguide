@@ -5,13 +5,7 @@ date: 2026-05-20
 draft: false
 slug: "/"
 type: "home"
-# Blowfish-specific front matter
 weight: 1
-cascade:
-  - target: "type::docs"
-    cascade:
-      showToc: true
-      tocCollapse: true
 ---
 
 <!-- Hero Section -->
