@@ -1,13 +1,16 @@
 baseURL = 'https://annearundelguide.com/'
 languageCode = 'en-us'
 title = 'Anne Arundel County Guide'
-theme = 'blowfish'
+theme = 'anne-arundel'
 
 [module]
   [[module.imports]]
-    path = 'blowfish'
+    path = 'anne-arundel'
 
 [params]
+  colorScheme = "anne-arundel"
+  homepage.layout = "hero"
+  homepage.homepageImage = "/img/anne-arundel-hero.svg"
   [params.author]
     name = "Anne Arundel Community Guide"
   description = "Your comprehensive guide to living in Anne Arundel County, Maryland"
