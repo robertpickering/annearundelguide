@@ -9,3 +9,8 @@ canonifyURLs = true
 
 [params]
   description = "A comprehensive local guide to Anne Arundel County, Maryland"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
