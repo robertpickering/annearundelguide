@@ -231,7 +231,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "1310"
+    "wordCount": "1052"
   }]
   </script>
 
@@ -725,7 +725,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-05-20T00:00:00&#43;00:00">May 20, 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1310 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
+      <time datetime="2026-05-20T00:00:00&#43;00:00">May 20, 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1052 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
     
 
     
@@ -755,387 +755,399 @@
 
         <div class="article-content max-w-prose mb-20">
           <!-- HERO SECTION -->
-<div class="alert alert-info-primary">
-<div class="hero-section">
-  <div class="hero-content">
-    <h1 class="hero-title">Anne Arundel County Housing Cost Calculator</h1>
-    <p class="hero-subtitle">Estimate Your Housing Budget by Town</p>
-    <p class="hero-description">
-      Use our interactive calculator to estimate home prices, rent, mortgage payments, and total housing costs across Anne Arundel County. Get personalized budget estimates for Annapolis, Severna Park, Odenton, Crofton, Pasadena, Glen Burnie, and all 19 towns.
-    </p>
-    <div class="hero-cta">
-      <a href="#calculator" class="btn">Use Calculator</a>
-      <a href="#town-breakdown" class="btn btn-secondary">Town Breakdown</a>
-      <a href="#guides" class="btn btn-secondary">View Guides</a>
-    </div>
-  </div>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900"
+  
+  >
+  <span
+    
+      class="text-primary-400 pe-3 flex items-center"
+    
+    >
+    
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    
+    ><figure>
+      <img class="my-0 rounded-md" src="https://annearundelguide.com/housing-calculator-hero.jpg" alt="Anne Arundel County Housing Calculator" />
+  </figure>
+
+<h2 class="relative group">Anne Arundel County Housing Cost Calculator
+    <div id="anne-arundel-county-housing-cost-calculator" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#anne-arundel-county-housing-cost-calculator" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p><strong>Estimate Your Housing Budget by Town</strong></p>
+<p>Use our interactive calculator to estimate home prices, rent, mortgage payments, and total housing costs across Anne Arundel County. Get personalized budget estimates for Annapolis, Severna Park, Odenton, Crofton, Pasadena, Glen Burnie, and all 19 towns.</p>
+<p>&lt;a
+class=&quot;!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700&quot;
+href=&quot;#calculator&quot;</p>
+<p>role=&ldquo;button&rdquo;&gt;
+Use Calculator
+</a></p>
+<p>&lt;a
+class=&quot;!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700&quot;
+href=&quot;#town-breakdown&quot;</p>
+<p>role=&ldquo;button&rdquo;&gt;
+Town Breakdown
+</a></p>
+<p>&lt;a
+class=&quot;!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700&quot;
+href=&quot;/topics/&quot;</p>
+<p>role=&ldquo;button&rdquo;&gt;
+View All Guides
+</a></p>
+</span>
 </div>
-</div>
+
 <!-- INTERACTIVE CALCULATOR SECTION -->
 <div id="calculator" class="section">
-  <div class="container">
-    <h2>Housing Cost Calculator</h2>
-    <p class="section-description">Enter your details below to get personalized housing cost estimates for Anne Arundel County.</p>
-<pre><code>&lt;div class=&quot;calculator-container&quot;&gt;
-  &lt;div class=&quot;calculator-form&quot;&gt;
-    &lt;h3&gt;Step 1: Choose Housing Type&lt;/h3&gt;
-    &lt;div class=&quot;form-group&quot;&gt;
-      &lt;label for=&quot;housing-type&quot;&gt;I want to:&lt;/label&gt;
-      &lt;select id=&quot;housing-type&quot;&gt;
-        &lt;option value=&quot;buy&quot;&gt;Buy a Home&lt;/option&gt;
-        &lt;option value=&quot;rent&quot;&gt;Rent an Apartment/House&lt;/option&gt;
-      &lt;/select&gt;
-    &lt;/div&gt;
-    
-    &lt;h3&gt;Step 2: Choose Town&lt;/h3&gt;
-    &lt;div class=&quot;form-group&quot;&gt;
-      &lt;label for=&quot;town-select&quot;&gt;Which town in Anne Arundel County?&lt;/label&gt;
-      &lt;select id=&quot;town-select&quot;&gt;
-        &lt;option value=&quot;annapolis&quot;&gt;Annapolis&lt;/option&gt;
-        &lt;option value=&quot;severna-park&quot;&gt;Severna Park&lt;/option&gt;
-        &lt;option value=&quot;crofton&quot;&gt;Crofton&lt;/option&gt;
-        &lt;option value=&quot;odenton&quot;&gt;Odenton&lt;/option&gt;
-        &lt;option value=&quot;pasadena&quot;&gt;Pasadena&lt;/option&gt;
-        &lt;option value=&quot;glen-burnie&quot;&gt;Glen Burnie&lt;/option&gt;
-        &lt;option value=&quot;arnold&quot;&gt;Arnold&lt;/option&gt;
-        &lt;option value=&quot;brooklandville&quot;&gt;Brookland&lt;/option&gt;
-        &lt;option value=&quot;davidsonville&quot;&gt;Davidsonville&lt;/option&gt;
-        &lt;option value=&quot;edgewater&quot;&gt;Edgewater&lt;/option&gt;
-        &lt;option value=&quot;gambrills&quot;&gt;Gambrills&lt;/option&gt;
-        &lt;option value=&quot;hanover&quot;&gt;Hanover&lt;/option&gt;
-        &lt;option value=&quot;hampton&quot;&gt;Hampton&lt;/option&gt;
-        &lt;option value=&quot;mildmay&quot;&gt;Mildmay&lt;/option&gt;
-        &lt;option value=&quot;millersville&quot;&gt;Millersville&lt;/option&gt;
-        &lt;option value=&quot;severn&quot;&gt;Severn&lt;/option&gt;
-        &lt;option value=&quot;sunnydale&quot;&gt;Sunnydale&lt;/option&gt;
-        &lt;option value=&quot;crothersville&quot;&gt;Crothersville&lt;/option&gt;
-        &lt;option value=&quot;crownsville&quot;&gt;Crownsville&lt;/option&gt;
-      &lt;/select&gt;
-    &lt;/div&gt;
-    
-    &lt;h3&gt;Step 3: Enter Your Budget&lt;/h3&gt;
-    &lt;div class=&quot;form-group&quot;&gt;
-      &lt;label for=&quot;monthly-payment&quot;&gt;Monthly Payment Budget: $&lt;/label&gt;
-      &lt;input type=&quot;number&quot; id=&quot;monthly-payment&quot; placeholder=&quot;e.g., 2500&quot; min=&quot;500&quot;&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;form-group&quot;&gt;
-      &lt;label for=&quot;down-payment&quot;&gt;Down Payment (if buying): $&lt;/label&gt;
-      &lt;input type=&quot;number&quot; id=&quot;down-payment&quot; placeholder=&quot;e.g., 50000&quot; min=&quot;0&quot;&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;form-group&quot;&gt;
-      &lt;label for=&quot;household-income&quot;&gt;Annual Household Income: $&lt;/label&gt;
-      &lt;input type=&quot;number&quot; id=&quot;household-income&quot; placeholder=&quot;e.g., 100000&quot; min=&quot;10000&quot;&gt;
-    &lt;/div&gt;
-    
-    &lt;button id=&quot;calculate-btn&quot; class=&quot;btn btn-primary&quot;&gt;Calculate My Budget&lt;/button&gt;
-  &lt;/div&gt;
-  
-  &lt;div id=&quot;calculator-results&quot; class=&quot;calculator-results&quot; style=&quot;display: none;&quot;&gt;
-    &lt;div class=&quot;results-header&quot;&gt;
-      &lt;h3&gt;Your Housing Budget in &lt;span id=&quot;result-town&quot;&gt;&lt;/span&gt;&lt;/h3&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;results-grid&quot;&gt;
-      &lt;div class=&quot;result-card&quot;&gt;
-        &lt;h4&gt;🏡 What You Can Afford&lt;/h4&gt;
-        &lt;p&gt;&lt;strong&gt;Home Price Range:&lt;/strong&gt; $&lt;span id=&quot;affordable-home&quot;&gt;&lt;/span&gt; - $&lt;span id=&quot;affordable-home-high&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Estimated Monthly Payment:&lt;/strong&gt; $&lt;span id=&quot;monthly-payment-estimate&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Down Payment Needed:&lt;/strong&gt; $&lt;span id=&quot;down-payment-needed&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-      &lt;/div&gt;
-      
-      &lt;div class=&quot;result-card&quot;&gt;
-        &lt;h4&gt;🏢 Rental Options&lt;/h4&gt;
-        &lt;p&gt;&lt;strong&gt;Average Rent (2-Bed):&lt;/strong&gt; $&lt;span id=&quot;avg-rent-2bed&quot;&gt;&lt;/span&gt;/month&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Within Budget:&lt;/strong&gt; &lt;span id=&quot;rent-within-budget&quot;&gt;&lt;/span&gt; units&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Neighborhood Range:&lt;/strong&gt; &lt;span id=&quot;rent-neighborhoods&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-      &lt;/div&gt;
-      
-      &lt;div class=&quot;result-card&quot;&gt;
-        &lt;h4&gt;💰 Monthly Breakdown&lt;/h4&gt;
-        &lt;p&gt;&lt;strong&gt;Primary Payment:&lt;/strong&gt; $&lt;span id=&quot;primary-payment&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Property Taxes (est. 1.1%):&lt;/strong&gt; $&lt;span id=&quot;property-tax&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Insurance (est. $120/mo):&lt;/strong&gt; $&lt;span id=&quot;insurance&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Total Estimated:&lt;/strong&gt; $&lt;span id=&quot;total-monthly&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-      &lt;/div&gt;
-      
-      &lt;div class=&quot;result-card&quot;&gt;
-        &lt;h4&gt;📊 Market Context&lt;/h4&gt;
-        &lt;p&gt;&lt;strong&gt;Avg Home Price in Area:&lt;/strong&gt; $&lt;span id=&quot;area-avg-price&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Your Budget vs Market:&lt;/strong&gt; &lt;span id=&quot;budget-vs-market&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $&lt;span id=&quot;price-per-sqft&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;recommendations-section&quot;&gt;
-      &lt;h3&gt;💡 Recommendations for Your Budget&lt;/h3&gt;
-      &lt;div id=&quot;recommendations&quot;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</code></pre>
-  </div>
+<div class="container">
+<h2>Housing Cost Calculator</h2>
+<p class="section-description">Enter your details below to get personalized housing cost estimates for Anne Arundel County.</p>
+<div class="calculator-container">
+<div class="calculator-form">
+<h3>Step 1: Choose Housing Type</h3>
+<div class="form-group">
+<label for="housing-type">I want to:</label>
+<select id="housing-type">
+<option value="buy">Buy a Home</option>
+<option value="rent">Rent an Apartment/House</option>
+</select>
+</div>
+<h3>Step 2: Choose Town</h3>
+<div class="form-group">
+<label for="town-select">Which town in Anne Arundel County?</label>
+<select id="town-select">
+<option value="annapolis">Annapolis</option>
+<option value="severna-park">Severna Park</option>
+<option value="crofton">Crofton</option>
+<option value="odenton">Odenton</option>
+<option value="pasadena">Pasadena</option>
+<option value="glen-burnie">Glen Burnie</option>
+<option value="arnold">Arnold</option>
+<option value="brookland">Brookland</option>
+<option value="davidsonville">Davidsonville</option>
+<option value="edgewater">Edgewater</option>
+<option value="gambrills">Gambrills</option>
+<option value="hanover">Hanover</option>
+<option value="hampton">Hampton</option>
+<option value="mildmay">Mildmay</option>
+<option value="millersville">Millersville</option>
+<option value="severn">Severn</option>
+<option value="sunnydale">Sunnydale</option>
+<option value="crothersville">Crothersville</option>
+<option value="crownsville">Crownsville</option>
+</select>
+</div>
+<h3>Step 3: Enter Your Budget</h3>
+<div class="form-group">
+<label for="monthly-payment">Monthly Payment Budget: $</label>
+<input type="number" id="monthly-payment" placeholder="e.g., 2500" min="500">
+</div>
+<div class="form-group">
+<label for="down-payment">Down Payment (if buying): $</label>
+<input type="number" id="down-payment" placeholder="e.g., 50000" min="0">
+</div>
+<div class="form-group">
+<label for="household-income">Annual Household Income: $</label>
+<input type="number" id="household-income" placeholder="e.g., 100000" min="10000">
+</div>
+<p><button id="calculate-btn" class="btn btn-primary">Calculate My Budget</button></p>
+</div>
+<div id="calculator-results" class="calculator-results" style="display: none;">
+<div class="results-header">
+<h3>Your Housing Budget in <span id="result-town"></span></h3>
+</div>
+<div class="results-grid">
+<div class="result-card">
+<h4>🏡 What You Can Afford</h4>
+<p><strong>Home Price Range:</strong> $<span id="affordable-home"></span> - $<span id="affordable-home-high"></span></p>
+<p><strong>Estimated Monthly Payment:</strong> $<span id="monthly-payment-estimate"></span></p>
+<p><strong>Down Payment Needed:</strong> $<span id="down-payment-needed"></span></p>
+</div>
+<div class="result-card">
+<h4>🏢 Rental Options</h4>
+<p><strong>Average Rent (2-Bed):</strong> $<span id="avg-rent-2bed"></span>/month</p>
+<p><strong>Within Budget:</strong> <span id="rent-within-budget"></span> units</p>
+<p><strong>Neighborhood Range:</strong> <span id="rent-neighborhoods"></span></p>
+</div>
+<div class="result-card">
+<h4>💰 Monthly Breakdown</h4>
+<p><strong>Primary Payment:</strong> $<span id="primary-payment"></span></p>
+<p><strong>Property Taxes (est. 1.1%):</strong> $<span id="property-tax"></span></p>
+<p><strong>Insurance (est. $120/mo):</strong> $<span id="insurance"></span></p>
+<p><strong>Total Estimated:</strong> $<span id="total-monthly"></span></p>
+</div>
+<div class="result-card">
+<h4>📊 Market Context</h4>
+<p><strong>Avg Home Price in Area:</strong> $<span id="area-avg-price"></span></p>
+<p><strong>Your Budget vs Market:</strong> <span id="budget-vs-market"></span></p>
+<p><strong>Price per Sq Ft:</strong> $<span id="price-per-sqft"></span></p>
+</div>
+</div>
+<div class="recommendations-section">
+<h3>💡 Recommendations for Your Budget</h3>
+<div id="recommendations"></div>
+</div>
+</div>
+</div>
+</div>
 </div>
 <!-- TOWN-BY-TOWN BREAKDOWN -->
 <div id="town-breakdown" class="section">
-  <div class="container">
-    <h2>Housing Costs by Town</h2>
-    <p class="section-description">Detailed housing cost breakdown for each town in Anne Arundel County. Data sourced from Zillow, Realtor.com, and local market analysis.</p>
-<pre><code>&lt;div class=&quot;town-grid&quot;&gt;
-  &lt;!-- Annapolis --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Annapolis&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Historic capital city with waterfront homes and downtown condos&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $625,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $2,400&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $310&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Historic charm, waterfront living, downtown access&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Historic District, West Annapolis, Eastport&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Severna Park --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Severna Park&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Family-friendly suburb with excellent schools and waterfront options&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $575,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $2,100&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $285&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Families, waterfront, top-rated schools&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Severn Run, Bay Ridge, Bay Landing&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Crofton --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Crofton&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Largest town in Anne Arundel with lakes, parks, and diverse housing&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $485,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $1,850&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $250&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Lakeside living, family activities, value&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Crofton Landing, Green Haven, Chesapeake Ranch&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Odenton --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Odenton&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Convenient location near BWI and Fort Meade with modern developments&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $465,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $1,750&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $240&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Military families, commuters, new construction&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Marriott's Way, Odenton Farms, Timber Creek&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Pasadena --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Pasadena&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Waterfront community with marina access and suburban charm&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $525,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $1,950&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $265&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Boating, waterfront, suburban living&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Pasadena Shores, Severn Shores, Chesapeake Beach Road&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Glen Burnie --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Glen Burnie&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Diverse community with affordable options and easy highway access&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $385,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $1,600&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $220&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; First-time buyers, budget-conscious, commute access&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Bay Ridge, North Glen Burnie, Glen Hills&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Arnold --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Arnold&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Waterfront community near Naval Academy with upscale homes&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $650,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $2,300&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $295&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Waterfront luxury, Naval Academy access, historic charm&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Kingsville, Arnold Harbor, Bay Ridge&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Edgewater --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Edgewater&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Waterfront paradise with private docks and bay views&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $595,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $2,200&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $280&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Boating, waterfront living, bay access&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Edgewater Bay, Seabury, Bayfront&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Crownsville --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Crownsville&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Rural charm with waterfront options and affordable housing&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $445,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $1,700&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $235&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Rural lifestyle, waterfront value, quiet living&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Riverside, Crownsville Village, Mill Creek&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  
-  &lt;!-- Gambrills --&gt;
-  &lt;div class=&quot;town-card&quot;&gt;
-    &lt;h3&gt;Gambrills&lt;/h3&gt;
-    &lt;p class=&quot;town-description&quot;&gt;Central location near Annapolis with mix of historic and modern homes&lt;/p&gt;
-    &lt;div class=&quot;town-stats&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Median Home Price:&lt;/strong&gt; $515,000&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Avg Rent (2-Bed):&lt;/strong&gt; $1,900&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $260&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Central location, commute, variety of housing&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;p&gt;&lt;em&gt;Top neighborhoods: Gambrills Commons, Riverside, Historic Gambrills&lt;/em&gt;&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;resources-section&quot;&gt;
-  &lt;h3&gt;Explore All 19 Anne Arundel County Towns&lt;/h3&gt;
-  &lt;p&gt;Complete neighborhood and relocation data for every town in the county.&lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;/neighborhoods-relocation-guide/&quot; class=&quot;btn&quot;&gt;Anne Arundel County Neighborhood &amp; Relocation Guide&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/housing-guide/&quot; class=&quot;btn btn-secondary&quot;&gt;View Full Housing Guide&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</code></pre>
-  </div>
+<div class="container">
+<h2>Housing Costs by Town</h2>
+<p class="section-description">Detailed housing cost breakdown for each town in Anne Arundel County. Data sourced from Zillow, Realtor.com, and local market analysis.</p>
+<div class="town-grid">
+<!-- Annapolis -->
+<div class="town-card">
+<h3>Annapolis</h3>
+<p class="town-description">Historic capital city with waterfront homes and downtown condos</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $625,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $2,400</p>
+<p><strong>Price per Sq Ft:</strong> $310</p>
+<p><strong>Best For:</strong> Historic charm, waterfront living, downtown access</p>
+</div>
+<p><em>Top neighborhoods: Historic District, West Annapolis, Eastport</em></p>
+</div>
+<!-- Severna Park -->
+<div class="town-card">
+<h3>Severna Park</h3>
+<p class="town-description">Family-friendly suburb with excellent schools and waterfront options</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $575,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $2,100</p>
+<p><strong>Price per Sq Ft:</strong> $285</p>
+<p><strong>Best For:</strong> Families, waterfront, top-rated schools</p>
+</div>
+<p><em>Top neighborhoods: Severn Run, Bay Ridge, Bay Landing</em></p>
+</div>
+<!-- Crofton -->
+<div class="town-card">
+<h3>Crofton</h3>
+<p class="town-description">Largest town in Anne Arundel with lakes, parks, and diverse housing</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $485,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $1,850</p>
+<p><strong>Price per Sq Ft:</strong> $250</p>
+<p><strong>Best For:</strong> Lakeside living, family activities, value</p>
+</div>
+<p><em>Top neighborhoods: Crofton Landing, Green Haven, Chesapeake Ranch</em></p>
+</div>
+<!-- Odenton -->
+<div class="town-card">
+<h3>Odenton</h3>
+<p class="town-description">Convenient location near BWI and Fort Meade with modern developments</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $465,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $1,750</p>
+<p><strong>Price per Sq Ft:</strong> $240</p>
+<p><strong>Best For:</strong> Military families, commuters, new construction</p>
+</div>
+<p><em>Top neighborhoods: Marriott's Way, Odenton Farms, Timber Creek</em></p>
+</div>
+<!-- Pasadena -->
+<div class="town-card">
+<h3>Pasadena</h3>
+<p class="town-description">Waterfront community with marina access and suburban charm</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $525,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $1,950</p>
+<p><strong>Price per Sq Ft:</strong> $265</p>
+<p><strong>Best For:</strong> Boating, waterfront, suburban living</p>
+</div>
+<p><em>Top neighborhoods: Pasadena Shores, Severn Shores, Chesapeake Beach Road</em></p>
+</div>
+<!-- Glen Burnie -->
+<div class="town-card">
+<h3>Glen Burnie</h3>
+<p class="town-description">Diverse community with affordable options and easy highway access</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $385,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $1,600</p>
+<p><strong>Price per Sq Ft:</strong> $220</p>
+<p><strong>Best For:</strong> First-time buyers, budget-conscious, commute access</p>
+</div>
+<p><em>Top neighborhoods: Bay Ridge, North Glen Burnie, Glen Hills</em></p>
+</div>
+<!-- Arnold -->
+<div class="town-card">
+<h3>Arnold</h3>
+<p class="town-description">Waterfront community near Naval Academy with upscale homes</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $650,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $2,300</p>
+<p><strong>Price per Sq Ft:</strong> $295</p>
+<p><strong>Best For:</strong> Waterfront luxury, Naval Academy access, historic charm</p>
+</div>
+<p><em>Top neighborhoods: Kingsville, Arnold Harbor, Bay Ridge</em></p>
+</div>
+<!-- Edgewater -->
+<div class="town-card">
+<h3>Edgewater</h3>
+<p class="town-description">Waterfront paradise with private docks and bay views</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $595,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $2,200</p>
+<p><strong>Price per Sq Ft:</strong> $280</p>
+<p><strong>Best For:</strong> Boating, waterfront living, bay access</p>
+</div>
+<p><em>Top neighborhoods: Edgewater Bay, Seabury, Bayfront</em></p>
+</div>
+<!-- Crownsville -->
+<div class="town-card">
+<h3>Crownsville</h3>
+<p class="town-description">Rural charm with waterfront options and affordable housing</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $445,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $1,700</p>
+<p><strong>Price per Sq Ft:</strong> $235</p>
+<p><strong>Best For:</strong> Rural lifestyle, waterfront value, quiet living</p>
+</div>
+<p><em>Top neighborhoods: Riverside, Crownsville Village, Mill Creek</em></p>
+</div>
+<!-- Gambrills -->
+<div class="town-card">
+<h3>Gambrills</h3>
+<p class="town-description">Central location near Annapolis with mix of historic and modern homes</p>
+<div class="town-stats">
+<p><strong>Median Home Price:</strong> $515,000</p>
+<p><strong>Avg Rent (2-Bed):</strong> $1,900</p>
+<p><strong>Price per Sq Ft:</strong> $260</p>
+<p><strong>Best For:</strong> Central location, commute, variety of housing</p>
+</div>
+<p><em>Top neighborhoods: Gambrills Commons, Riverside, Historic Gambrills</em></p>
+</div>
+</div>
+<div class="resources-section">
+<h3>Explore All 19 Anne Arundel County Towns</h3>
+<p>Complete neighborhood and relocation data for every town in the county.</p>
+<ul>
+<li><a href="https://annearundelguide.com/topics/commuting-transportation/" class="btn">Anne Arundel County Neighborhood & Relocation Guide</a></li>
+<li><a href="https://annearundelguide.com/topics/housing/" class="btn btn-secondary">View Full Housing Guide</a></li>
+</ul>
+</div>
+</div>
 </div>
 <!-- BUDGETING & AFFORDABILITY -->
 <div id="budgeting" class="section">
-  <div class="container">
-    <h2>Understanding Anne Arundel County Housing Affordability</h2>
-    <p class="section-description">Current market trends, affordability metrics, and budgeting tips for 2026.</p>
-<pre><code>&lt;div class=&quot;content-grid&quot;&gt;
-  &lt;div class=&quot;info-box&quot;&gt;
-    &lt;h3&gt;📊 Current Market Overview (2026)&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;County Median Home Price:&lt;/strong&gt; $508,669&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Average Rent (2-Bed):&lt;/strong&gt; $1,990&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Price per Sq Ft:&lt;/strong&gt; $267&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Year-over-Year Change:&lt;/strong&gt; +0.5%&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Active Listings:&lt;/strong&gt; 2,248 homes&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Properties Sold (12 months):&lt;/strong&gt; 8,220-8,816&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;info-box&quot;&gt;
-    &lt;h3&gt;💰 What You Need to Afford Housing&lt;/h3&gt;
-    &lt;p&gt;&lt;strong&gt;Recommended Income Guidelines:&lt;/strong&gt;&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;$450K Home:&lt;/strong&gt; $85K annual income, $2,700/mo payment&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;$500K Home:&lt;/strong&gt; $95K annual income, $3,000/mo payment&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;$550K Home:&lt;/strong&gt; $105K annual income, $3,300/mo payment&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;$600K Home:&lt;/strong&gt; $115K annual income, $3,600/mo payment&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p&gt;&lt;strong&gt;Monthly Payment Breakdown (5% down, 6.5% interest, 2026):&lt;/strong&gt;&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Principal &amp; Interest:&lt;/strong&gt; 45-50% of payment&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Property Taxes:&lt;/strong&gt; 20-25% (avg 1.1% annually)&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Home Insurance:&lt;/strong&gt; 5-8% ($120-180/mo)&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;HOA Fees:&lt;/strong&gt; 0-20% (varies by community)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;info-box&quot;&gt;
-    &lt;h3&gt;🏘️ Housing Type Distribution&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Single-Family Homes:&lt;/strong&gt; 75% of owner-occupied units&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Multifamily Rentals:&lt;/strong&gt; 25% of housing units&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Condos &amp; Townhomes:&lt;/strong&gt; Growing 3-5% annually&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Waterfront Properties:&lt;/strong&gt; 15-20% premium over non-waterfront&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;resources-section&quot;&gt;
-  &lt;h3&gt;Budgeting Resources&lt;/h3&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;/budgeting-cost-living-guide/&quot; class=&quot;btn&quot;&gt;Anne Arundel County Budgeting &amp; Cost of Living Guide&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.zillow.com/home-values/3152/anne-arundel-county-md/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Zillow Market Trends&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.realtor.com/local/market/maryland/anne-arundel-county&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Realtor.com Data&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</code></pre>
-  </div>
+<div class="container">
+<h2>Understanding Anne Arundel County Housing Affordability</h2>
+<p class="section-description">Current market trends, affordability metrics, and budgeting tips for 2026.</p>
+<div class="content-grid">
+<div class="info-box">
+<h3>📊 Current Market Overview (2026)</h3>
+<ul>
+<li><strong>County Median Home Price:</strong> $508,669</li>
+<li><strong>Average Rent (2-Bed):</strong> $1,990</li>
+<li><strong>Price per Sq Ft:</strong> $267</li>
+<li><strong>Year-over-Year Change:</strong> +0.5%</li>
+<li><strong>Active Listings:</strong> 2,248 homes</li>
+<li><strong>Properties Sold (12 months):</strong> 8,220-8,816</li>
+</ul>
+</div>
+<div class="info-box">
+<h3>💰 What You Need to Afford Housing</h3>
+<p><strong>Recommended Income Guidelines:</strong></p>
+<ul>
+<li><strong>$450K Home:</strong> $85K annual income, $2,700/mo payment</li>
+<li><strong>$500K Home:</strong> $95K annual income, $3,000/mo payment</li>
+<li><strong>$550K Home:</strong> $105K annual income, $3,300/mo payment</li>
+<li><strong>$600K Home:</strong> $115K annual income, $3,600/mo payment</li>
+</ul>
+<p><strong>Monthly Payment Breakdown (5% down, 6.5% interest, 2026):</strong></p>
+<ul>
+<li><strong>Principal & Interest:</strong> 45-50% of payment</li>
+<li><strong>Property Taxes:</strong> 20-25% (avg 1.1% annually)</li>
+<li><strong>Home Insurance:</strong> 5-8% ($120-180/mo)</li>
+<li><strong>HOA Fees:</strong> 0-20% (varies by community)</li>
+</ul>
+</div>
+<div class="info-box">
+<h3>🏘️ Housing Type Distribution</h3>
+<ul>
+<li><strong>Single-Family Homes:</strong> 75% of owner-occupied units</li>
+<li><strong>Multifamily Rentals:</strong> 25% of housing units</li>
+<li><strong>Condos & Townhomes:</strong> Growing 3-5% annually</li>
+<li><strong>Waterfront Properties:</strong> 15-20% premium over non-waterfront</li>
+</ul>
+</div>
+</div>
+<div class="resources-section">
+<h3>Budgeting Resources</h3>
+<ul>
+<li><a href="https://annearundelguide.com/topics/budgeting-cost-living/" class="btn">Anne Arundel County Budgeting & Cost of Living Guide</a></li>
+<li><a href="https://www.zillow.com/home-values/3152/anne-arundel-county-md/" target="_blank" rel="noopener">Zillow Market Trends</a></li>
+<li><a href="https://www.realtor.com/local/market/maryland/anne-arundel-county" target="_blank" rel="noopener">Realtor.com Data</a></li>
+</ul>
+</div>
+</div>
 </div>
 <!-- FIRST-TIME BUYER GUIDE -->
 <div class="section">
-  <div class="container">
-    <h2>First-Time Home Buyer Resources</h2>
-    <p class="section-description">Special programs and assistance available for first-time buyers in Anne Arundel County.</p>
-<pre><code>&lt;div class=&quot;content-grid&quot;&gt;
-  &lt;div class=&quot;info-box&quot;&gt;
-    &lt;h3&gt;🎓 Education &amp; Counseling&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;HUD-Approved Counseling:&lt;/strong&gt; Free or low-cost homebuyer education&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Maryland Housing Development Finance Agency:&lt;/strong&gt; Down payment assistance programs&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Federal Programs:&lt;/strong&gt; FHA loans with 3.5% down payment&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;VA Loans:&lt;/strong&gt; Available for eligible veterans and military families&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;info-box&quot;&gt;
-    &lt;h3&gt;💸 Maryland State Programs&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Maryland First:&lt;/strong&gt; Down payment assistance up to $30,000&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;MHFA Loans:&lt;/strong&gt; Below-market interest rates for qualified buyers&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Teacher Programs:&lt;/strong&gt; Additional assistance for educators&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Public Safety Workers:&lt;/strong&gt; Special programs for police, fire, EMS&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;resources-section&quot;&gt;
-  &lt;h3&gt;Additional Resources&lt;/h3&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;/va-benefits-military-resources/&quot; class=&quot;btn&quot;&gt;VA Benefits &amp; Military Resources&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.mhfa.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Maryland Housing Finance Authority&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://www.hud.gov/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HUD Homebuyer Education&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</code></pre>
-  </div>
+<div class="container">
+<h2>First-Time Home Buyer Resources</h2>
+<p class="section-description">Special programs and assistance available for first-time buyers in Anne Arundel County.</p>
+<div class="content-grid">
+<div class="info-box">
+<h3>🎓 Education & Counseling</h3>
+<ul>
+<li><strong>HUD-Approved Counseling:</strong> Free or low-cost homebuyer education</li>
+<li><strong>Maryland Housing Development Finance Agency:</strong> Down payment assistance programs</li>
+<li><strong>Federal Programs:</strong> FHA loans with 3.5% down payment</li>
+<li><strong>VA Loans:</strong> Available for eligible veterans and military families</li>
+</ul>
+</div>
+<div class="info-box">
+<h3>💸 Maryland State Programs</h3>
+<ul>
+<li><strong>Maryland First:</strong> Down payment assistance up to $30,000</li>
+<li><strong>MHFA Loans:</strong> Below-market interest rates for qualified buyers</li>
+<li><strong>Teacher Programs:</strong> Additional assistance for educators</li>
+<li><strong>Public Safety Workers:</strong> Special programs for police, fire, EMS</li>
+</ul>
+</div>
+</div>
+<div class="resources-section">
+<h3>Additional Resources</h3>
+<ul>
+<li><a href="https://annearundelguide.com/topics/veterans-military-resources/" class="btn">VA Benefits & Military Resources</a></li>
+<li><a href="https://www.mhfa.org/" target="_blank" rel="noopener">Maryland Housing Finance Authority</a></li>
+<li><a href="https://www.hud.gov/" target="_blank" rel="noopener">HUD Homebuyer Education</a></li>
+</ul>
+</div>
+</div>
 </div>
 <!-- SOURCES & VERIFICATION -->
 <div class="sources-section">
-  <h2>Sources & Verification</h2>
-  <p>All housing cost data and market information has been verified using authoritative sources:</p>
-  <ul>
-    <li><strong>Zillow:</strong> https://www.zillow.com/home-values/3152/anne-arundel-county-md/ - Current market data ($508,669 avg home value, +0.5% YoY)</li>
-    <li><strong>U.S. Census Bureau:</strong> https://city-stats.com/maryland/counties/anne-arundel-county/housing/ - Median home value $450,300 (2023), rent $1,990</li>
-    <li><strong>Realtor.com:</strong> https://www.realtor.com/local/market/maryland/anne-arundel-county - Median listing $530,000, sold $504,500</li>
-    <li><strong>Redfin:</strong> https://www.redfin.com/county/1311/MD/Anne-Arundel-County/housing-market - Market trends and inventory data</li>
-    <li><strong>Anne Arundel County GIS:</strong> https://gis.aacounty.org/portal/apps/experiencebuilder/experience/?id=920e6994d1f24ecc9600cad618bcf2bb - Housing stock estimates</li>
-    <li><strong>Maryland Housing Authority:</strong> https://www.mhfa.org/ - State first-time buyer programs and assistance</li>
-    <li><strong>Baltimore Banner:</strong> https://www.thebanner.com/community/local-news/anne-arundel-county-rent-increase-real-estate-housing-K6NNTU4N4VCEDHJSRHI24LDWSE/ - Rent increase analysis</li>
-  </ul>
-  <p><strong>Last Updated:</strong> May 2026</p>
-  <p><strong>Verification Date:</strong> All data verified as of May 2026 using official real estate data sources and county planning documents.</p>
+<h2>Sources & Verification</h2>
+<p>All housing cost data and market information has been verified using authoritative sources:</p>
+<ul>
+<li><strong>Zillow:</strong> https://www.zillow.com/home-values/3152/anne-arundel-county-md/ - Current market data ($508,669 avg home value, +0.5% YoY)</li>
+<li><strong>U.S. Census Bureau:</strong> https://city-stats.com/maryland/counties/anne-arundel-county/housing/ - Median home value $450,300 (2023), rent $1,990</li>
+<li><strong>Realtor.com:</strong> https://www.realtor.com/local/market/maryland/anne-arundel-county - Median listing $530,000, sold $504,500</li>
+<li><strong>Redfin:</strong> https://www.redfin.com/county/1311/MD/Anne-Arundel-County/housing-market - Market trends and inventory data</li>
+<li><strong>Anne Arundel County GIS:</strong> https://gis.aacounty.org/portal/apps/experiencebuilder/experience/?id=920e6994d1f24ecc9600cad618bcf2bb - Housing stock estimates</li>
+<li><strong>Maryland Housing Authority:</strong> https://www.mhfa.org/ - State first-time buyer programs and assistance</li>
+<li><strong>Baltimore Banner:</strong> https://www.thebanner.com/community/local-news/anne-arundel-county-rent-increase-real-estate-housing-K6NNTU4N4VCEDHJSRHI24LDWSE/ - Rent increase analysis</li>
+</ul>
+<p><strong>Last Updated:</strong> May 2026</p>
+<p><strong>Verification Date:</strong> All data verified as of May 2026 using official real estate data sources and county planning documents.</p>
 </div>
 <!-- JAVASCRIPT CALCULATOR -->
 <script>
@@ -1179,24 +1191,17 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
   // Calculate mortgage payment (simplified)
   const interestRate = 0.065;
   const loanTerm = 30;
-  const loanAmount = monthlyPayment * 1000 * 0.7; // Estimate based on payment
+  const loanAmount = monthlyPayment * 1000 * 0.7;
   const downPaymentPercent = downPayment / (monthlyPayment * 1000);
   
-  // Simple mortgage calculator
   const monthlyRate = interestRate / 12;
   const numberOfPayments = loanTerm * 12;
   const mortgagePayment = loanAmount * (monthlyRate * Math.pow(1 + monthlyRate, numberOfPayments)) / (Math.pow(1 + monthlyRate, numberOfPayments) - 1);
   
-  // Property tax estimate (1.1% annually)
   const propertyTax = (loanAmount * 0.011) / 12;
-  
-  // Insurance estimate
   const insurance = 120;
-  
-  // Total monthly payment
   const totalPayment = mortgagePayment + propertyTax + insurance;
   
-  // Display results
   document.getElementById('result-town').textContent = monthlyPaymentText;
   document.getElementById('affordable-home').textContent = Math.round(mortgagePayment * 1000 / 0.7).toLocaleString();
   document.getElementById('affordable-home-high').textContent = Math.round(mortgagePayment * 1000 / 0.6).toLocaleString();
@@ -1212,7 +1217,6 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
   document.getElementById('area-avg-price').textContent = '$' + data.avgPrice.toLocaleString();
   document.getElementById('price-per-sqft').textContent = data.pricePerSqft;
   
-  // Market comparison
   if (loanAmount < data.avgPrice * 0.7) {
     document.getElementById('budget-vs-market').innerHTML = '<span style="color: green;">Below average</span> - Good entry-level option';
   } else if (loanAmount > data.avgPrice * 0.9) {
@@ -1221,7 +1225,6 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
     document.getElementById('budget-vs-market').innerHTML = 'At market average';
   }
   
-  // Recommendations
   const recommendations = [];
   if (housingType === 'buy') {
     if (loanAmount < data.avgPrice * 0.6) {
@@ -1229,8 +1232,8 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
     } else if (loanAmount > data.avgPrice * 0.8) {
       recommendations.push('<p>💡 Your budget can access <strong>premium waterfront properties</strong> in Annapolis, Arnold, or Edgewater.</p>');
     }
-    recommendations.push('<p>💡 Check <a href="https://annearundelguide.com/va-benefits-military-resources/">VA benefits</a> if eligible - may reduce or eliminate down payment requirements.</p>');
-    recommendations.push('<p>💡 Explore <a href="https://annearundelguide.com/budgeting-cost-living-guide/">first-time buyer programs</a> for down payment assistance.</p>');
+    recommendations.push('<p>💡 Check <a href="https://annearundelguide.com/topics/veterans-military-resources/">VA benefits</a> if eligible - may reduce or eliminate down payment requirements.</p>');
+    recommendations.push('<p>💡 Explore <a href="https://annearundelguide.com/topics/budgeting-cost-living/">first-time buyer programs</a> for down payment assistance.</p>');
   } else {
     if (monthlyPayment < data.avgRent) {
       recommendations.push('<p>💡 Your budget is below average rent - consider <strong>sharing housing</strong> or looking at <strong>Glen Burnie or Crofton</strong> for more options.</p>');
@@ -1242,8 +1245,6 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
   
   document.getElementById('recommendations').innerHTML = recommendations.join('');
   document.getElementById('calculator-results').style.display = 'block';
-  
-  // Scroll to results
   document.getElementById('calculator-results').scrollIntoView({ behavior: 'smooth' });
 });
 </script>
