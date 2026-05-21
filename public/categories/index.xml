@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://annearundelguide.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://annearundelguide.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Communities</title>
+      <link>https://annearundelguide.com/categories/communities/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://annearundelguide.com/categories/communities/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Budgeting</title>
@@ -40,7 +50,7 @@
     </item>
     
     <item>
-      <title>Getting-Started</title>
+      <title>Getting Started</title>
       <link>https://annearundelguide.com/categories/getting-started/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       

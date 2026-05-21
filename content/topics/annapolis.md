@@ -1,424 +1,349 @@
 ---
-title: "Annapolis, Maryland - Complete Local Guide"
-description: "Comprehensive guide to Annapolis, MD - Maryland's historic capital. Population, housing costs, schools, attractions, waterfront living, Naval Academy, dining, and local resources."
+title: "Annapolis, Maryland - America's Historic Capital"
+description: "Complete guide to Annapolis, Maryland - population 40,812 (2020 Census). Discover the historic U.S. Naval Academy, Maryland State House, maritime culture, waterfront dining, and vibrant downtown community."
 date: 2026-05-20
 draft: false
-slug: "/topics/annapolis/"
+slug: "/annapolis/"
 weight: 1
 ---
 
-# Annapolis, Maryland
-
-**Maryland's Historic Capital & County Seat**
-
-[![Downtown Annapolis waterfront](/images/annapolis-waterfront.jpg)](/images/annapolis-waterfront.jpg)
-
-Annapolis is the capital of Maryland and the county seat of Anne Arundel County. Located on the Chesapeake Bay at the mouth of the Severn River, this historic city serves as both a governmental center and a thriving coastal community known for its sailing culture, colonial architecture, and proximity to Washington, D.C. and Baltimore.
-
-[![Maryland State House](/images/maryland-state-house.jpg)](https://www.maryland.gov/sh/)
-
-## Quick Facts
-
-| Category | Information |
-|----------|-------------|
-| **Population** | 40,812 (2020 Census) |
-| **Area** | 8.11 sq mi (21.01 km²) |
-| **Founded** | 1649 |
-| **Incorporated** | 1708 |
-| **Elevation** | 43 ft (13 m) |
-| **ZIP Codes** | 21401-21405, 21409, 21411-21412 |
-| **Area Codes** | 410, 443, 667 |
-| **Mayor** | Jared Littmann (D) |
-
-**Coordinates:** [38°58′23″N 76°30′04″W](https://www.google.com/maps/search/?api=1&query=38.9736,-76.5011)
-
-## About Annapolis
-
-### History & Significance
-
-Annapolis has served as the capital of Maryland since 1695 and was a temporary national capital of the United States in 1783–1784. The city is steeped in American history:
-
-- **1783**: General George Washington resigned his commission as commander of the Continental Army at the Maryland State House
-- **1783**: The Treaty of Paris, ending the Revolutionary War, was ratified here
-- **1786**: The Annapolis Convention called for the Constitutional Convention
-- **1789**: Maryland became the seventh state to ratify the U.S. Constitution
-
-The city's historic district is one of the largest National Historic Landmark Districts in the United States, featuring over 1,000 historic buildings.
-
-**Learn more:** [Annapolis Historic Sites](https://www.visitannapolis.com/things-to-do/history-culture/historic-sites/) | [Maryland State House](https://www.maryland.gov/sh/)
-
-### Geography & Location
-
-Annapolis sits on the Chesapeake Bay's western shore, approximately:
-- 25 miles (40 km) south of Baltimore
-- 30 miles (50 km) east of Washington, D.C.
-- 15 miles (24 km) north of the Maryland coast
-
-The city's waterfront location makes it a premier destination for sailing, boating, and waterfront living.
-
-**Google Maps:** [View Annapolis Location](https://www.google.com/maps/place/Annapolis,+MD)
-
-## Demographics
-
-### Population Trends
-
-According to the U.S. Census Bureau:
-
-- **2020 Population:** 40,812 (6.3% increase from 2010)
-- **Population Density:** 5,663.4/sq mi (2,186.66/km²)
-- **Median Age:** ~32 years (young due to Naval Academy and colleges)
-
-**Source:** [U.S. Census Bureau QuickFacts](https://www.census.gov/quickfacts/annapoliscitymaryland)
-
-### Households & Income
-
-- **Median Household Income:** ~$93,000 (2020-2024 ACS)
-- **Owner-occupied Housing:** ~55%
-- **Renter-occupied Housing:** ~45%
-- **College-educated Adults (25+):** ~75% (among highest in nation)
-
-**Source:** [Census Bureau 2020-2024 ACS Data](https://www.census.gov/quickfacts/fact/table/annapoliscitymaryland/PST045224)
-
-## Housing Market
-
-### Current Market Conditions
-
-Annapolis housing is among the most expensive in Anne Arundel County due to waterfront access, historic charm, and proximity to D.C.
-
-**Median Home Prices (2025):**
-- **Single Family Homes:** $650,000 - $1,200,000+
-- **Condos/Townhomes:** $400,000 - $800,000
-- **Waterfront Properties:** $1,000,000 - $5,000,000+
-
-**Price per Square Foot:**
-- **Historic District:** $450-$700/sq ft
-- **Waterfront Areas:** $500-$900/sq ft
-- **Suburban Areas:** $300-$500/sq ft
-
-### Neighborhood Highlights
-
-#### **Downtown Annapolis**
-- **Character:** Historic urban core with walkable streets, shops, restaurants
-- **Housing:** Condos, townhomes, historic homes
-- **Median Price:** $750,000+
-- **Best For:** Professionals, empty nesters, waterfront lovers
-
-**Google Maps:** [Downtown Annapolis](https://www.google.com/maps/place/Downtown+Annapolis,+MD)
-
-#### **West Annapolis**
-- **Character:** Mix of historic farms and modern developments
-- **Housing:** Larger lots, single-family homes, some equestrian properties
-- **Median Price:** $600,000 - $900,000
-- **Best For:** Families, those seeking space
-
-**Google Maps:** [West Annapolis](https://www.google.com/maps/search/?api=1&query=West+Annapolis,+MD)
-
-#### **Eastport**
-- **Character:** Peninsula neighborhood with marina access, artistic community
-- **Housing:** Waterfront homes, condos, historic cottages
-- **Median Price:** $800,000 - $1,500,000+
-- **Best For:** Sailors, boaters, waterfront enthusiasts
-
-**Google Maps:** [Eastport, Annapolis](https://www.google.com/maps/place/Eastport,+Annapolis,+MD)
-
-#### **Knights Landing**
-- **Character:** Gated waterfront community with private marina
-- **Housing:** Luxury waterfront estates
-- **Median Price:** $2,000,000+
-- **Best For:** Luxury buyers, privacy seekers
-
-**Google Maps:** [Knights Landing](https://www.google.com/maps/search/?api=1&query=Knights+Landing,+Annapolis,+MD)
-
-### Housing Resources
-
-- **Anne Arundel County Housing:** [aacounty.org/housing](https://www.aacounty.org/services/housing)
-- **Historic District Guidelines:** [Historic Annapolis Commission](https://www.annapolis.gov/148/Historic-Preservation-Commission)
-- **Property Tax Info:** [AACounty Department of Real Estate Tax](https://www.aacounty.org/services/real-estate-tax)
-
-## Education
-
-### Colleges & Universities
-
-Annapolis is home to several prestigious educational institutions:
-
-#### **U.S. Naval Academy**
-- **Founded:** 1845
-- **Students:** ~4,400 midshipmen
-- **Program:** 4-year undergraduate education and commissioning program
-- **Location:** 1234 Gold Star Highway, Annapolis, MD 21402
-- **Website:** [www.usna.edu](https://www.usna.edu/)
-
-**Google Maps:** [U.S. Naval Academy](https://www.google.com/maps/dir//U.S.+Naval+Academy,+Annapolis,+MD)
-
-#### **St. John's College**
-- **Founded:** 1696
-- **Students:** ~600 undergraduates
-- **Program:** Unique great books liberal arts curriculum (no majors)
-- **Campuses:** Main (Annapolis) and Santa Fe campuses
-- **Website:** [www.sjc.edu](https://www.sjc.edu/)
-
-**Google Maps:** [St. John's College Annapolis](https://www.google.com/maps/dir//St.+John%27s+College,+Annapolis,+MD)
-
-### Public Schools (AACPS)
-
-Annapolis students attend **Anne Arundel County Public Schools (AACPS)**. There are no separate Annapolis city schools—students are zoned to county schools.
-
-**Elementary Schools:**
-- **East Riverdale Elementary:** 301 Ritchie Hwy, Annapolis, MD 21401
-- **Severna Park Elementary (part of Annapolis):** 1000 Severna Park Rd, Severna Park, MD 21146
-- **Tyndale Elementary:** 700 Tyndale Rd, Annapolis, MD 21401
-
-**Middle School:**
-- **East County Middle:** 355 Annapolis Hall Rd, Annapolis, MD 21401
-
-**High School:**
-- **Archbishop Spalding High School (Private):** 600 York Rd, Severn, MD 21144
-- **Severna Park High (part of Annapolis zone):** 400 College Ave, Severna Park, MD 21146
-
-**School Ratings:** Severna Park schools consistently rank in Maryland's top 10%
-
-**AACPS Information:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
-
-### Educational Statistics
-
-- **High School Graduation Rate:** 95%+
-- **College Enrollment:** 85%+ of graduates
-- **Advanced Placement Courses:** Available at all county high schools
-
-## Attractions & Activities
-
-### Historic Sites
-
-#### **Maryland State House**
-- **Built:** 1772
-- **Significance:** Oldest state capitol in continuous legislative use
-- **Address:** 100 State Circle, Annapolis, MD 21401
-- **Free Tours:** Daily, 9:30 AM - 4:30 PM
-- **Website:** [www.maryland.gov/sh](https://www.maryland.gov/sh/)
-
-**Google Maps:** [Maryland State House](https://www.google.com/maps/dir//Maryland+State+House,+Annapolis,+MD)
-
-#### **Banneker-Douglass-Tubman Museum**
-- **Focus:** African American history and culture
-- **Address:** 72 Calvert Street, Annapolis, MD 21401
-- **Hours:** Tuesday-Saturday, 10 AM - 5 PM
-- **Website:** [www.bdtmuseum.org](https://www.bdtmuseum.org/)
-
-**Google Maps:** [Banneker-Douglass-Tubman Museum](https://www.google.com/maps/dir//Banneker-Douglass-Tubman+Museum,+Annapolis,+MD)
-
-### Waterfront Activities
-
-Annapolis is known as "America's Sailing Capital" and offers exceptional waterfront activities:
-
-#### **Marinas & Docks**
-- **Brodie's Marina:** 400 West Street, Annapolis, MD 21401
-  - Full-service marina, boat repairs, fuel
-- **Severna Park Boat Landing:** 2301 Severn Avenue, Annapolis, MD 21401
-  - Public kayak launch, free parking
-- **Maryland Maritime Academy Marina:** 101 Western Avenue, Annapolis, MD 21401
-  - Sailing programs, boat charters
-
-#### **Sailing & Boating**
-- **Annap Sail Festival:** Annual spring event with historic ships
-- **Weekend Sail Races:** Regular community races
-- **Private Boat Clubs:** Several exclusive clubs (Annapolis Yacht Club, etc.)
-
-**Sailing Info:** [Annapolis Sailing Center](https://www.annapolissailing.com/)
-
-### Downtown Annapolis
-
-The historic downtown features:
-
-- **West Street:** Main commercial corridor with shops and restaurants
-- **Circle:** Historic square with farmers market (Sundays, May-October)
-- **Waterfront Park:** 25-acre park with harbor views
-
-**Downtown Directory:** [visitannapolis.com/downtown](https://www.visitannapolis.com/things-to-do/shopping-dining/)
-
-## Dining & Shopping
-
-### Restaurants
-
-Annapolis has a thriving dining scene with focus on Chesapeake Bay seafood:
-
-**Top Restaurants:**
-- **The Oyster House:** 244 West Street – Fresh oysters, waterfront seating
-- **Prentiss House:** 224 West Street – Fine dining, historic mansion
-- **City Zen:** 205 West Street – Asian-fusion, modern
-- **Blue Moon Café:** 127 West Street – American comfort food
-- **Brewer's Fox:** 303 West Street – Craft beer, gastropub
-
-**Waterfront Dining:** Many restaurants offer harbor views with crab feasts and seafood platters
-
-### Shopping
-
-**West Street Corridor:**
-- Local boutiques, art galleries, antique shops
-- Weekend farmers market (Sundays, 9 AM - 1 PM)
-
-**Holiday Shopping:** December events with holiday markets
-
-## Transportation
-
-### Getting Around
-
-**Driving:**
-- **I-95:** Access via MD-295 (Baltimore-Washington Parkway)
-- **US-50:** Direct route from Baltimore and Eastern Shore
-- **MD-3:** Connects to Severna Park and Glen Burnie
-
-**Parking:**
-- **Public Garages:** Multiple city garages ($2-3/hour, $10-15/day)
-- **Metered Street Parking:** $2/hour (enforced 9 AM - 6 PM)
-- **Free Lots:** Limited, mostly in residential areas
-
-### Public Transit
-
-**MTA Maryland Bus:**
-- **Route 4:** Annapolis to Baltimore (via BWI)
-- **Route 7:** Annapolis to Severna Park
-- **Route 28:** Annapolis to Glen Burnie
-
-**Schedule Info:** [mtamaryland.com/routes/annapolis](https://www.mtamaryland.com/routes-and-schedules/)
-
-### MARC Train Access
-
-**BWI Rail Station:** 7001 BWI Rail Road, Baltimore, MD 21240
-- **Distance from Annapolis:** 15 miles (20-25 minute drive)
-- **MARC Penn Line:** Connects to Union Station, Washington D.C. (45-50 min)
-- **Parking:** $8/day, fills early on weekdays
-- **Schedule:** [marc.mta.info](https://www.marc.mta.info/)
-
-**Google Maps:** [BWI MARC Station to Annapolis](https://www.google.com/maps/dir//BWI+MARC+Station,+Baltimore,+MD+to+Annapolis,+MD)
-
-### Walking & Biking
-
-- **Walkable Downtown:** Most attractions within walking distance
-- **Bike Trails:** Chesapeake Bay Trail, Severn River shoreline paths
-- **Bike Share:** Limited program availability
-
-## Healthcare
-
-### Hospitals & Medical Centers
-
-#### **Anne Arundel Medical Center**
-- **Address:** 2000 International Drive, Annapolis, MD 21401
-- **Services:** Full-service hospital, emergency room, specialized care
-- **Phone:** (410) 586-6000
-- **Website:** [www.aamedicalcenter.org](https://www.aamedicalcenter.org/)
-
-**Google Maps:** [Anne Arundel Medical Center](https://www.google.com/maps/dir//Anne+Arundel+Medical+Center,+Annapolis,+MD)
-
-#### **CVPH Annapolis Campus**
-- **Address:** 100 Hospital Drive, Annapolis, MD 21401
-- **Services:** Primary care, specialists, urgent care
-- **Website:** [www.cvph.org](https://www.cvph.org/)
-
-### Emergency Services
-
-- **Emergency:** 911
-- **Non-Emergency Police:** (410) 268-2222
-- **Fire Department:** (410) 263-2222
-
-## Government & Services
-
-### City Hall
-
-**Annapolis City Hall:**
-- **Address:** 100 City Hall Circle, Annapolis, MD 21401
-- **Hours:** Monday-Friday, 8:30 AM - 5:00 PM
-- **Phone:** (410) 268-2222
-- **Website:** [www.annapolis.gov](https://www.annapolis.gov/)
-
-**Google Maps:** [Annapolis City Hall](https://www.google.com/maps/dir//Annapolis+City+Hall,+Annapolis,+MD)
-
-### City Services
-
-- **Police:** 24/7 patrols, community programs
-- **Fire/EMS:** 4 stations serving the city
-- **Public Works:** Street maintenance, sanitation
-- **Permits:** Building, business, event permits
-
-**Permit Info:** [annapolis.gov/services](https://www.annapolis.gov/142/City-Services)
-
-## Living in Annapolis
-
-### Cost of Living Overview
-
-Annapolis has a higher cost of living than national average:
-
-- **Housing:** 45% above national average
-- **Utilities:** 5% above national average
-- **Groceries:** 10% above national average
-- **Transportation:** 15% above national average
-- **Healthcare:** 5% above national average
-
-**Detailed Breakdown:** [AACounty Cost of Living](/topics/budgeting-cost-living/)
-
-### Quality of Life
-
-**Pros:**
-- Historic charm and walkable downtown
-- Excellent waterfront access and sailing
-- Strong community events and festivals
-- Proximity to D.C. and Baltimore
-- High-rated schools
-- Low crime rate
-
-**Considerations:**
-- High housing costs
-- Summer tourism crowds
-- Limited affordable housing options
-- Parking challenges in downtown
-
-### Community Events
-
-**Annual Events:**
-- **Annapolis Sail Festival:** April/May
-- **Fourth of July Celebration:** Harbor fireworks
-- **Christmas Ship Festival:** December
-- **Farmers Market:** Sundays, May-October, City Circle
-
-**Event Calendar:** [visitannapolis.com/events](https://www.visitannapolis.com/things-to-do/events/)
-
-## Contact & Resources
-
-### Essential Contacts
-
-**City Information:**
-- **Phone:** (410) 268-2222
-- **Address:** 100 City Hall Circle, Annapolis, MD 21401
-- **Website:** [www.annapolis.gov](https://www.annapolis.gov/)
-
-**Tourism & Visitor Information:**
-- **Visit Annapolis:** [www.visitannapolis.com](https://www.visitannapolis.com/)
-- **Phone:** (410) 263-1900
-
-**Chamber of Commerce:**
-- **Annapolis Anne Arundel Chamber:** [www.aaachamber.com](https://www.aaachamber.com/)
-
-### Useful Links
-
-- [Anne Arundel County Government](https://www.aacounty.org/)
-- [Maryland Tourism](https://www.marylandtourism.com/)
-- [Annapolis Historic Sites](https://www.visitannapolis.com/things-to-do/history-culture/historic-sites/)
-- [Maryland State House](https://www.maryland.gov/sh/)
-
----
-
-## Verified Sources & References
-
-1. **U.S. Census Bureau QuickFacts:** [census.gov/quickfacts/annapoliscitymaryland](https://www.census.gov/quickfacts/annapoliscitymaryland)
-2. **Maryland State House:** [maryland.gov/sh](https://www.maryland.gov/sh/)
-3. **Annapolis City Government:** [annapolis.gov](https://www.annapolis.gov/)
-4. **Visit Annapolis:** [visitannapolis.com](https://www.visitannapolis.com/)
-5. **U.S. Naval Academy:** [usna.edu](https://www.usna.edu/)
-6. **St. John's College:** [sjc.edu](https://www.sjc.edu/)
-7. **Anne Arundel County Public Schools:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
-8. **Anne Arundel Medical Center:** [aamedicalcenter.org](https://www.aamedicalcenter.org/)
-9. **MTA Maryland:** [mtamaryland.com](https://www.mtamaryland.com/)
-10. **Baltimore-Washington International Airport:** [bwiairport.com](https://www.bwiairport.com/)
-
----
-
-*This guide was last updated: May 2026. All information verified from official sources. Contact us at [contact email] with corrections or updates.*
+<!-- HERO SECTION -->
+{{< box type="info" color="primary" >}}
+<div class="hero-section">
+  <div class="hero-content">
+    <h1 class="hero-title">Annapolis, Maryland</h1>
+    <p class="hero-subtitle">America's Historic Capital</p>
+    <p class="hero-description">
+      Population: 40,812 (2020 Census). Experience the charm of Maryland's capital city—home to the U.S. Naval Academy, historic Maryland State House, world-class sailing, and a walkable downtown that combines maritime heritage with modern dining and culture.
+    </p>
+    <div class="hero-cta">
+      {{< button href="#about" >}}About Annapolis{{< /button >}}
+      {{< button href="#neighborhoods" variant="secondary" >}}Explore Neighborhoods{{< /button >}}
+    </div>
+  </div>
+</div>
+{{< /box >}}
+
+<!-- ABOUT ANNAPOLIS -->
+<div id="about" class="about-section">
+  <div class="container">
+    <h2 class="section-title">About Annapolis</h2>
+    
+    <div class="about-content">
+      <div class="about-text">
+        <h3>History & Heritage</h3>
+        <p>Annapolis serves as Maryland's capital city and is one of America's most historically significant communities. The city was designated Maryland's capital in 1695 and served as the first capital of the United States from 1783 to 1784, where the Treaty of Paris was ratified and George Washington resigned his commission as Commander-in-Chief.</p>
+        
+        <p>The city's educational heritage dates back to 1696 with the founding of King William's School, which became St. John's College in 1784—making it the third oldest institution of higher education in the United States, after Harvard and William & Mary.</p>
+        
+        <h3>Geography & Location</h3>
+        <p>Annapolis sits on the Chesapeake Bay at the mouth of the Severn River, approximately 25 miles south of Baltimore and 30 miles east of Washington, D.C. This strategic location has made it a center for maritime trade, naval education, and water sports for centuries.</p>
+        
+        <p>The city is part of the Baltimore-Washington metropolitan area and benefits from proximity to two major economic centers while maintaining its distinctive small-city character.</p>
+        
+        <h3>Demographics</h3>
+        <p>According to the 2020 U.S. Census, Annapolis has a population of 40,812 residents, representing a 6.3% increase from 2010. The city features a diverse racial and ethnic population with a well-educated community—significantly higher than national averages for educational attainment.</p>
+        
+        <div class="stat-box">
+          <h4>Quick Facts</h4>
+          <ul>
+            <li><strong>Population (2020):</strong> 40,812</li>
+            <li><strong>Growth (2010-2020):</strong> +6.3%</li>
+            <li><strong>Elevation:</strong> 10 feet above sea level</li>
+            <li><strong>Area:</strong> 5.06 square miles</li>
+            <li><strong>Municipal Type:</strong> City</li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="about-image">
+        {{< figure src="/images/annapolis-waterfront.jpg" alt="Annapolis waterfront and harbor" >}}
+        <p class="image-caption">Annapolis waterfront with historic downtown and harbor</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- KEY ATTRACTIONS -->
+<div id="attractions" class="attractions-section">
+  <div class="container">
+    <h2 class="section-title">Top Attractions</h2>
+    <p class="section-description">Discover Annapolis' most significant historical sites, cultural attractions, and waterfront experiences.</p>
+    
+    <div class="attractions-grid">
+      <!-- U.S. Naval Academy -->
+      <div class="attraction-card">
+        <div class="attraction-image">
+          {{< figure src="/images/naval-academy-main.jpg" alt="U.S. Naval Academy" >}}
+        </div>
+        <div class="attraction-content">
+          <h3>U.S. Naval Academy</h3>
+          <p>Founded in 1845, the U.S. Naval Academy is America's premier military service academy, training future leaders for the U.S. Navy and Marine Corps. The 544-acre campus features historic buildings, museums, and waterfront locations.</p>
+          <ul class="attraction-details">
+            <li><strong>Founded:</strong> 1845</li>
+            <li><strong>Location:</strong> 150 Blake Rd, Annapolis, MD 21402</li>
+            <li><strong>Tours:</strong> Daily guided tours available</li>
+            <li><strong>Admission:</strong> Free</li>
+          </ul>
+          <p class="attraction-info"><strong>Note:</strong> Visitors must register for tours in advance. Check official website for current requirements.</p>
+          <a href="https://www.google.com/maps/place/U.S.+Naval+Academy,+150+Blake+Rd,+Annapolis,+MD+21402" target="_blank" rel="noopener" class="attraction-link">📍 View on Google Maps</a>
+        </div>
+      </div>
+      
+      <!-- Maryland State House -->
+      <div class="attraction-card">
+        <div class="attraction-image">
+          {{< figure src="/images/state-house.jpg" alt="Maryland State House" >}}
+        </div>
+        <div class="attraction-content">
+          <h3>Maryland State House</h3>
+          <p>The Maryland State House is the oldest state capitol building in continuous legislative use in the United States. Built in 1772, it houses the Maryland General Assembly and features distinctive architecture including the largest dome of any state capitol building.</p>
+          <ul class="attraction-details">
+            <li><strong>Built:</strong> 1772</li>
+            <li><strong>Location:</strong> 100 State Circle, Annapolis, MD 21401</li>
+            <li><strong>Tours:</strong> Free self-guided and guided tours</li>
+            <li><strong>Hours:</strong> Monday-Friday, 9:00 AM - 5:00 PM</li>
+          </ul>
+          <a href="https://www.google.com/maps/place/Maryland+State+House,+100+State+Cir,+Annapolis,+MD+21401" target="_blank" rel="noopener" class="attraction-link">📍 View on Google Maps</a>
+        </div>
+      </div>
+      
+      <!-- Historic Downtown -->
+      <div class="attraction-card">
+        <div class="attraction-image">
+          {{< figure src="/images/maryland-avenue.jpg" alt="Maryland Avenue historic district" >}}
+        </div>
+        <div class="attraction-content">
+          <h3>Historic Downtown & Maryland Avenue</h3>
+          <p>Annapolis' walkable downtown features preserved colonial architecture, boutique shopping, upscale dining, galleries, and historic sites. Maryland Avenue, the main shopping district, offers everything from antique stores to modern boutiques and restaurants.</p>
+          <ul class="attraction-details">
+            <li><strong>Area:</strong> Historic District, Maryland Avenue</li>
+            <li><strong>Features:</strong> Shopping, dining, galleries, historic sites</li>
+            <li><strong>Parking:</strong> Multiple parking garages and street parking</li>
+            <li><strong>Best Time to Visit:</strong> Weekdays for quieter experience</li>
+          </ul>
+          <a href="https://www.google.com/maps/search/Maryland+Avenue,+Annapolis,+MD" target="_blank" rel="noopener" class="attraction-link">📍 View on Google Maps</a>
+        </div>
+      </div>
+      
+      <!-- Annapolis Waterfront -->
+      <div class="attraction-card">
+        <div class="attraction-image">
+          {{< figure src="/images/annapolis-harbor.jpg" alt="Annapolis Harbor" >}}
+        </div>
+        <div class="attraction-content">
+          <h3>Annapolis Waterfront & Harbor</h3>
+          <p>Known as "America's Sailing Capital," Annapolis waterfront features marinas, seafood restaurants, harbor cruises, and maritime museums. The city hosts the famous Annapolis to Bermuda Race and numerous sailing events throughout the year.</p>
+          <ul class="attraction-details">
+            <li><strong>Features:</strong> Marinas, restaurants, cruise operators</li>
+            <li><strong>Activities:</strong> Sailing, harbor cruises, seafood dining</li>
+            <li><strong>Annual Events:</strong> Sailing races, boat shows</li>
+            <li><strong>Best Season:</strong> May through October</li>
+          </ul>
+          <a href="https://www.google.com/maps/search/Annapolis+Waterfront,+Annapolis,+MD" target="_blank" rel="noopener" class="attraction-link">📍 View on Google Maps</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- NEIGHBORHOODS -->
+<div id="neighborhoods" class="neighborhoods-section">
+  <div class="container">
+    <h2 class="section-title">Annapolis Neighborhoods</h2>
+    <p class="section-description">Explore the diverse residential and commercial neighborhoods that make up Annapolis.</p>
+    
+    <div class="neighborhoods-grid">
+      <!-- Historic District -->
+      <div class="neighborhood-card">
+        <h3>Historic District</h3>
+        <p><strong>Character:</strong> Colonial architecture, walkable streets, waterfront access</p>
+        <p>The heart of Annapolis, featuring preserved 17th-19th century buildings, tree-lined streets, and proximity to the waterfront. Popular with professionals, retirees, and students.</p>
+        <ul>
+          <li><strong>Architectural Style:</strong> Colonial, Georgian, Federal</li>
+          <li><strong>Walkability:</strong> High</li>
+          <li><strong>Distance to Downtown:</strong> Walking distance</li>
+        </ul>
+      </div>
+      
+      <!-- Eastport -->
+      <div class="neighborhood-card">
+        <h3>Eastport</h3>
+        <p><strong>Character:</strong> Waterfront living, yacht clubs, maritime atmosphere</p>
+        <p>Peninsula community with stunning harbor views, private docks, yacht clubs, and a relaxed maritime lifestyle. Popular with sailors and waterfront enthusiasts.</p>
+        <ul>
+          <li><strong>Features:</strong> Private docks, yacht clubs, harbor access</li>
+          <li><strong>Atmosphere:</strong> Relaxed, maritime</li>
+          <li><strong>Best For:</strong> Sailors, waterfront lovers</li>
+        </ul>
+      </div>
+      
+      <!-- West Annapolis -->
+      <div class="neighborhood-card">
+        <h3>West Annapolis</h3>
+        <p><strong>Character:</strong> Historic estates, waterfront properties, larger lots</p>
+        <p>Luxury waterfront neighborhood with historic estates, large properties, and panoramic Chesapeake Bay views. One of the most prestigious areas in Maryland.</p>
+        <ul>
+          <li><strong>Features:</strong> Waterfront estates, large lots</li>
+          <li><strong>Property Type:</strong> Luxury homes</li>
+          <li><strong>Location:</strong> West side of Severn River</li>
+        </ul>
+      </div>
+      
+      <!-- Eastport Heights -->
+      <div class="neighborhood-card">
+        <h3>Eastport Heights</h3>
+        <p><strong>Character:</strong> Residential, family-friendly, good schools</p>
+        <p>Established residential neighborhood with tree-lined streets, good access to downtown, and highly-rated schools. Popular with families and young professionals.</p>
+        <ul>
+          <li><strong>Features:</strong> Single-family homes, parks</li>
+          <li><strong>Schools:</strong> AACPS rated schools</li>
+          <li><strong>Distance to Downtown:</strong> 10-15 minute drive</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- SCHOOLS -->
+<div id="schools" class="schools-section">
+  <div class="container">
+    <h2 class="section-title">Schools & Education</h2>
+    <p class="section-description">Educational opportunities for Annapolis residents.</p>
+    
+    <div class="schools-content">
+      <div class="schools-text">
+        <h3>Public Schools</h3>
+        <p>Annapolis residents attend Anne Arundel County Public Schools (AACPS), one of Maryland's largest school systems serving over 78,000 students. The district operates numerous elementary, middle, and high schools throughout the county.</p>
+        
+        <h4>Annapolis Area Schools</h4>
+        <ul>
+          <li><strong>Elementary:</strong> Multiple AACPS elementary schools serve Annapolis</li>
+          <li><strong>Middle School:</strong> Severn School or George S. Smith Middle School</li>
+          <li><strong>High School:</strong> Annapolis High School (class of 2026 enrollment: ~450 students)</li>
+        </ul>
+        
+        <h3>Higher Education</h3>
+        <ul>
+          <li><strong>St. John's College:</strong> Founded 1696, unique liberal arts curriculum, two campuses (Annapolis and Santa Fe)</li>
+          <li><strong>U.S. Naval Academy:</strong> Federal service academy, undergraduate education for naval officers</li>
+        </ul>
+        
+        <div class="schools-note">
+          <p><strong>Note:</strong> School assignments may change. For the most current information, visit <a href="https://www.aacps.org" target="_blank" rel="noopener">AACPS official website</a> or contact the district directly.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- LIVING IN ANNAPOLIS -->
+<div id="living" class="living-section">
+  <div class="container">
+    <h2 class="section-title">Living in Annapolis</h2>
+    
+    <div class="living-grid">
+      <div class="living-card">
+        <h3>Cost of Living</h3>
+        <p>Annapolis has a higher cost of living compared to national averages, driven primarily by housing costs. As Maryland's capital and a desirable waterfront city, real estate prices reflect the city's historical significance, maritime location, and proximity to Baltimore and Washington, D.C.</p>
+        <ul>
+          <li><strong>Housing:</strong> Above national average</li>
+          <li><strong>Utilities:</strong> Near national average</li>
+          <li><strong>Transportation:</strong> Below national average</li>
+        </ul>
+      </div>
+      
+      <div class="living-card">
+        <h3>Transportation</h3>
+        <p>Annapolis offers multiple commuting options with convenient access to major employment centers. The city is served by MTA Maryland bus routes, with connections to Baltimore, Washington, D.C., and throughout Anne Arundel County.</p>
+        <ul>
+          <li><strong>Driving:</strong> MD-450, MD-284, US-50</li>
+          <li><strong>Public Transit:</strong> MTA bus routes</li>
+          <li><strong>Commuting to Baltimore:</strong> ~45 minutes via I-95</li>
+          <li><strong>Commuting to Washington DC:</strong> ~60-75 minutes via I-95</li>
+        </ul>
+      </div>
+      
+      <div class="living-card">
+        <h3>Recreation & Activities</h3>
+        <p>Annapolis residents enjoy extensive waterfront recreation, including sailing, kayaking, fishing, and boating. The city maintains several parks, marinas, and waterfront access points throughout the community.</p>
+        <ul>
+          <li><strong>Maritime Activities:</strong> Sailing, boating, kayaking</li>
+          <li><strong>Parks:</strong> City parks and waterfront access</li>
+          <li><strong>Dining:</strong> World-class seafood and restaurants</li>
+          <li><strong>Cultural:</strong> Theater, music, historic sites</li>
+        </ul>
+      </div>
+      
+      <div class="living-card">
+        <h3>Healthcare</h3>
+        <p>Annapolis and surrounding Anne Arundel County offer comprehensive healthcare services, including nearby hospital facilities in Annapolis and Glen Burnie.</p>
+        <ul>
+          <li><strong>Nearby Hospitals:</strong> Anne Arundel Medical Center (Glen Burnie)</li>
+          <li><strong>Emergency Services:</strong> 24/7 emergency care available</li>
+          <li><strong>Specialists:</strong> Multiple medical specialists in county</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- EVENTS -->
+<div id="events" class="events-section">
+  <div class="container">
+    <h2 class="section-title">Events & Festivals</h2>
+    <p class="section-description">Annual events and festivals throughout Annapolis.</p>
+    
+    <div class="events-grid">
+      <div class="event-card">
+        <h3>Annapolis Boat Show</h3>
+        <p><strong>When:</strong> March annually</p>
+        <p>One of the largest boat shows in the United States, featuring hundreds of boats, marine equipment, and maritime activities.</p>
+        <a href="https://www.visitannapolis.com" target="_blank" rel="noopener" class="event-link">Visit Annapolis for Details</a>
+      </div>
+      
+      <div class="event-card">
+        <h3>Annapolis Jazz Festival</h3>
+        <p><strong>When:</strong> May annually</p>
+        <p>Annual jazz festival featuring national and international artists performing on the waterfront.</p>
+        <a href="https://www.visitannapolis.com" target="_blank" rel="noopener" class="event-link">Visit Annapolis for Details</a>
+      </div>
+      
+      <div class="event-card">
+        <h3>Sailboat Races</h3>
+        <p><strong>When:</strong> Spring through Fall</p>
+        <p>Annapolis hosts numerous sailing events including the famous Annapolis to Bermuda Race and local regattas.</p>
+        <a href="https://www.visitannapolis.com" target="_blank" rel="noopener" class="event-link">Visit Annapolis for Details</a>
+      </div>
+    </div>
+    
+    <p class="events-note">
+      For the complete calendar of events, visit <a href="https://www.visitannapolis.com" target="_blank" rel="noopener">Visit Annapolis</a> or <a href="https://www.annapolis.gov" target="_blank" rel="noopener">Annapolis Official Website</a>.
+    </p>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="cta-section">
+  <div class="container">
+    <h2>Experience Annapolis</h2>
+    <p>From historic landmarks to waterfront living, discover why Annapolis is one of America's most cherished coastal communities.</p>
+    {{< button href="/topics/crofton/" >}}Explore Other Cities{{< /button >}}
+    {{< button href="/topics/settling-in-guide/" variant="secondary" >}}New to the Area? Read Guide{{< /button >}}
+  </div>
+</div>
+
+<!-- SOURCES -->
+<section class="sources-section">
+  <div class="container">
+    <h2>Authoritative Sources</h2>
+    <ul>
+      <li><strong>Annapolis Official Website:</strong> History, demographics, city services — <a href="https://www.annapolis.gov" target="_blank" rel="noopener">annapolis.gov</a></li>
+      <li><strong>U.S. Census Bureau:</strong> Population data — <a href="https://www.census.gov/quickfacts/fact/table/annearundelcountymaryland/POP060210" target="_blank" rel="noopener">census.gov/quickfacts/annearundelcountymaryland</a></li>
+      <li><strong>Maryland State Archives:</strong> Historical chronology — <a href="https://msa.maryland.gov/msa/mdmanual/01glance/html/pop.html" target="_blank" rel="noopener">msa.maryland.gov</a></li>
+      <li><strong>Annapolis Tourism:</strong> Events, attractions, dining — <a href="https://www.visitannapolis.com" target="_blank" rel="noopener">visitannapolis.com</a></li>
+      <li><strong>U.S. Naval Academy:</strong> Official information — <a href="https://www.usna.edu" target="_blank" rel="noopener">usna.edu</a></li>
+      <li><strong>Google Maps:</strong> Location data — <a href="https://www.google.com/maps" target="_blank" rel="noopener">google.com/maps</a></li>
+    </ul>
+  </div>
+</section>
