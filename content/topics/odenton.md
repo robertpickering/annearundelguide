@@ -3,7 +3,7 @@ title: "Odenton, Maryland - Complete Local Guide"
 description: "Comprehensive guide to Odenton, MD - family-friendly community near Fort Meade. Population, schools, housing, MARC train access, Fort Meade resources, and local amenities."
 date: 2026-05-20
 draft: false
-slug: "/topics/odenton/"
+slug: "odenton/"
 weight: 2
 ---
 

@@ -3,7 +3,7 @@ title: "Anne Arundel County Cost of Living Guide"
 description: "Complete cost of living guide for Anne Arundel County - housing, utilities, groceries, taxes, and budget planning."
 date: 2026-05-20
 draft: false
-slug: "/topics/budgeting-cost-living/"
+slug: "budgeting-cost-living/"
 weight: 5
 ---
 

@@ -3,7 +3,7 @@ title: "Anne Arundel County Public Schools (AACPS) Complete Guide"
 description: "Complete guide to Anne Arundel County Public Schools - enrollment, schools by area, programs, and educational resources."
 date: 2026-05-20
 draft: false
-slug: "/topics/schools-education-guide/"
+slug: "schools-education-guide/"
 weight: 2
 ---
 

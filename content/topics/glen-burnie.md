@@ -3,7 +3,7 @@ title: "Glen Burnie, Maryland - Complete Local Guide"
 description: "Comprehensive guide to Glen Burnie, MD - Anne Arundel's largest CDP. Population, schools, housing, I-95 access, shopping, and local amenities."
 date: 2026-05-20
 draft: false
-slug: "/topics/glen-burnie/"
+slug: "glen-burnie/"
 weight: 3
 ---
 

@@ -3,7 +3,7 @@ title: "Gambrills, Maryland - Complete Local Guide"
 description: "Comprehensive guide to Gambrills, MD - commercial hub of South County. Population, shopping, I-95 access, hotels, and local amenities."
 date: 2026-05-20
 draft: false
-slug: "/topics/gambrills/"
+slug: "gambrills/"
 weight: 9
 ---
 

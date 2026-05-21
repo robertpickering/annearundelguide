@@ -3,7 +3,7 @@ title: "Anne Arundel County Veterans & Military Resources Guide"
 description: "Complete guide to veterans and military resources in Anne Arundel County - benefits, healthcare, employment, and support services."
 date: 2026-05-20
 draft: false
-slug: "/topics/veterans-military-resources-guide/"
+slug: "veterans-military-resources-guide/"
 weight: 7
 ---
 

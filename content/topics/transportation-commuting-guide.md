@@ -3,7 +3,7 @@ title: "Anne Arundel County Transportation & Commuting Guide"
 description: "Complete guide to transportation and commuting in Anne Arundel County - highways, public transit, biking, parking, and commute routes."
 date: 2026-05-20
 draft: false
-slug: "/topics/transportation-commuting-guide/"
+slug: "transportation-commuting-guide/"
 weight: 4
 ---
 

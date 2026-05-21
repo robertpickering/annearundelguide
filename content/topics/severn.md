@@ -3,7 +3,7 @@ title: "Severn, Maryland - Complete Local Guide"
 description: "Comprehensive guide to Severn, MD - South County community with BWI Airport, Severn River access, and residential neighborhoods."
 date: 2026-05-20
 draft: false
-slug: "/topics/severn/"
+slug: "severn/"
 weight: 10
 ---
 

@@ -3,7 +3,7 @@ title: "Pasadena, Maryland - Complete Local Guide"
 description: "Comprehensive guide to Pasadena, MD - waterfront Chesapeake Bay community. Population, schools, waterfront living, boating, and lifestyle amenities."
 date: 2026-05-20
 draft: false
-slug: "/topics/pasadena/"
+slug: "/pasadena/"
 weight: 4
 ---
 

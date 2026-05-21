@@ -3,7 +3,7 @@ title: "Severna Park, Maryland - Complete Local Guide"
 description: "Comprehensive guide to Severna Park, MD - home to Maryland's top-rated schools. Population, housing, Severna Park High School, community amenities, and lifestyle."
 date: 2026-05-20
 draft: false
-slug: "/topics/severna-park/"
+slug: "severna-park/"
 weight: 5
 ---
 

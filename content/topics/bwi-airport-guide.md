@@ -3,7 +3,7 @@ title: "BWI Airport Complete Guide"
 description: "Complete guide to BWI Thurgood Marshall Airport - terminals, airlines, parking, dining, and services."
 date: 2026-05-20
 draft: false
-slug: "/topics/bwi-airport-guide/"
+slug: "bwi-airport-guide/"
 weight: 6
 ---
 

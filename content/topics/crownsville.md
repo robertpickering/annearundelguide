@@ -3,7 +3,7 @@ title: "Crownsville, Maryland - Complete Local Guide"
 description: "Comprehensive guide to Crownsville, MD - rural South County community. Population, waterfront living, historic charm, and local amenities."
 date: 2026-05-20
 draft: false
-slug: "/topics/crownsville/"
+slug: "crownsville/"
 weight: 7
 ---
 

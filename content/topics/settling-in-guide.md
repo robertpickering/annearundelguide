@@ -3,7 +3,7 @@ title: "Anne Arundel County Settling In Guide - First 30 Days"
 description: "Complete first 30 days checklist for new Anne Arundel County residents. Move-in tasks, essential services, school enrollment, utilities, and local resources."
 date: 2026-05-20
 draft: false
-slug: "/topics/settling-in-guide/"
+slug: "settling-in-guide/"
 weight: 1
 ---
 

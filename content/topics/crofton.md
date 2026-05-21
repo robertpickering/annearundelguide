@@ -3,7 +3,7 @@ title: "Crofton, Maryland - Complete Local Guide"
 description: "Comprehensive guide to Crofton, MD - South Anne Arundel's largest community. Population, schools, shopping, waterfront, and lifestyle amenities."
 date: 2026-05-20
 draft: false
-slug: "/topics/crofton/"
+slug: "crofton/"
 weight: 6
 ---
 

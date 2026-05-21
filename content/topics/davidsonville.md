@@ -3,7 +3,7 @@ title: "Davidsonville, Maryland - Complete Local Guide"
 description: "Comprehensive guide to Davidsonville, MD - historic waterfront Chesapeake Bay community. Population, historic charm, waterfront living, and local amenities."
 date: 2026-05-20
 draft: false
-slug: "/topics/davidsonville/"
+slug: "davidsonville/"
 weight: 8
 ---
 
