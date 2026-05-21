@@ -8,7 +8,7 @@ weight: 1
 ---
 
 <!-- HERO SECTION -->
-{{< box type="info" color="primary" >}}
+<div class="box alert alert-info-primary">
 <div class="hero-section">
   <div class="hero-content">
     <h1 class="hero-title">Annapolis, Maryland</h1>
@@ -22,7 +22,7 @@ weight: 1
     </div>
   </div>
 </div>
-{{< /box >}}
+</div>
 
 <!-- ABOUT ANNAPOLIS -->
 <div id="about" class="about-section">
