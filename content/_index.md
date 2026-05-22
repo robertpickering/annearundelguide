@@ -197,8 +197,8 @@ weight: 1
     Your essential first-month checklist: vehicle registration, utilities setup, healthcare enrollment, and building your local support network.
 </p>
 <div class="flex flex-wrap gap-2">
-<span class="px-2 py-1 bg-primary-50 text-primary-700 text-xs rounded-full">New Residents</span>
-<span class="px-2 py-1 bg-primary-50 text-primary-700 text-xs rounded-full">Checklist</span>
+<a href="/topics/new-residents/" class="inline-flex items-center justify-center px-2 py-1 bg-primary-50 text-primary-700 text-xs rounded-full hover:bg-primary-600 hover:text-primary-800 transition-colors">New Residents</a>
+<a href="/topics/settling-in-checklist/" class="inline-flex items-center justify-center px-2 py-1 bg-primary-50 text-primary-700 text-xs rounded-full hover:bg-primary-600 hover:text-primary-800 transition-colors">Checklist</a>
 </div>
 </div>
 
