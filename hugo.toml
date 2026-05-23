@@ -1,11 +1,7 @@
 baseURL = 'https://annearundelguide.com/'
 languageCode = 'en-us'
 title = 'Anne Arundel County Guide'
-theme = 'anne-arundel'
-
-[module]
-  [[module.imports]]
-    path = 'anne-arundel'
+theme = 'blowfish'
 
 [params]
   colorScheme = "anne-arundel"
