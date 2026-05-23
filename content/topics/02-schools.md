@@ -21,7 +21,7 @@ weight: 2
 **Anne Arundel County Public Schools** serves approximately 55,000+ students across 80+ schools. As one of Maryland's largest and highest-performing districts, AACPS offers diverse educational options for students from kindergarten through 12th grade.
 
 **Key District Facts:**
-- **Superintendent:** Dr. Denise A. Nelson
+- **Superintendent:** Dr. Mark T. Bedell (began term July 1, 2022)
 - **Total Students:** ~55,000+
 - **Total Schools:** 80+ (19 high schools, 13 middle schools, 40+ elementary schools, specialty schools)
 - **Teacher-Student Ratio:** Approximately 1:16
