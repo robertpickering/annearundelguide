@@ -20,8 +20,8 @@ weight: 1
       in Crofton and Severna Park, explore the complete guide to Anne Arundel County.
     </p>
     <div class="hero-cta">
-      {{< button href="#top-cities" >}}Explore Cities{{< /button >}}
-      {{< button href="#featured-guides" variant="secondary" >}}View Guides{{< /button >}}
+      <a href="#top-cities" class="btn">Explore Cities</a>
+      <a href="#featured-guides" class="btn btn-secondary">View Guides</a>
     </div>
   </div>
 </div>
@@ -67,7 +67,7 @@ weight: 1
       <!-- Annapolis Card -->
       <div class="city-card">
         <div class="city-image">
-          {{< figure src="/images/annapolis-hero.jpg" alt="Annapolis waterfront" >}}
+          <img src="/images/annapolis-hero.jpg" alt="Annapolis waterfront" class="img-fluid"></div>
         </div>
         <div class="city-content">
           <h3><a href="/topics/annapolis/">Annapolis</a></h3>
@@ -83,7 +83,7 @@ weight: 1
       <!-- Severna Park Card -->
       <div class="city-card">
         <div class="city-image">
-          {{< figure src="/images/severna-park-hero.jpg" alt="Severna Park" >}}
+          <img src="/images/severna-park-hero.jpg" alt="Severna Park" class="img-fluid"></div>
         </div>
         <div class="city-content">
           <h3><a href="/topics/severna-park/">Severna Park</a></h3>
@@ -99,7 +99,7 @@ weight: 1
       <!-- Crofton Card -->
       <div class="city-card">
         <div class="city-image">
-          {{< figure src="/images/crofton-hero.jpg" alt="Crofton community" >}}
+          <img src="/images/crofton-hero.jpg" alt="Crofton community" class="img-fluid"></div>
         </div>
         <div class="city-content">
           <h3><a href="/topics/crofton/">Crofton</a></h3>
@@ -115,7 +115,7 @@ weight: 1
       <!-- Glen Burnie Card -->
       <div class="city-card">
         <div class="city-image">
-          {{< figure src="/images/glen-burnie-hero.jpg" alt="Glen Burnie" >}}
+          <img src="/images/glen-burnie-hero.jpg" alt="Glen Burnie" class="img-fluid"></div>
         </div>
         <div class="city-content">
           <h3><a href="/topics/glen-burnie/">Glen Burnie</a></h3>
@@ -131,7 +131,7 @@ weight: 1
       <!-- Pasadena Card -->
       <div class="city-card">
         <div class="city-image">
-          {{< figure src="/images/pasadena-hero.jpg" alt="Pasadena waterfront" >}}
+          <img src="/images/pasadena-hero.jpg" alt="Pasadena waterfront" class="img-fluid"></div>
         </div>
         <div class="city-content">
           <h3><a href="/topics/pasadena/">Pasadena</a></h3>
@@ -147,7 +147,7 @@ weight: 1
       <!-- Odenton Card -->
       <div class="city-card">
         <div class="city-image">
-          {{< figure src="/images/odenton-hero.jpg" alt="Odenton" >}}
+          <img src="/images/odenton-hero.jpg" alt="Odenton" class="img-fluid"></div>
         </div>
         <div class="city-content">
           <h3><a href="/topics/odenton/">Odenton</a></h3>
@@ -163,7 +163,7 @@ weight: 1
       <!-- Severn Card -->
       <div class="city-card">
         <div class="city-image">
-          {{< figure src="/images/severn-hero.jpg" alt="Severn waterfront" >}}
+          <img src="/images/severn-hero.jpg" alt="Severn waterfront" class="img-fluid"></div>
         </div>
         <div class="city-content">
           <h3><a href="/topics/severn/">Severn</a></h3>
@@ -259,7 +259,7 @@ weight: 1
       <!-- U.S. Naval Academy -->
       <div class="activity-card">
         <div class="activity-image">
-          {{< figure src="/images/naval-academy.jpg" alt="U.S. Naval Academy" >}}
+          <img src="/images/naval-academy.jpg" alt="U.S. Naval Academy" class="img-fluid"></div>
         </div>
         <div class="activity-content">
           <h3>U.S. Naval Academy</h3>
@@ -275,7 +275,7 @@ weight: 1
       <!-- Annapolis Historic District -->
       <div class="activity-card">
         <div class="activity-image">
-          {{< figure src="/images/annapolis-downtown.jpg" alt="Historic downtown Annapolis" >}}
+          <img src="/images/annapolis-downtown.jpg" alt="Historic downtown Annapolis" class="img-fluid"></div>
         </div>
         <div class="activity-content">
           <h3>Annapolis Historic District</h3>
@@ -291,7 +291,7 @@ weight: 1
       <!-- Jug Bay Wetlands Sanctuary -->
       <div class="activity-card">
         <div class="activity-image">
-          {{< figure src="/images/jug-bay.jpg" alt="Jug Bay Wetlands Sanctuary" >}}
+          <img src="/images/jug-bay.jpg" alt="Jug Bay Wetlands Sanctuary" class="img-fluid"></div>
         </div>
         <div class="activity-content">
           <h3>Jug Bay Wetlands Sanctuary</h3>
@@ -307,7 +307,7 @@ weight: 1
       <!-- B&A Trail -->
       <div class="activity-card">
         <div class="activity-image">
-          {{< figure src="/images/ba-trail.jpg" alt="B&A Trail" >}}
+          <img src="/images/ba-trail.jpg" alt="B&A Trail" class="img-fluid"></div>
         </div>
         <div class="activity-content">
           <h3>B&A Trail</h3>
@@ -425,8 +425,8 @@ weight: 1
   <div class="container">
     <h2>Ready to Explore Anne Arundel County?</h2>
     <p>Discover everything from city guides to practical resources for living, visiting, and understanding this diverse Maryland community.</p>
-    {{< button href="#top-cities" >}}Browse All Cities{{< /button >}}
-    {{< button href="/topics/settling-in-guide/" variant="secondary" >}}New to the Area? Start Here{{< /button >}}
+    <a href="#top-cities" class="btn">Browse All Cities</a>
+    <a href="/topics/settling-in-guide/" class="btn">New to the Area? Start Here</a>
   </div>
 </div>
 

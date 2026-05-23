@@ -17,8 +17,8 @@ weight: 1
       Population: 40,812 (2020 Census). Experience the charm of Maryland's capital city—home to the U.S. Naval Academy, historic Maryland State House, world-class sailing, and a walkable downtown that combines maritime heritage with modern dining and culture.
     </p>
     <div class="hero-cta">
-      {{< button href="#about" >}}About Annapolis{{< /button >}}
-      {{< button href="#neighborhoods" variant="secondary" >}}Explore Neighborhoods{{< /button >}}
+      <a href="#about" class="btn">About Annapolis</a>
+      <a href="#neighborhoods" class="btn btn-secondary">Explore Neighborhoods</a>
     </div>
   </div>
 </div>
@@ -328,8 +328,8 @@ weight: 1
   <div class="container">
     <h2>Experience Annapolis</h2>
     <p>From historic landmarks to waterfront living, discover why Annapolis is one of America's most cherished coastal communities.</p>
-    {{< button href="/topics/crofton/" >}}Explore Other Cities{{< /button >}}
-    {{< button href="/topics/settling-in-guide/" variant="secondary" >}}New to the Area? Read Guide{{< /button >}}
+    <a href="/topics/crofton/" class="btn">Explore Other Cities</a>
+    <a href="/topics/settling-in-guide/" class="btn">New to the Area? Read Guide</a>
   </div>
 </div>
 
