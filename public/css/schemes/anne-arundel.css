@@ -1,4 +1,9 @@
 :root {
+  /* Custom color scheme for Anne Arundel Guide */
+  --color-1: #07A855;
+  --color-2: #07A8A5;
+  --color-3: #075AA8;
+
   --color-neutral-50: 255, 255, 255;
   --color-neutral-100: 245, 245, 245;
   --color-neutral-200: 220, 220, 220;

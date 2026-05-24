@@ -1,0 +1,168 @@
+/* Anne Arundel Guide Custom Color Scheme Overrides */
+/* Applied colors: --color-1 (#07A855), --color-2 (#07A8A5), --color-3 (#075AA8) */
+
+:root {
+  /* Primary color (green) - Main branding, buttons, links */
+  --color-primary-400: var(--color-1);
+  --color-primary-500: var(--color-1);
+  --color-primary-600: #069147; /* Darker shade of color-1 */
+  --color-primary-700: #057839; /* Even darker */
+  --color-primary-50: 234, 255, 240; /* Very light green */
+  --color-primary-100: 184, 255, 213;
+  --color-primary-200: 114, 255, 163;
+  --color-primary-300: 74, 250, 131;
+
+  /* Secondary color (teal) - Accents, highlights, hover states */
+  --color-secondary-500: var(--color-2);
+  --color-secondary-600: #069191; /* Darker shade of color-2 */
+  --color-secondary-700: #057878; /* Even darker */
+  --color-secondary-50: 236, 255, 255; /* Very light teal */
+  --color-secondary-100: 207, 250, 254;
+  --color-secondary-200: 165, 243, 252;
+  --color-secondary-300: 103, 232, 249;
+  --color-secondary-400: 34, 211, 238;
+
+  /* Tertiary color (blue) - Special elements, navigation, headers */
+  --color-tertiary-500: var(--color-3);
+  --color-tertiary-600: #064986; /* Darker shade of color-3 */
+  --color-tertiary-700: #053a69; /* Even darker */
+  --color-tertiary-50: 234, 242, 255; /* Very light blue */
+  --color-tertiary-100: 219, 234, 254;
+  --color-tertiary-200: 191, 219, 254;
+  --color-tertiary-300: 147, 197, 253;
+  --color-tertiary-400: 96, 165, 250;
+}
+
+/* Primary color usage */
+a {
+  color: rgba(var(--color-primary-500), 1);
+}
+
+a:hover {
+  color: rgba(var(--color-primary-600), 1);
+}
+
+/* Buttons with color-1 (green) */
+.btn,
+button,
+input[type="submit"],
+input[type="button"] {
+  background-color: rgba(var(--color-primary-500), 1) !important;
+  color: white;
+}
+
+.btn:hover,
+button:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover {
+  background-color: rgba(var(--color-primary-600), 1) !important;
+}
+
+/* Secondary accents with color-2 (teal) */
+.mark,
+.text-accent {
+  background-color: rgba(var(--color-secondary-200), 1) !important;
+}
+
+/* Navigation and headers with color-3 (blue) */
+.site-header,
+header,
+nav,
+.navbar {
+  border-bottom-color: rgba(var(--color-tertiary-400), 1) !important;
+}
+
+/* Code blocks and preformatted text */
+pre,
+code,
+code[class*="language-"] {
+  border-color: rgba(var(--color-secondary-300), 1) !important;
+  background-color: rgba(var(--color-secondary-50), 1) !important;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left-color: rgba(var(--color-primary-400), 1) !important;
+  background-color: rgba(var(--color-primary-50), 1) !important;
+}
+
+/* Alert/Warning boxes */
+.alert-info {
+  background-color: rgba(var(--color-secondary-50), 1) !important;
+  border-left-color: rgba(var(--color-secondary-500), 1) !important;
+}
+
+.alert-success {
+  background-color: rgba(var(--color-primary-50), 1) !important;
+  border-left-color: rgba(var(--color-primary-500), 1) !important;
+}
+
+.alert-warning {
+  background-color: rgba(var(--color-tertiary-50), 1) !important;
+  border-left-color: rgba(var(--color-tertiary-500), 1) !important;
+}
+
+/* Form elements */
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: rgba(var(--color-primary-500), 1) !important;
+  box-shadow: 0 0 0 3px rgba(var(--color-primary-200), 1) !important;
+}
+
+/* Progress bars and loading indicators */
+progress,
+progress[value] {
+  color: rgba(var(--color-primary-500), 1);
+}
+
+/* Table headers */
+th {
+  background-color: rgba(var(--color-tertiary-100), 1) !important;
+  color: rgba(var(--color-tertiary-700), 1) !important;
+}
+
+/* Table borders */
+table th,
+table td,
+table tr,
+table thead,
+table tbody {
+  border-color: rgba(var(--color-neutral-200), 1) !important;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar-thumb {
+  background: rgba(var(--color-primary-400), 1) !important;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(var(--color-neutral-100), 1) !important;
+}
+
+/* Selection color */
+::selection {
+  background-color: rgba(var(--color-primary-300), 0.4) !important;
+  color: rgba(var(--color-primary-700), 1) !important;
+}
+
+/* Gradient backgrounds using the three colors */
+.gradient-hero {
+  background: linear-gradient(135deg, 
+    rgba(var(--color-primary-400), 1) 0%, 
+    rgba(var(--color-secondary-400), 1) 50%, 
+    rgba(var(--color-tertiary-400), 1) 100%) !important;
+}
+
+/* Accent borders */
+.accent-border {
+  border: 2px solid rgba(var(--color-primary-500), 1) !important;
+}
+
+.accent-border-secondary {
+  border: 2px solid rgba(var(--color-secondary-500), 1) !important;
+}
+
+.accent-border-tertiary {
+  border: 2px solid rgba(var(--color-tertiary-500), 1) !important;
+}

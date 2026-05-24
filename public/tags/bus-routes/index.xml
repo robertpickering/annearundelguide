@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bus Routes on Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/tags/bus-routes/</link>
-    <description>Recent content in Bus Routes on Anne Arundel Guide</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://annearundelguide.com/tags/bus-routes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Anne Arundel County Transit Routes</title>
-      <link>https://annearundelguide.com/topics/transit-routes/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/topics/transit-routes/</guid>
-      <description>&lt;h1 id=&#34;anne-arundel-county-transit-routes&#34;&gt;Anne Arundel County Transit Routes&lt;/h1&gt;&#xA;&lt;p&gt;Public transit in Anne Arundel County centers on the MTA bus system and MARC train. Routes connect the county to Baltimore and DC, plus local circulation within communities.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mta-commuter-bus-routes&#34;&gt;MTA Commuter Bus Routes&lt;/h2&gt;&#xA;&lt;p&gt;The Maryland Transit Administration runs commuter buses from Anne Arundel to Baltimore and Washington DC. These are your main options for car-free commuting.&lt;/p&gt;&#xA;&lt;h3 id=&#34;route-4---glen-burnie-to-dc&#34;&gt;Route 4 - Glen Burnie to DC&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stops in Anne Arundel:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bus Routes on Anne Arundel Guide</title><link>https://annearundelguide.com/tags/bus-routes/</link><description>Recent content in Bus Routes on Anne Arundel Guide</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://annearundelguide.com/tags/bus-routes/index.xml" rel="self" type="application/rss+xml"/><item><title>Anne Arundel County Transit Routes</title><link>https://annearundelguide.com/topics/transit-routes/</link><pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate><guid>https://annearundelguide.com/topics/transit-routes/</guid><description>&lt;h1 id="anne-arundel-county-transit-routes"&gt;Anne Arundel County Transit Routes&lt;/h1&gt;
+&lt;p&gt;Public transit in Anne Arundel County centers on the MTA bus system and MARC train. Routes connect the county to Baltimore and DC, plus local circulation within communities.&lt;/p&gt;
+&lt;h2 id="mta-commuter-bus-routes"&gt;MTA Commuter Bus Routes&lt;/h2&gt;
+&lt;p&gt;The Maryland Transit Administration runs commuter buses from Anne Arundel to Baltimore and Washington DC. These are your main options for car-free commuting.&lt;/p&gt;
+&lt;h3 id="route-4---glen-burnie-to-dc"&gt;Route 4 - Glen Burnie to DC&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Stops in Anne Arundel:&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
