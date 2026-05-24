@@ -170,7 +170,7 @@ Transportation in Anne Arundel County requires some planning, but once you figur
 
 **Public Transit Information**  
 - MTA Bus Info: [marylandtransit.com](https://www.marylandtransit.com)  
-- MARC Train Info: [marylandtransit.com/marc](https://www.marylandtransit.commarc)  
+- MARC Train Info: [marylandtransit.com/marc](https://www.marylandtransit.com/marc)  
 - MTA Customer Service: 410-768-7000
 
 ### Anne Arundel County
