@@ -556,7 +556,7 @@ A: Yes, Maryland offers homestead exemptions and other property tax relief progr
 1. **Maryland Comptroller:** [marylandtaxes.gov](https://marylandtaxes.gov/)
 2. **US Census Bureau:** [census.gov](https://www.census.gov/)
 3. **Bureau of Labor Statistics:** [bls.gov](https://www.bls.gov/)
-4. **Anne Arundel County Tax Collector:** [aacounty.org/tax](https://www.aacounty.org/services/real-estate-tax)
+4. **Anne Arundel County Tax Collector:** [aacounty.org/tax](https://www.aacounty.org/finance/tax-information)
 5. **Maryland Housing Administration:** [mdhousing.org](https://www.mdhousing.org/)
 
 ---
