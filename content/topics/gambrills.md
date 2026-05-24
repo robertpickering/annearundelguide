@@ -152,7 +152,7 @@ Gambrills residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Address:** 1500 Crofton Boulevard, Crofton, MD 21114
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/crofton](https://www.aacounty.org/departments/education/aacps/schools)
+- **Website:** [aacounty.org/crofton](https://www.aacps.org/schools)
 
 **Google Maps:** [Crofton Elementary](https://www.google.com/maps/dir//Crofton+Elementary+School,+Crofton,+MD)
 
@@ -176,7 +176,7 @@ Gambrills residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
 - **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacounty.org/departments/education/aacps/schools/crofton-high-school)
+- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/schools/crofton-high-school)
 
 **Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
 
@@ -211,7 +211,7 @@ Gambrills residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Route 4:** Service to BWI and Baltimore
 - **Multiple routes:** Extensive bus service
 
-**Schedule Info:** [mtamaryland.com](https://www.mtamaryland.com/)
+**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
 
 ### Air Travel
 
@@ -392,8 +392,8 @@ Gambrills is a significant commercial center:
 
 ### Useful Links
 
-- [Anne Arundel County Public Schools](https://www.aacounty.org/departments/education/aacps)
-- [MTA Maryland Transit](https://www.mtamaryland.com/)
+- [Anne Arundel County Public Schools](https://www.aacps.org)
+- [MTA Maryland Transit](https://www.marylandtransit.com/)
 - [BWI Airport](https://www.bwiairport.com/)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
@@ -403,8 +403,8 @@ Gambrills is a significant commercial center:
 
 1. **U.S. Census Bureau:** [census.gov](https://www.census.gov/)
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
-3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
-4. **MTA Maryland:** [mtamaryland.com](https://www.mtamaryland.com/)
+3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
+4. **MTA Maryland:** [mtamaryland.com](https://www.marylandtransit.com/)
 5. **BWI Airport:** [bwiairport.com](https://www.bwiairport.com/)
 6. **CVPH Gambrills:** [cvph.org](https://www.cvph.org/)
 

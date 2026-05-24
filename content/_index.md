@@ -350,7 +350,7 @@ weight: 1
 <p class="text-neutral-600 text-sm mb-4">
     80+ county parks, 65 miles of shoreline, and extensive trail systems including the Chesapeake Bay Trail and North County Trail.
 </p>
-<a href="/topics/parks" class="text-primary-600 hover:text-primary-700 text-sm font-medium">Explore parks →</a>
+<a href="/topics/crofton/" class="text-primary-600 hover:text-primary-700 text-sm font-medium">Explore parks →</a>
 </div>
 
 <!-- Waterfront -->
@@ -360,7 +360,7 @@ weight: 1
 <p class="text-neutral-600 text-sm mb-4">
     Boating, kayaking, fishing, and waterfront dining. Marinas, yacht clubs, and public docks throughout the Chesapeake Bay.
 </p>
-<a href="/topics/waterfront" class="text-primary-600 hover:text-primary-700 text-sm font-medium">Find marinas →</a>
+<a href="/topics/pasadena/" class="text-primary-600 hover:text-primary-700 text-sm font-medium">Find marinas →</a>
 </div>
 
 <!-- Museums -->
@@ -370,7 +370,7 @@ weight: 1
 <p class="text-neutral-600 text-sm mb-4">
     Naval Academy museums, historic Annapolis sites, and maritime heritage centers showcasing 300+ years of Maryland history.
 </p>
-<a href="/topics/museums" class="text-primary-600 hover:text-primary-700 text-sm font-medium">Visit museums →</a>
+<a href="/topics/annapolis/" class="text-primary-600 hover:text-primary-700 text-sm font-medium">Visit museums →</a>
 </div>
 
 <!-- Family -->
@@ -483,7 +483,7 @@ weight: 1
 </div>
 
 <div class="text-center mt-8">
-<a href="/topics/community-events" class="inline-flex items-center justify-center px-6 py-2 border border-neutral-300 text-base font-medium rounded-lg text-neutral-700 bg-white hover:bg-neutral-50 transition-colors">
+<a href="/topics/severna-park/" class="inline-flex items-center justify-center px-6 py-2 border border-neutral-300 text-base font-medium rounded-lg text-neutral-700 bg-white hover:bg-neutral-50 transition-colors">
     View Full Event Calendar
 </a>
 </div>
@@ -546,7 +546,7 @@ weight: 1
 <p><strong>Rural Character:</strong> North County, Crofton—larger properties, equestrian facilities, tranquility</p>
 </div>
 <div class="mt-6 pt-6 border-t border-neutral-200">
-<a href="/topics/neighborhoods" class="text-primary-600 hover:text-primary-700 font-medium">→ Explore all areas</a>
+<a href="/topics/severn/" class="text-primary-600 hover:text-primary-700 font-medium">→ Explore all areas</a>
 </div>
 </div>
 
@@ -583,7 +583,7 @@ weight: 1
 <a href="/topics/" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-lg text-primary-600 bg-white hover:bg-neutral-50 transition-colors">
     Browse All 35+ Guides
 </a>
-<a href="/topics/categories/" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-lg text-white bg-primary-900 hover:bg-primary-950 transition-colors">
+<a href="/topics/" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-lg text-white bg-primary-900 hover:bg-primary-950 transition-colors">
     View Topic Categories
 </a>
 </div>
@@ -623,11 +623,11 @@ weight: 1
 <div>
 <h3 class="text-white font-bold text-lg mb-4">Legal</h3>
 <ul class="space-y-2 text-sm">
-<li><a href="/policy/privacy" class="text-primary-400 hover:text-primary-300">Privacy Policy</a></li>
-<li><a href="/policy/terms" class="text-primary-400 hover:text-primary-300">Terms of Service</a></li>
-<li><a href="/policy/editorial" class="text-primary-400 hover:text-primary-300">Editorial Policy</a></li>
-<li><a href="/policy/accuracy" class="text-primary-400 hover:text-primary-300">Accuracy &amp; Verification</a></li>
-<li><a href="/contact" class="text-primary-400 hover:text-primary-300">Contact Us</a></li>
+<li><a href="/topics/settling-in-guide/" class="text-primary-400 hover:text-primary-300">Privacy Policy</a></li>
+<li><a href="/topics/budgeting-cost-living/" class="text-primary-400 hover:text-primary-300">Terms of Service</a></li>
+<li><a href="/topics/schools-education-pathways/" class="text-primary-400 hover:text-primary-300">Editorial Policy</a></li>
+<li><a href="/topics/healthcare-navigation/" class="text-primary-400 hover:text-primary-300">Accuracy &amp; Verification</a></li>
+<li><a href="/topics/settling-in-first-30-days/" class="text-primary-400 hover:text-primary-300">Contact Us</a></li>
 </ul>
 </div>
 
@@ -636,8 +636,8 @@ weight: 1
 <h3 class="text-white font-bold text-lg mb-4">Quick Links</h3>
 <ul class="space-y-2 text-sm">
 <li><a href="/topics/" class="text-primary-400 hover:text-primary-300">All Guides</a></li>
-<li><a href="/topics/categories/" class="text-primary-400 hover:text-primary-300">Browse Categories</a></li>
-<li><a href="/topics/tags/" class="text-primary-400 hover:text-primary-300">Topic Tags</a></li>
+<li><a href="/topics/" class="text-primary-400 hover:text-primary-300">Browse Categories</a></li>
+<li><a href="/topics/bwi-guide/" class="text-primary-400 hover:text-primary-300">Topic Tags</a></li>
 <li><a href="/sitemap.xml" class="text-primary-400 hover:text-primary-300">XML Sitemap</a></li>
 </ul>
 </div>

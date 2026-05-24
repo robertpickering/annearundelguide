@@ -27,7 +27,7 @@ Anne Arundel County Public Schools (AACPS) serves over 50,000 students across th
 | **Graduation Rate** | 88%+ |
 | **Student-Teacher Ratio** | 14:1 |
 
-**Website:** [www.aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
+**Website:** [www.aacounty.org/aacps](https://www.aacps.org)
 
 ## School System Overview
 
@@ -71,7 +71,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 7. **Social Security Numbers:** For all students
 
 **Enrollment Process:**
-1. **Online Pre-Registration:** Start at [aacounty.org/aacps/enrollment](https://www.aacounty.org/departments/education/aacps/enrollment)
+1. **Online Pre-Registration:** Start at [aacounty.org/aacps/enrollment](https://www.aacps.org/enrollment)
 2. **Schedule Appointment:** Book enrollment appointment
 3. **In-Person Registration:** Bring all documents to school
 4. **Placement Testing:** May be required for certain grades
@@ -83,7 +83,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 
 **Determining Your School:**
 - **Zoning by Address:** Each residential address has assigned schools
-- **Online Zoning Tool:** [aacounty.org/school-zoning](https://www.aacounty.org/departments/education/aacps/schools)
+- **Online Zoning Tool:** [aacounty.org/school-zoning](https://www.aacps.org/schools)
 - **Verify Zoning:** Contact school directly for confirmation
 
 **Zoning Changes:**
@@ -92,7 +92,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Grandfathering:** Some students may remain in original school
 
 **How to Check Zoning:**
-1. Visit [aacounty.org/school-zoning](https://www.aacounty.org/departments/education/aacps/schools)
+1. Visit [aacounty.org/school-zoning](https://www.aacps.org/schools)
 2. Enter your address
 3. View assigned schools by grade level
 4. Print confirmation for records
@@ -118,19 +118,19 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
 - **Mascot:** Blue Jays
-- **Website:** [aacounty.org/annapolishs](https://www.aacounty.org/departments/education/aacps/schools/annapolis-high-school)
+- **Website:** [aacounty.org/annapolishs](https://www.aacps.org/schools/annapolis-high-school)
 - **Google Maps:** [Annapolis High](https://www.google.com/maps/dir//Annapolis+High+School,+Annapolis,+MD)
 
 **Westside Middle School:**
 - **Address:** 714 West Street, Annapolis, MD 21401
 - **Grades:** 6-8
-- **Website:** [aacounty.org/westside](https://www.aacounty.org/departments/education/aacps/schools/westside-middle-school)
+- **Website:** [aacounty.org/westside](https://www.aacps.org/schools/westside-middle-school)
 - **Google Maps:** [Westside Middle](https://www.google.com/maps/dir//Westside+Middle+School,+Annapolis,+MD)
 
 **Benjamin C. Avery Elementary:**
 - **Address:** 1550 West Street, Annapolis, MD 21401
 - **Grades:** K-5
-- **Website:** [aacounty.org/avery](https://www.aacounty.org/departments/education/aacps/schools)
+- **Website:** [aacounty.org/avery](https://www.aacps.org/schools)
 - **Google Maps:** [Benjamin C. Avery Elementary](https://www.google.com/maps/dir//Benjamin+C.+Avery+Elementary+School,+Annapolis,+MD)
 
 **Davidsonville Elementary:**
@@ -147,21 +147,21 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Mascot:** Rams
 - **College Acceptance:** 90%+ attend 4-year colleges
 - **AP Courses:** 20+ Advanced Placement courses
-- **Website:** [aacounty.org/severnaparkhs](https://www.aacounty.org/departments/education/aacps/schools/severna-park-high-school)
+- **Website:** [aacounty.org/severnaparkhs](https://www.aacps.org/schools/severna-park-high-school)
 - **Google Maps:** [Severna Park High](https://www.google.com/maps/dir//Severna+Park+High+School,+Severna+Park,+MD)
 
 **Severna Park Middle School:**
 - **Address:** 201 West Street, Severna Park, MD 21146
 - **Grades:** 6-8
 - **Rating:** Top 15% in Maryland
-- **Website:** [aacounty.org/severnaparkms](https://www.aacounty.org/departments/education/aacps/schools/severna-park-middle-school)
+- **Website:** [aacounty.org/severnaparkms](https://www.aacps.org/schools/severna-park-middle-school)
 - **Google Maps:** [Severna Park Middle](https://www.google.com/maps/dir//Severna+Park+Middle+School,+Severna+Park,+MD)
 
 **Severna Park Elementary:**
 - **Address:** 1000 Severna Park Road, Severna Park, MD 21146
 - **Grades:** K-5
 - **Rating:** Among Maryland's top elementary schools
-- **Website:** [aacounty.org/severnapark](https://www.aacounty.org/departments/education/aacps/schools)
+- **Website:** [aacounty.org/severnapark](https://www.aacps.org/schools)
 - **Google Maps:** [Severna Park Elementary](https://www.google.com/maps/dir//Severna+Park+Elementary+School,+Severna+Park,+MD)
 
 ### Crofton Area Schools
@@ -171,21 +171,21 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
 - **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacounty.org/departments/education/aacps/schools/crofton-high-school)
+- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/schools/crofton-high-school)
 - **Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
 
 **Crofton Middle School:**
 - **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
 - **Grades:** 6-8
 - **Rating:** Above average
-- **Website:** [aacounty.org/croftonms](https://www.aacounty.org/departments/education/aacps/schools/crofton-middle-school)
+- **Website:** [aacounty.org/croftonms](https://www.aacps.org/schools/crofton-middle-school)
 - **Google Maps:** [Crofton Middle](https://www.google.com/maps/dir//Crofton+Middle+School,+Crofton,+MD)
 
 **Crofton Elementary:**
 - **Address:** 1500 Crofton Boulevard, Crofton, MD 21114
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/croftone](https://www.aacounty.org/departments/education/aacps/schools/crofton-elementary-school)
+- **Website:** [aacounty.org/croftone](https://www.aacps.org/schools/crofton-elementary-school)
 - **Google Maps:** [Crofton Elementary](https://www.google.com/maps/dir//Crofton+Elementary+School,+Crofton,+MD)
 
 ### Pasadena Area Schools
@@ -195,7 +195,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Panthers
-- **Website:** [aacounty.org/pasadenahs](https://www.aacounty.org/departments/education/aacps/schools/pasadena-high-school)
+- **Website:** [aacounty.org/pasadenahs](https://www.aacps.org/schools/pasadena-high-school)
 - **Google Maps:** [Pasadena High](https://www.google.com/maps/dir//Pasadena+High+School,+Pasadena,+MD)
 
 **Pasadena Middle School:**
@@ -208,7 +208,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Address:** 402 Crain Highway, Pasadena, MD 21122
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/pasadena](https://www.aacounty.org/departments/education/aacps/schools/pasadena-elementary-school)
+- **Website:** [aacounty.org/pasadena](https://www.aacps.org/schools/pasadena-elementary-school)
 - **Google Maps:** [Pasadena Elementary](https://www.google.com/maps/dir//Pasadena+Elementary+School,+Pasadena,+MD)
 
 ### Glen Burnie Area Schools
@@ -218,7 +218,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Indians
-- **Website:** [aacounty.org/glenburniehs](https://www.aacounty.org/departments/education/aacps/schools/glen-burnie-high-school)
+- **Website:** [aacounty.org/glenburniehs](https://www.aacps.org/schools/glen-burnie-high-school)
 - **Google Maps:** [Glen Burnie High](https://www.google.com/maps/dir//Glen+Burnie+High+School,+Glen+Burnie,+MD)
 
 **Glen Burnie Middle School:**
@@ -240,7 +240,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Vikings
-- **Website:** [aacounty.org/severnhs](https://www.aacounty.org/departments/education/aacps/schools/severn-high-school)
+- **Website:** [aacounty.org/severnhs](https://www.aacps.org/schools/severn-high-school)
 - **Google Maps:** [Severn High](https://www.google.com/maps/dir//Severn+High+School,+Severn,+MD)
 
 **Severn Middle School:**
@@ -289,7 +289,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 
 **AP Resources:**
 - [College Board AP](https://apstudent.collegeboard.org/)
-- [AACPS AP Program](https://www.aacounty.org/departments/education/aacps/academics/ap)
+- [AACPS AP Program](https://www.aacps.org/academics/ap)
 
 ### Gifted & Talented
 
@@ -304,7 +304,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Enrichment:** Advanced projects and research
 - **Acceleration:** Grade skipping when appropriate
 
-**Contact:** [AACPS Gifted Services](https://www.aacounty.org/departments/education/aacps/services/gifted)
+**Contact:** [AACPS Gifted Services](https://www.aacps.org/services/gifted)
 
 ### Special Education
 
@@ -325,7 +325,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 
 **Special Education Contact:**
 - **Phone:** (410) 222-8300
-- **Website:** [aacounty.org/special-education](https://www.aacounty.org/departments/education/aacps/services/special-education)
+- **Website:** [aacounty.org/special-education](https://www.aacps.org/services/special-education)
 
 ### English Language Learners (ELL)
 
@@ -341,7 +341,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Support:** Bilingual aides, translators
 - **Parent Involvement:** Parent education programs
 
-**Contact:** [AACPS ELL Services](https://www.aacounty.org/departments/education/aacps/services/ell)
+**Contact:** [AACPS ELL Services](https://www.aacps.org/services/ell)
 
 ### Career & Technical Education (CTE)
 
@@ -362,7 +362,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **College Credit:** Articulated college credit
 - **Work-Based Learning:** Internships and apprenticeships
 
-**CTE Contact:** [AACPS CTE](https://www.aacounty.org/departments/education/aacps/academics/cte)
+**CTE Contact:** [AACPS CTE](https://www.aacps.org/academics/cte)
 
 ## Extracurricular Activities
 
@@ -381,7 +381,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 
 **Athletics Contact:**
 - **Phone:** (410) 222-8500
-- **Website:** [aacounty.org/athletics](https://www.aacounty.org/departments/education/aacps/activities/athletics)
+- **Website:** [aacounty.org/athletics](https://www.aacps.org/activities/athletics)
 
 ### Performing Arts
 
@@ -397,7 +397,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Performance Experience:** Stage presence, confidence
 - **College Applications:** Arts portfolio, scholarships
 
-**Arts Contact:** [AACPS Arts](https://www.aacounty.org/departments/education/aacps/activities/arts)
+**Arts Contact:** [AACPS Arts](https://www.aacps.org/activities/arts)
 
 ### Academic Clubs
 
@@ -442,7 +442,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Special Needs:** Transportation for students with disabilities
 
 **Bus Information:**
-- **Route Finder:** [aacounty.org/bus-routes](https://www.aacounty.org/departments/education/aacps/transportation)
+- **Route Finder:** [aacounty.org/bus-routes](https://www.aacps.org/transportation)
 - **Schedule:** Start of school year
 - **Safety:** Bus safety rules and supervision
 
@@ -459,7 +459,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Benefits:** Nutritious meals at no or reduced cost
 
 **Meal Application:**
-- **Website:** [aacounty.org/lunch](https://www.aacounty.org/departments/education/aacps/nutrition)
+- **Website:** [aacounty.org/lunch](https://www.aacps.org/nutrition)
 - **Deadline:** Beginning of school year
 - **Eligibility:** Based on household income
 
@@ -481,7 +481,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Email:** Student email accounts
 - **Online Resources:** Digital textbooks, educational software
 
-**Technology Contact:** [AACPS Tech Support](https://www.aacounty.org/departments/education/aacps/technology)
+**Technology Contact:** [AACPS Tech Support](https://www.aacps.org/technology)
 
 ## Academic Calendar
 
@@ -506,7 +506,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Last Day:** May 30, 2027
 
 **Calendar Resources:**
-- [AACPS School Calendar](https://www.aacounty.org/departments/education/aacps/calendar)
+- [AACPS School Calendar](https://www.aacps.org/calendar)
 
 ## Parent & Family Resources
 
@@ -570,7 +570,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 
 **Resources:**
 - [Maryland School Performance](https://marylandpublicschools.org/Accountability/Reports/Pages/default.aspx)
-- [AACPS School Profiles](https://www.aacounty.org/departments/education/aacps/schools)
+- [AACPS School Profiles](https://www.aacps.org/schools)
 
 ## Special Programs
 
@@ -589,7 +589,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Language Immersion:** Foreign language programs
 - **Engineering:** Engineering and technology
 
-**Contact:** [AACPS Magnet Programs](https://www.aacounty.org/departments/education/aacps/magnet)
+**Contact:** [AACPS Magnet Programs](https://www.aacps.org/magnet)
 
 ### Dual Enrollment
 
@@ -614,7 +614,7 @@ AACPS operates a comprehensive system from pre-kindergarten through high school:
 - **Career Training:** Vocational programs
 - **Community Education:** Personal interest courses
 
-**Contact:** [AACPS Adult Education](https://www.aacounty.org/departments/education/aacps/adult)
+**Contact:** [AACPS Adult Education](https://www.aacps.org/adult)
 
 ## Frequently Asked Questions
 
@@ -656,7 +656,7 @@ A: Join the PTA/PTO, attend meetings, and volunteer for events.
 **Anne Arundel County Public Schools:**
 - **Address:** 100 County Center, Annapolis, MD 21401
 - **Phone:** (410) 222-8000
-- **Website:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
+- **Website:** [aacounty.org/aacps](https://www.aacps.org)
 - **Email:** info@aacounty.org
 - **Hours:** Monday - Friday, 8:30 AM - 5:00 PM
 
@@ -698,7 +698,7 @@ A: Join the PTA/PTO, attend meetings, and volunteer for events.
 
 ## Verified Sources & References
 
-1. **Anne Arundel County Public Schools:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
+1. **Anne Arundel County Public Schools:** [aacounty.org/aacps](https://www.aacps.org)
 2. **Maryland State Department of Education:** [marylandpublicschools.org](https://marylandpublicschools.org/)
 3. **College Board AP:** [apstudent.collegeboard.org](https://apstudent.collegeboard.org/)
 4. **Maryland Comptroller:** [marylandtaxes.gov](https://marylandtaxes.gov/)

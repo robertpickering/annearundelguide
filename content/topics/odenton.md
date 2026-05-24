@@ -164,7 +164,7 @@ Odenton residents attend **Anne Arundel County Public Schools (AACPS)**, which i
 - **Address:** 6501 Ritchie Highway, Linthicum, MD 21090
 - **Grades:** K-5
 - **Rating:** Highly rated
-- **Website:** [aacounty.org/linthicum](https://www.aacounty.org/departments/education/aacps/schools)
+- **Website:** [aacounty.org/linthicum](https://www.aacps.org/schools)
 
 **Google Maps:** [Linthicum Elementary](https://www.google.com/maps/dir//Linthicum+Elementary+School,+Linthicum,+MD)
 
@@ -172,7 +172,7 @@ Odenton residents attend **Anne Arundel County Public Schools (AACPS)**, which i
 - **Address:** 10800 Curtis Crest Drive, Odenton, MD 21113
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/curtiscrest](https://www.aacounty.org/departments/education/aacps/schools)
+- **Website:** [aacounty.org/curtiscrest](https://www.aacps.org/schools)
 
 **Google Maps:** [Curtis Crest Elementary](https://www.google.com/maps/dir//Curtis+Crest+Elementary+School,+Odenton,+MD)
 
@@ -190,7 +190,7 @@ Odenton residents attend **Anne Arundel County Public Schools (AACPS)**, which i
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Raiders
-- **Website:** [aacounty.org/odentonhs](https://www.aacounty.org/departments/education/aacps/schools/odenton-high-school)
+- **Website:** [aacounty.org/odentonhs](https://www.aacps.org/schools/odenton-high-school)
 
 **Google Maps:** [Odenton High School](https://www.google.com/maps/dir//Odenton+High+School,+Odenton,+MD)
 
@@ -243,7 +243,7 @@ Odenton's **BWI Rail Station** is a key transportation asset:
 - **Route 4:** Connects Odenton to Baltimore and BWI
 - **Route 10:** Local service within Anne Arundel County
 
-**Schedule Info:** [mtamaryland.com](https://www.mtamaryland.com/)
+**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
 
 ### Air Travel
 
@@ -424,8 +424,8 @@ Odenton attracts:
 
 ### Useful Links
 
-- [Anne Arundel County Public Schools](https://www.aacounty.org/departments/education/aacps)
-- [MTA Maryland Transit](https://www.mtamaryland.com/)
+- [Anne Arundel County Public Schools](https://www.aacps.org)
+- [MTA Maryland Transit](https://www.marylandtransit.com/)
 - [MARC Train Schedule](https://www.marc.mta.info/)
 - [Fort Meade](https://www.army.mil/fortmeade)
 - [BWI Airport](https://www.bwiairport.com/)
@@ -436,10 +436,10 @@ Odenton attracts:
 
 1. **U.S. Census Bureau QuickFacts:** [census.gov/quickfacts/fact/table/odentoncensusdesignatedplaceannearundelcountymaryland/PST045224](https://www.census.gov/quickfacts/fact/table/odentoncensusdesignatedplaceannearundelcountymaryland/PST045224)
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
-3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
+3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
 4. **MARC Train:** [marc.mta.info](https://www.marc.mta.info/)
 5. **Fort Meade:** [army.mil/fortmeade](https://www.army.mil/fortmeade)
-6. **MTA Maryland:** [mtamaryland.com](https://www.mtamaryland.com/)
+6. **MTA Maryland:** [mtamaryland.com](https://www.marylandtransit.com/)
 7. **BWI Airport:** [bwiairport.com](https://www.bwiairport.com/)
 8. **CVPH Odenton:** [cvph.org](https://www.cvph.org/)
 

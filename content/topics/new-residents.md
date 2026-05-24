@@ -207,9 +207,9 @@ Need more specific information? Check out these detailed guides:
 ### Maryland Motor Vehicle Administration
 
 **Official Website**  
-- MVA Home: [www.maryland.gov/mva](https://www.maryland.gov/mva)  
-- Vehicle Registration: [www.maryland.gov/mva/registration](https://www.maryland.gov/mva/registration)  
-- Driver Licensing: [www.maryland.gov/mva/licensing](https://www.maryland.gov/mva/licensing)
+- MVA Home: [www.maryland.gov/mva](https://mva.maryland.gov)  
+- Vehicle Registration: [www.maryland.gov/mva/registration](https://mva.maryland.gov/registration)  
+- Driver Licensing: [www.maryland.gov/mva/licensing](https://mva.maryland.gov/licensing)
 
 **Contact Information**  
 - Phone: 1-410-863-8000  

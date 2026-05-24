@@ -479,9 +479,9 @@ For more budgeting info:
 ### Anne Arundel County Property Assessment
 
 **County Property Assessment Official Site**  
-- Property Assessment Info: [www.aacounty.org/assessor](https://www.aacounty.org/assessor)  
-- Property Search Tool: [www.aacounty.org/assessor/propertysearch](https://www.aacounty.org/assessor/propertysearch)  
-- Property Records: [www.aacounty.org/assessor/records](https://www.aacounty.org/assessor/records)  
+- Property Assessment Info: [www.aacounty.org/assessor](https://www.aacounty.org/assessors-office)  
+- Property Search Tool: [www.aacounty.org/assessor/propertysearch](https://www.aacounty.org/assessors-office/propertysearch)  
+- Property Records: [www.aacounty.org/assessor/records](https://www.aacounty.org/assessors-office/records)  
 - Contact: 410-222-3140 | Email: assessor@aacounty.org
 
 ### Maryland Housing Resources

@@ -158,7 +158,7 @@ Pasadena residents attend **Anne Arundel County Public Schools (AACPS)**, which 
 - **Address:** 402 Crain Highway, Pasadena, MD 21122
 - **Grades:** K-5
 - **Rating:** Above average to highly rated
-- **Website:** [aacounty.org/pasadena](https://www.aacounty.org/departments/education/aacps/schools)
+- **Website:** [aacounty.org/pasadena](https://www.aacps.org/schools)
 
 **Google Maps:** [Pasadena Elementary](https://www.google.com/maps/dir//Pasadena+Elementary+School,+Pasadena,+MD)
 
@@ -183,7 +183,7 @@ Pasadena residents attend **Anne Arundel County Public Schools (AACPS)**, which 
 - **Grades:** 9-12
 - **Rating:** Among Maryland's top schools (consistently top 10%)
 - **Mascot:** Rams
-- **Website:** [aacounty.org/severnaparkhs](https://www.aacounty.org/departments/education/aacps/schools/severna-park-high-school)
+- **Website:** [aacounty.org/severnaparkhs](https://www.aacps.org/schools/severna-park-high-school)
 
 **Google Maps:** [Severna Park High](https://www.google.com/maps/dir//Severna+Park+High+School,+Severna+Park,+MD)
 
@@ -217,7 +217,7 @@ Pasadena residents attend **Anne Arundel County Public Schools (AACPS)**, which 
 - **Route 3:** Pasadena to Annapolis and Baltimore
 - **Route 7:** Local service within Anne Arundel County
 
-**Schedule Info:** [mtamaryland.com](https://www.mtamaryland.com/)
+**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
 
 ### Boating Access
 
@@ -420,7 +420,7 @@ Pasadena attracts:
 
 ### Useful Links
 
-- [Anne Arundel County Public Schools](https://www.aacounty.org/departments/education/aacps)
+- [Anne Arundel County Public Schools](https://www.aacps.org)
 - [Maryland DNR Boating](https://www.maryland.gov/dnr/boating/)
 - [Maryland DNR Fishing](https://www.maryland.gov/dnr/fishing/)
 - [FEMA Flood Maps](https://msc.fema.gov/portal/advancedsearch)
@@ -432,7 +432,7 @@ Pasadena attracts:
 
 1. **U.S. Census Bureau QuickFacts:** [census.gov/quickfacts/fact/table/pasadenacensusdesignatedplaceannearundelcountymaryland/PST045224](https://www.census.gov/quickfacts/fact/table/pasadenacensusdesignatedplaceannearundelcountymaryland/PST045224)
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
-3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
+3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
 4. **Maryland DNR Boating:** [maryland.gov/dnr/boating](https://www.maryland.gov/dnr/boating/)
 5. **Maryland DNR Fishing:** [maryland.gov/dnr/fishing](https://www.maryland.gov/dnr/fishing/)
 6. **FEMA Flood Maps:** [msc.fema.gov](https://msc.fema.gov/portal/advancedsearch)

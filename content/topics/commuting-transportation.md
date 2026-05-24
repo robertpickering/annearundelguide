@@ -169,8 +169,8 @@ Transportation in Anne Arundel County requires some planning, but once you figur
 ### Maryland Transit Administration (MTA)
 
 **Public Transit Information**  
-- MTA Bus Info: [marylandtransit.com](https://marylandtransit.com/)  
-- MARC Train Info: [marylandtransit.com/marc](https://marylandtransit.com/marc)  
+- MTA Bus Info: [marylandtransit.com](https://www.marylandtransit.com)  
+- MARC Train Info: [marylandtransit.com/marc](https://www.marylandtransit.commarc)  
 - MTA Customer Service: 410-768-7000
 
 ### Anne Arundel County
@@ -190,7 +190,7 @@ Transportation in Anne Arundel County requires some planning, but once you figur
 **BWI Airport Official Site**  
 - Airport Website: [bwiairport.com](https://www.bwiairport.com/)  
 - Parking Info: [bwiairport.com/parking](https://www.bwiairport.com/parking)  
-- MTA Airport Line: [marylandtransit.com/airport](https://marylandtransit.com/airport)
+- MTA Airport Line: [marylandtransit.com/airport](https://www.marylandtransit.comairport)
 
 ---
 

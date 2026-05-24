@@ -160,7 +160,7 @@ Crownsville residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Address:** 400 South County Road, Crownsville, MD 21032
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/southcounty](https://www.aacounty.org/departments/education/aacps/schools)
+- **Website:** [aacounty.org/southcounty](https://www.aacps.org/schools)
 
 **Google Maps:** [South County Elementary](https://www.google.com/maps/dir//South+County+Elementary+School,+Crownsville,+MD)
 
@@ -185,7 +185,7 @@ Crownsville residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
 - **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacounty.org/departments/education/aacps/schools/crofton-high-school)
+- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/schools/crofton-high-school)
 
 **Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
 
@@ -219,7 +219,7 @@ Crownsville residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Route 7:** Crownsville to Annapolis and Baltimore
 - **Limited weekend service**
 
-**Schedule Info:** [mtamaryland.com](https://www.mtamaryland.com/)
+**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
 
 ### Boating Access
 
@@ -417,7 +417,7 @@ Crownsville attracts:
 
 ### Useful Links
 
-- [Anne Arundel County Public Schools](https://www.aacounty.org/departments/education/aacps)
+- [Anne Arundel County Public Schools](https://www.aacps.org)
 - [Maryland DNR Boating](https://www.maryland.gov/dnr/boating/)
 - [Maryland DNR Fishing](https://www.maryland.gov/dnr/fishing/)
 - [FEMA Flood Maps](https://msc.fema.gov/portal/advancedsearch)
@@ -429,7 +429,7 @@ Crownsville attracts:
 
 1. **U.S. Census Bureau:** [census.gov](https://www.census.gov/)
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
-3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
+3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
 4. **Maryland DNR Boating:** [maryland.gov/dnr/boating](https://www.maryland.gov/dnr/boating/)
 5. **Maryland DNR Fishing:** [maryland.gov/dnr/fishing](https://www.maryland.gov/dnr/fishing/)
 6. **FEMA Flood Maps:** [msc.fema.gov](https://msc.fema.gov/portal/advancedsearch)

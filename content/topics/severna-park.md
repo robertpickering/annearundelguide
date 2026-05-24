@@ -165,7 +165,7 @@ Severna Park residents attend the **Severna Park** schools within AACPS, some of
 - **Address:** 1000 Severna Park Road, Severna Park, MD 21146
 - **Grades:** K-5
 - **Rating:** Among Maryland's top elementary schools
-- **Website:** [aacounty.org/severnapark](https://www.aacounty.org/departments/education/aacps/schools)
+- **Website:** [aacounty.org/severnapark](https://www.aacps.org/schools)
 
 **Google Maps:** [Severna Park Elementary](https://www.google.com/maps/dir//Severna+Park+Elementary+School,+Severna+Park,+MD)
 
@@ -180,7 +180,7 @@ Severna Park residents attend the **Severna Park** schools within AACPS, some of
 - **Grades:** 6-8
 - **Rating:** Consistently top 15% in Maryland
 - **Programs:** Strong academics, extracurriculars
-- **Website:** [aacounty.org/severnaparkms](https://www.aacounty.org/departments/education/aacps/schools/severna-park-middle-school)
+- **Website:** [aacounty.org/severnaparkms](https://www.aacps.org/schools/severna-park-middle-school)
 
 **Google Maps:** [Severna Park Middle](https://www.google.com/maps/dir//Severna+Park+Middle+School,+Severna+Park,+MD)
 
@@ -194,7 +194,7 @@ Severna Park residents attend the **Severna Park** schools within AACPS, some of
 - **Enrollment:** ~2,200 students
 - **College Acceptance:** 90%+ attend 4-year colleges
 - **AP Courses:** 20+ Advanced Placement courses
-- **Website:** [aacounty.org/severnaparkhs](https://www.aacounty.org/departments/education/aacps/schools/severna-park-high-school)
+- **Website:** [aacounty.org/severnaparkhs](https://www.aacps.org/schools/severna-park-high-school)
 
 **Google Maps:** [Severna Park High](https://www.google.com/maps/dir//Severna+Park+High+School,+Severna+Park,+MD)
 
@@ -204,7 +204,7 @@ Severna Park residents attend the **Severna Park** schools within AACPS, some of
 - Multiple state championships in academics and athletics
 - Strong STEM programs
 
-**AACPS Information:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
+**AACPS Information:** [aacounty.org/aacps](https://www.aacps.org)
 
 ### Private Schools
 
@@ -236,7 +236,7 @@ Severna Park residents attend the **Severna Park** schools within AACPS, some of
 - **Route 10:** Local service within Anne Arundel County
 - **Route 28:** Severna Park to Glen Burnie
 
-**Schedule Info:** [mtamaryland.com](https://www.mtamaryland.com/)
+**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
 
 ### Air Travel
 
@@ -419,7 +419,7 @@ Severna Park attracts:
 6. **Property Taxes:** Higher home values mean higher taxes
 
 **Resources:**
-- [AACPS School Zoning](https://www.aacounty.org/departments/education/aacps/schools)
+- [AACPS School Zoning](https://www.aacps.org/schools)
 - [Severna Park Community](https://www.severnapark.org/)
 
 ## Contact & Resources
@@ -435,9 +435,9 @@ Severna Park attracts:
 
 ### Useful Links
 
-- [Anne Arundel County Public Schools](https://www.aacounty.org/departments/education/aacps)
-- [Severna Park High School](https://www.aacounty.org/departments/education/aacps/schools/severna-park-high-school)
-- [MTA Maryland Transit](https://www.mtamaryland.com/)
+- [Anne Arundel County Public Schools](https://www.aacps.org)
+- [Severna Park High School](https://www.aacps.org/schools/severna-park-high-school)
+- [MTA Maryland Transit](https://www.marylandtransit.com/)
 - [Sandy Point State Park](https://www.marylandparks.com/state-parks/sandy-point/)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
@@ -446,10 +446,10 @@ Severna Park attracts:
 ## Verified Sources & References
 
 1. **U.S. Census Bureau QuickFacts:** [census.gov/quickfacts/fact/table/severnaparkcensusdesignatedplaceannearundelcountymaryland/PST045224](https://www.census.gov/quickfacts/fact/table/severnaparkcensusdesignatedplaceannearundelcountymaryland/PST045224)
-2. **Anne Arundel County Public Schools:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
-3. **Severna Park High School:** [aacounty.org/severnaparkhs](https://www.aacounty.org/departments/education/aacps/schools/severna-park-high-school)
+2. **Anne Arundel County Public Schools:** [aacounty.org/aacps](https://www.aacps.org)
+3. **Severna Park High School:** [aacounty.org/severnaparkhs](https://www.aacps.org/schools/severna-park-high-school)
 4. **Maryland State Parks:** [marylandparks.com](https://www.marylandparks.com/)
-5. **MTA Maryland:** [mtamaryland.com](https://www.mtamaryland.com/)
+5. **MTA Maryland:** [mtamaryland.com](https://www.marylandtransit.com/)
 6. **CVPH Severna Park:** [cvph.org](https://www.cvph.org/)
 
 ---

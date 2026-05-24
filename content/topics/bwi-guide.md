@@ -68,7 +68,7 @@ BWI offers several parking options with different price points:
 
 ### Airport Website
 
-Official BWI website has real-time parking availability: [bwia.com](https://www.bwia.com)
+Official BWI website has real-time parking availability: [bwia.com](https://www.bwi.com)
 
 ## BWI MARC Train Station
 
@@ -114,7 +114,7 @@ The MARC Penn Line runs from BWI Rail Station to Union Station in DC. This is us
 
 ### MARC Website
 
-Official MARC info and schedules: [marylandtransit.com/marc](https://www.mtamaryland.com/marc)
+Official MARC info and schedules: [marylandtransit.com/marc](https://www.marylandtransit.com/marc)
 
 ## Rideshare & Taxis
 
@@ -211,8 +211,8 @@ For more transportation info:
 ### Maryland Transit Administration (MTA)
 
 **Public Transit Information**  
-- MTA Bus Info: [marylandtransit.com](https://marylandtransit.com/)  
-- MARC Train Info: [marylandtransit.com/marc](https://marylandtransit.com/marc)  
+- MTA Bus Info: [marylandtransit.com](https://www.marylandtransit.com)  
+- MARC Train Info: [marylandtransit.com/marc](https://www.marylandtransit.commarc)  
 - MTA Customer Service: 410-768-7000
 
 ### Anne Arundel County
@@ -232,7 +232,7 @@ For more transportation info:
 **BWI Airport Official Site**  
 - Airport Website: [bwiairport.com](https://www.bwiairport.com/)  
 - Parking Info: [bwiairport.com/parking](https://www.bwiairport.com/parking)  
-- MTA Airport Line: [marylandtransit.com/airport](https://marylandtransit.com/airport)
+- MTA Airport Line: [marylandtransit.com/airport](https://www.marylandtransit.comairport)
 
 ---
 

@@ -545,7 +545,7 @@ BWI Thurgood Marshall Airport serves Anne Arundel County and the greater Baltimo
 - **Route 95:** BWI to Annapolis
 - **Frequency:** Hourly
 - **Cost:** $2.00 cash, $1.50 CharmCard
-- **Website:** [mtamaryland.com](https://www.mtamaryland.com/)
+- **Website:** [mtamaryland.com](https://www.marylandtransit.com/)
 
 ### Rideshare
 
@@ -698,7 +698,7 @@ A: Yes, economy parking at $20/day, terminal parking at $32/day.
 1. **BWI Airport:** [bwiairport.com](https://www.bwiairport.com/)
 2. **MARC Train:** [marctrain.com](https://www.marc.com/)
 3. **Amtrak:** [amtrak.com](https://www.amtrak.com/)
-4. **MTA Maryland:** [mtamaryland.com](https://www.mtamaryland.com/)
+4. **MTA Maryland:** [mtamaryland.com](https://www.marylandtransit.com/)
 5. **TSA PreCheck:** [tsa.gov/precheck](https://www.tsa.gov/precheck)
 6. **Global Entry:** [globalentry.gov](https://www.globalentry.gov/)
 

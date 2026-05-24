@@ -107,7 +107,7 @@ Moving to Anne Arundel County? This comprehensive guide covers everything you ne
 - **Timeline:** Complete within first 2 weeks
 
 **Resources:**
-- [AACPS Enrollment](https://www.aacounty.org/departments/education/aacps/enrollment)
+- [AACPS Enrollment](https://www.aacps.org/enrollment)
 - **Google Maps:** [AACounty Education Department](https://www.google.com/maps/dir//Anne+Arundel+County+Education+Department,+Annapolis,+MD)
 
 ### Local Orientation
@@ -180,7 +180,7 @@ Moving to Anne Arundel County? This comprehensive guide covers everything you ne
 - **Test Routes:** Drive to work during rush hour
 - **Public Transit:** Test MTA routes if using
   - **MTA Info:** (410) 768-7777
-  - **Website:** [mtamaryland.com](https://www.mtamaryland.com/)
+  - **Website:** [mtamaryland.com](https://www.marylandtransit.com/)
 - **Parking:** Confirm work parking arrangements
 - **Transportation Costs:** Calculate commuting expenses
 
@@ -322,7 +322,7 @@ Moving to Anne Arundel County? This comprehensive guide covers everything you ne
 
 **Public Schools (AACPS):**
 - **Phone:** (410) 222-8000
-- **Website:** [aacounty.org/aacps](https://www.aacounty.org/departments/education/aacps)
+- **Website:** [aacounty.org/aacps](https://www.aacps.org)
 - **Address:** 100 County Center, Annapolis, MD 21401
 
 **Public Library:**
@@ -427,7 +427,7 @@ Moving to Anne Arundel County? This comprehensive guide covers everything you ne
 ### Community & Services
 - [Anne Arundel County Free Library](https://www.aacounty.org/departments/library)
 - [Maryland State Board of Elections](https://vote.maryland.gov/)
-- [MTA Maryland Transit](https://www.mtamaryland.com/)
+- [MTA Maryland Transit](https://www.marylandtransit.com/)
 - [Maryland Department of Transportation](https://www.maryland.gov/mdot/)
 
 ### Healthcare & Safety
@@ -437,7 +437,7 @@ Moving to Anne Arundel County? This comprehensive guide covers everything you ne
 - [Maryland State Police](https://maryland.gov/msp/)
 
 ### Family & Education
-- [AACPS](https://www.aacounty.org/departments/education/aacps)
+- [AACPS](https://www.aacps.org)
 - [Maryland State Department of Education](https://marylandpublicschools.org/)
 - [Maryland Child Care](https://maryland.gov/dcf/)
 - [Head Start Maryland](https://mdhs.state.md.us/)

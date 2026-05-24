@@ -154,7 +154,7 @@ Don't be afraid to switch doctors if the relationship isn't working. You need to
 
 For more detailed information:
 - [**Hospital Comparison Guide**](/topics/hospitals-guide/) - Side-by-side facility comparisons
-- **Insurance Navigation** - Contact Maryland Health Connection at [marylandhealthconnection.gov](https://www.marylandhealthconnection.gov) - Complete insurance process breakdown
+- **Insurance Navigation** - Contact Maryland Health Connection at [marylandhealthconnection.gov](https://marylandhealthconnection.gov) - Complete insurance process breakdown
 - [**Pediatric Care Resources**](/topics/pediatric-care/) - Children's healthcare information
 
 Healthcare in Anne Arundel County has good options, but you need to navigate it actively. Take the time to find the right providers, understand your coverage, and build relationships with your medical team. Your health is worth the effort.
@@ -167,12 +167,12 @@ Healthcare in Anne Arundel County has good options, but you need to navigate it 
 **Official State Health Department**  
 - State Health Site: [health.maryland.gov](https://health.maryland.gov)  
 - Health Alerts: [health.maryland.gov/Pages/healthalerts.aspx](https://health.maryland.gov/Pages/healthalerts.aspx)  
-- Disease Control: [health.maryland.gov/phpa/dcpo](https://health.maryland.gov/phpa/dcpo)
+- Disease Control: [health.maryland.gov/phpa/dcpo](https://health.maryland.gov/phpa)
 
 ### Anne Arundel County Health Department
 
 **County Health Department**  
-- Official County Health: [www.aacounty.org/health](https://www.aacounty.org/health)  
+- Official County Health: [www.aacounty.org/health](https://www.aacounty.org/department-health)  
 - Immunization Records: [www.aacounty.org/departments/public-health/immunization](https://www.aacounty.org/departments/public-health/immunization)  
 - Address: 1000 State Road, Annapolis, MD 21401 | Phone: 410-222-7200
 
@@ -183,7 +183,7 @@ Healthcare in Anne Arundel County has good options, but you need to navigate it 
 - Health Topics: [cdc.gov/healthtopics](https://www.cdc.gov/healthtopics)
 
 **Maryland Health Connection**  
-- State Health Insurance: [marylandhealthconnection.gov](https://www.marylandhealthconnection.gov)
+- State Health Insurance: [marylandhealthconnection.gov](https://marylandhealthconnection.gov)
 
 ---
 

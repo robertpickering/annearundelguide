@@ -478,12 +478,12 @@ For more healthcare info:
 **Maryland Department of Health**  
 - Official State Health Department: [health.maryland.gov](https://health.maryland.gov)  
 - Health Alerts and Notifications: [MD Health Alerts](https://health.maryland.gov/Pages/healthalerts.aspx)  
-- Disease Prevention and Control: [MD Disease Control](https://health.maryland.gov/phpa/dcpo/Pages/default.aspx)
+- Disease Prevention and Control: [MD Disease Control](https://health.maryland.gov/phpa/Pages/default.aspx)
 
 ### Anne Arundel County Health Department
 
 **County Health Department**  
-- Official County Health: [www.aacounty.org/health](https://www.aacounty.org/health)  
+- Official County Health: [www.aacounty.org/health](https://www.aacounty.org/department-health)  
 - Immunization Records: [County Immunizations](https://www.aacounty.org/departments/public-health/immunization)  
 - STD Services: [County STD Programs](https://www.aacounty.org/departments/public-health/std)  
 - Address: 1000 State Road, Annapolis, MD 21401 | Phone: 410-222-7200
@@ -495,8 +495,8 @@ For more healthcare info:
 - Health Information: [CDC Health Topics](https://www.cdc.gov/healthtopics)
 
 **Maryland Health Connection**  
-- State Health Insurance Marketplace: [marylandhealthconnection.gov](https://www.marylandhealthconnection.gov)  
-- Apply for Coverage: [Apply Now](https://www.marylandhealthconnection.gov)
+- State Health Insurance Marketplace: [marylandhealthconnection.gov](https://marylandhealthconnection.gov)  
+- Apply for Coverage: [Apply Now](https://marylandhealthconnection.gov)
 
 ### Hospital Official Information
 

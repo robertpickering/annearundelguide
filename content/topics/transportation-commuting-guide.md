@@ -140,7 +140,7 @@ Anne Arundel County offers multiple transportation options for residents, from m
 - **Use:** South County to Baltimore
 
 **MTA Resources:**
-- **Website:** [mtamaryland.com](https://www.mtamaryland.com/)
+- **Website:** [mtamaryland.com](https://www.marylandtransit.com/)
 - **Phone:** (410) 768-7777
 - **Schedule:** Route schedules and maps online
 - **Fare Info:** CharmCard and cash payments
@@ -636,7 +636,7 @@ A: Yes, some bike lanes and shared lanes in Annapolis and Severna Park.
 
 ## Verified Sources & References
 
-1. **MTA Maryland:** [mtamaryland.com](https://www.mtamaryland.com/)
+1. **MTA Maryland:** [mtamaryland.com](https://www.marylandtransit.com/)
 2. **MARC Train:** [marctrain.com](https://www.marc.com/)
 3. **Amtrak:** [amtrak.com](https://www.amtrak.com/)
 4. **BWI Airport:** [bwiairport.com](https://www.bwiairport.com/)
