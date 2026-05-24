@@ -1,13 +1,11 @@
 baseURL = 'https://annearundelguide.com/'
 languageCode = 'en-us'
 title = 'Anne Arundel County Guide'
-theme = 'blowfish'
+theme = 'ananke'
 
 [params]
-  colorScheme = "anne-arundel"
-  homepage.layout = "hero"
-  homepage.homepageImage = "/img/anne-arundel-hero.svg"
-  description = "Your comprehensive guide to living in Anne Arundel County, Maryland"
+  colorScheme = "ananke"
+  description = 'Your comprehensive guide to living in Anne Arundel County, Maryland'
   showPostNavigation = true
   showReadingTime = true
   showWordCount = true
