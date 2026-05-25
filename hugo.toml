@@ -16,29 +16,6 @@ theme = 'relearn'
   disableThemeToggle = true
   label = { text = "Anne Arundel Guide", icon = "/logo.png" }
 
-[params.ananke]
-  custom_css = ["custom.css"]
-  
-  [params.article]
-    showDate = true
-    showDateUpdated = true
-    showWordCount = true
-    showReadingTime = true
-    showViews = false
-    showLikes = false
-    showEdit = false
-    showZenMode = false
-    showHero = false
-    showBreadcrumbs = true
-    showTableOfContents = false
-    showAuthor = false
-    showAuthorBottom = false
-    showAuthorsBadges = false
-    showTaxonomies = false
-    showCategories = true
-    showTags = true
-    showDateOnlyInArticle = false
-
 [menu]
   [[menu.main]]
     name = "Home"
