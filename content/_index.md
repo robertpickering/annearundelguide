@@ -168,7 +168,7 @@ weight: 1
 <p class="text-primary-700 mb-4 text-sm">
     Discover Arbutus, Edgewater, Fort Meade, Hanover, and 40+ additional census-designated places across our 625 square miles.
 </p>
-<a href="/topics/commuting-transportation" class="text-primary-600 hover:text-primary-700 font-bold">Browse all areas →</a>
+<a href="/topics/" class="text-primary-600 hover:text-primary-700 font-bold">Browse all areas →</a>
 </div>
 </div>
 </div>
@@ -380,7 +380,7 @@ weight: 1
 <p class="text-neutral-600 text-sm mb-4">
     Family-friendly attractions, playgrounds, beaches, seasonal festivals, and youth programs across all communities.
 </p>
-<a href="/topics/family" class="text-primary-600 hover:text-primary-700 text-sm font-medium">Plan activities →</a>
+<a href="/topics/things-to-do/" class="text-primary-600 hover:text-primary-700 text-sm font-medium">Plan activities →</a>
 </div>
 </div>
 
@@ -402,7 +402,7 @@ weight: 1
 </div>
 <div>
 <h4 class="font-bold text-neutral-800">Chesapeake Bay Maritime Center</h4>
-<p class="text-sm text-neutral-600 mb-1">St. Michaels area—day trips via county ferries</p>
+<p class="text-sm text-neutral-600 mb-1">Visit St. Michaels area for maritime exhibits and boat tours</p>
 </div>
 </div>
 </div>
@@ -483,87 +483,9 @@ weight: 1
 </div>
 
 <div class="text-center mt-8">
-<a href="/topics/severna-park/" class="inline-flex items-center justify-center px-6 py-2 border border-neutral-300 text-base font-medium rounded-lg text-neutral-700 bg-white hover:bg-neutral-50 transition-colors">
+<a href="/topics/things-to-do/" class="inline-flex items-center justify-center px-6 py-2 border border-neutral-300 text-base font-medium rounded-lg text-neutral-700 bg-white hover:bg-neutral-50 transition-colors">
     View Full Event Calendar
 </a>
-</div>
-</div>
-</div>
-</section>
-
-<!-- Living in Anne Arundel Section -->
-<section id="living" class="container mx-auto px-4 py-16">
-<div class="max-w-6xl mx-auto">
-<h2 class="text-3xl md:text-4xl font-bold text-neutral-900 text-center mb-4">
-    Living in Anne Arundel County
-</h2>
-<p class="text-lg text-neutral-600 text-center mb-12 max-w-2xl mx-auto">
-    Everything you need to know about cost of living, schools, neighborhoods, and daily life in our county.
-</p>
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
-<!-- Cost of Living -->
-<div class="bg-white rounded-xl shadow-lg p-8">
-<div class="text-3xl mb-4">💵</div>
-<h3 class="text-2xl font-bold text-neutral-900 mb-4">Cost of Living</h3>
-<div class="space-y-3 text-sm text-neutral-600">
-<p><strong>Housing:</strong> Median home price ranges from $380K (Glen Burnie) to $650K+ (Annapolis, Severna Park)</p>
-<p><strong>Property Taxes:</strong> Approximately 0.95% of assessed value—among Maryland's lowest</p>
-<p><strong>Utilities:</strong> BGE electric, local gas providers, water rates vary by municipality</p>
-<p><strong>Transportation:</strong> MARC train monthly passes ($100-$180), MTA bus ($2 cash, $1.50 CharmCard)</p>
-<p><strong>Groceries:</strong> Prices align with regional averages—slightly above national mean</p>
-</div>
-<div class="mt-6 pt-6 border-t border-neutral-200">
-<a href="/topics/budgeting-cost-living/" class="text-primary-600 hover:text-primary-700 font-medium">→ Full cost breakdown</a>
-</div>
-</div>
-
-<!-- Schools -->
-<div class="bg-white rounded-xl shadow-lg p-8">
-<div class="text-3xl mb-4">🎓</div>
-<h3 class="text-2xl font-bold text-neutral-900 mb-4">Schools &amp; Education</h3>
-<div class="space-y-3 text-sm text-neutral-600">
-<p><strong>AACPS:</strong> 42 elementary, 12 middle, 9 high schools serving ~35,000 students</p>
-<p><strong>Ratings:</strong> Multiple schools ranked in top 10% of Maryland—Severna Park, Glen Burnie, Crownsville</p>
-<p><strong>Private Options:</strong> 15+ private schools including religious and Montessori programs</p>
-<p><strong>Special Programs:</strong> Gifted &amp; talented, special education, STEM academies, IB programs</p>
-<p><strong>Enrollment:</strong> Year-round enrollment with online registration via ParentVUE portal</p>
-</div>
-<div class="mt-6 pt-6 border-t border-neutral-200">
-<a href="/topics/schools-education-pathways/" class="text-primary-600 hover:text-primary-700 font-medium">→ Complete school guide</a>
-</div>
-</div>
-
-<!-- Neighborhoods -->
-<div class="bg-white rounded-xl shadow-lg p-8">
-<div class="text-3xl mb-4">🏘️</div>
-<h3 class="text-2xl font-bold text-neutral-900 mb-4">Neighborhood Highlights</h3>
-<div class="space-y-3 text-sm text-neutral-600">
-<p><strong>Waterfront:</strong> Annapolis, Pasadena, Edgewater—marina access, historic charm, higher prices</p>
-<p><strong>Family-Focused:</strong> Severna Park, Crofton, Odenton—excellent schools, parks, community events</p>
-<p><strong>Urban-Adjacent:</strong> Glen Burnie, Severn—suburban convenience, highway access, diverse housing</p>
-<p><strong>Military Proximity:</strong> Odenton, Fort Meade area—housing benefits, community support</p>
-<p><strong>Rural Character:</strong> North County, Crofton—larger properties, equestrian facilities, tranquility</p>
-</div>
-<div class="mt-6 pt-6 border-t border-neutral-200">
-<a href="/topics/severn/" class="text-primary-600 hover:text-primary-700 font-medium">→ Explore all areas</a>
-</div>
-</div>
-
-<!-- Commuting -->
-<div class="bg-white rounded-xl shadow-lg p-8">
-<div class="text-3xl mb-4">🚗</div>
-<h3 class="text-2xl font-bold text-neutral-900 mb-4">Commuting &amp; Transportation</h3>
-<div class="space-y-3 text-sm text-neutral-600">
-<p><strong>I-95 Corridor:</strong> Direct access to Baltimore and DC—25-45 minutes to major employment centers</p>
-<p><strong>MARC Train:</strong> Penn Line connects BWI Rail Station to Union Station DC (45-50 min)</p>
-<p><strong>MTA Buses:</strong> Routes 4, 7, and 9 provide local and regional service</p>
-<p><strong>Highways:</strong> MD-295 (Baltimore-Washington Parkway), I-295, MD-3, MD-174</p>
-<p><strong>Parking:</strong> Free county parking; MARC station parking fills early on weekdays</p>
-</div>
-<div class="mt-6 pt-6 border-t border-neutral-200">
-<a href="/topics/commuting-transportation/" class="text-primary-600 hover:text-primary-700 font-medium">→ Commuting guide</a>
-</div>
 </div>
 </div>
 </div>
@@ -623,11 +545,11 @@ weight: 1
 <div>
 <h3 class="text-white font-bold text-lg mb-4">Legal</h3>
 <ul class="space-y-2 text-sm">
-<li><a href="/topics/settling-in-guide/" class="text-primary-400 hover:text-primary-300">Privacy Policy</a></li>
-<li><a href="/topics/budgeting-cost-living/" class="text-primary-400 hover:text-primary-300">Terms of Service</a></li>
-<li><a href="/topics/schools-education-pathways/" class="text-primary-400 hover:text-primary-300">Editorial Policy</a></li>
-<li><a href="/topics/healthcare-navigation/" class="text-primary-400 hover:text-primary-300">Accuracy &amp; Verification</a></li>
-<li><a href="/topics/settling-in-first-30-days/" class="text-primary-400 hover:text-primary-300">Contact Us</a></li>
+<li><a href="/legal/privacy-policy/" class="text-primary-400 hover:text-primary-300">Privacy Policy</a></li>
+<li><a href="/legal/terms-of-service/" class="text-primary-400 hover:text-primary-300">Terms of Service</a></li>
+<li><a href="/legal/editorial-policy/" class="text-primary-400 hover:text-primary-300">Editorial Policy</a></li>
+<li><a href="/legal/accuracy-verification/" class="text-primary-400 hover:text-primary-300">Accuracy &amp; Verification</a></li>
+<li><a href="/legal/contact-us/" class="text-primary-400 hover:text-primary-300">Contact Us</a></li>
 </ul>
 </div>
 

@@ -45,9 +45,13 @@ theme = 'ananke'
     pageRef = "/"
     weight = 1
   [[menu.main]]
+    name = "Things to Do"
+    pageRef = "/topics/things-to-do/"
+    weight = 2
+  [[menu.main]]
     name = "Settling In"
     pageRef = "/topics/settling-in-first-30-days/"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "Schools"
     pageRef = "/topics/schools-education-pathways/"
