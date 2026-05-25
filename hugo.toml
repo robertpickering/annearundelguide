@@ -1,7 +1,7 @@
 baseURL = 'https://annearundelguide.com/'
 languageCode = 'en-us'
 title = 'Anne Arundel County Guide'
-theme = 'ananke'
+theme = 'relearn'
 
 [params]
   custom_css = ["custom.css"]
