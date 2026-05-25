@@ -7,40 +7,70 @@ Explore the best attractions, parks, trails, and experiences Anne Arundel County
 
 ## Parks & Outdoor Recreation
 
-{{< card title="Sandy Point State Park" link="/topics/001-sandy-point-state-park/" icon="fas fa-tree" >}}
+### Sandy Point State Park
 
-{{< card title="North Point State Park" link="/topics/012-north-point-state-park/" icon="fas fa-water" >}}
+[Sandy Point State Park](/topics/001-sandy-point-state-park/) - A beautiful 6,500-acre state park offering beaches, camping, fishing, and boating on the Chesapeake Bay.
 
-{{< card title="Franklin Point State Park" link="/topics/007-franklin-point-state-park/" icon="fas fa-tree" >}}
+### North Point State Park
 
-{{< card title="Love Point State Park" link="/topics/008-love-point-state-park/" icon="fas fa-tree" >}}
+[North Point State Park](/topics/012-north-point-state-park/) - A 565-acre park with historic significance where British ships attempted to pass Fort McHenry in September 1814, inspiring the writing of the Star-Spangled Banner.
 
-{{< card title="Patuxent State Park" link="/topics/015-patuxent-state-park/" icon="fas fa-tree" >}}
+### Franklin Point State Park
 
-{{< card title="Quiet Waters Park" link="/topics/006-quiet-waters-park/" icon="fas fa-swimming-pool" >}}
+[Franklin Point State Park](/topics/007-franklin-point-state-park/) - A peaceful 470-acre park featuring trails, fishing, boating, and picnic areas along the Severn River.
 
-{{< card title="Patapsco Valley State Park Areas" link="/topics/013-patapsco-valley-state-park-areas/" icon="fas fa-mountain" >}}
+### Love Point State Park
 
-{{< card title="Bacon Ridge Natural Area" link="/topics/009-bacon-ridge-natural-area/" icon="fas fa-leaf" >}}
+[Love Point State Park](/topics/008-love-point-state-park/) - A 1,500-acre park offering hiking trails, fishing, boating, and scenic views of the Chesapeake Bay.
+
+### Patuxent State Park
+
+[Patuxent State Park](/topics/015-patuxent-state-park/) - A 6,700-acre park protecting the upper Patuxent River watershed with camping, hiking, and water sports.
+
+### Quiet Waters Park
+
+[Quiet Waters Park](/topics/006-quiet-waters-park/) - A 504-acre park featuring lakes, walking trails, tennis courts, and recreational programs.
+
+### Patapsco Valley State Park Areas
+
+[Patapsco Valley State Park Areas](/topics/013-patapsco-valley-state-park-areas/) - Over 16,000 acres of park areas with hiking, mountain biking, cycling, and nature trails through dramatic gorges and river valleys.
+
+### Bacon Ridge Natural Area
+
+[Bacon Ridge Natural Area](/topics/009-bacon-ridge-natural-area/) - A protected natural area offering hiking trails through diverse ecosystems and native plant communities.
 
 ## Trails & Walking Paths
 
-{{< card title="BWI Trail" link="/topics/002-bwi-trail/" icon="fas fa-hiking" >}}
+### BWI Trail
 
-{{< card title="Baltimore-Annapolis Trail" link="/topics/003-baltimore-annapolis-trail/" icon="fas fa-biking" >}}
+[BWI Trail](/topics/002-bwi-trail/) - A paved trail connecting BWI Airport to Annapolis, perfect for walking, running, and cycling.
 
-{{< card title="Abandoned Cars in the Forest" link="/topics/014-abandoned-cars-in-the-forest/" icon="fas fa-camera" >}}
+### Baltimore-Annapolis Trail
+
+[Baltimore-Annapolis Trail](/topics/003-baltimore-annapolis-trail/) - A multi-use trail providing a scenic route between Baltimore and Annapolis for walking and cycling.
+
+### Abandoned Cars in the Forest
+
+[Abandoned Cars in the Forest](/topics/014-abandoned-cars-in-the-forest/) - A unique urban exploration site where abandoned vehicles have been left to rust in a forest setting.
 
 ## Historic Sites & Museums
 
-{{< card title="Maryland State House" link="/topics/004-maryland-state-house/" icon="fas fa-building" >}}
+### Maryland State House
 
-{{< card title="Kunta Kinte-Alex Haley Memorial" link="/topics/005-kunta-kinte-alex-haley-memorial/" icon="fas fa-landmark" >}}
+[Maryland State House](/topics/004-maryland-state-house/) - The oldest state capitol in continuous legislative use, featuring historic chambers and beautiful architecture.
 
-{{< card title="Historic London Town and Gardens" link="/topics/010-historic-london-town-and-gardens/" icon="fas fa-history" >}}
+### Kunta Kinte-Alex Haley Memorial
 
-{{< card title="Annapolis Maritime Hall of Fame" link="/topics/011-annapolis-maritime-hall-of-fame/" icon="fas fa-ship" >}}
+[Kunta Kinte-Alex Haley Memorial](/topics/005-kunta-kinte-alex-haley-memorial/) - A memorial dedicated to the ancestors of author Alex Haley, known for "Roots."
+
+### Historic London Town and Gardens
+
+[Historic London Town and Gardens](/topics/010-historic-london-town-and-gardens/) - A 65-acre historical site preserving an 18th-century colonial port town with archaeological remains and beautiful gardens.
+
+### Annapolis Maritime Hall of Fame
+
+[Annapolis Maritime Hall of Fame](/topics/011-annapolis-maritime-hall-of-fame/) - A hall of fame celebrating legends who shaped boating, sailing, and maritime heritage in Annapolis.
 
 ---
 
-*Planning your visit? Check out our [Annapolis guide](/topics/annapolis.html) for more information about Maryland's capital city.*
+Planning your visit? Check out our [Annapolis guide](/topics/annapolis.html) for more information about Maryland's capital city.
