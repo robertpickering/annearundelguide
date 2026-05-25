@@ -15,6 +15,9 @@ theme = 'ananke'
   enableEmoji = true
   disableThemeToggle = true
   label = { text = "Anne Arundel Guide", icon = "/logo.png" }
+
+[params.ananke]
+  custom_css = ["custom.css"]
   
   [params.article]
     showDate = true
