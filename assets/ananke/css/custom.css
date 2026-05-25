@@ -1,0 +1,25 @@
+/* Change overall page background */
+body {
+  background-color: #f0f4f8;
+  color: #1e293b;
+}
+
+/* Header bar */
+header {
+  background-color: #1e3a8a; /* dark blue */
+}
+
+/* Links */
+a {
+  color: #2563eb;
+}
+
+a:hover {
+  color: #1d4ed8;
+}
+
+/* Buttons */
+button, .btn {
+  background-color: #2563eb;
+  color: white;
+}
