@@ -1,25 +1,27 @@
-/* Change overall page background */
-body {
-  background-color: red !important;
-  color: #1e293b;
+/* Override page background */
+.bg-near-white {
+  background-color: #f0f4f8 !important;
 }
 
-/* Header bar */
-header {
-  background-color: #1e3a8a; /* dark blue */
+/* Override text color */
+.mid-gray,
+.dark-gray,
+.black-80 {
+  color: #1e293b !important;
+}
+
+/* Header area */
+.bg-black {
+  background-color: #1e3a8a !important;
 }
 
 /* Links */
 a {
-  color: #2563eb;
+  color: #2563eb !important;
 }
 
-a:hover {
-  color: #1d4ed8;
+/* Buttons / links styled as buttons */
+.pa3.bg-black {
+  background-color: #2563eb !important;
 }
-
-/* Buttons */
-button, .btn {
-  background-color: #2563eb;
-  color: white;
-}
+``
