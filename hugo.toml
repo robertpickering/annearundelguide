@@ -3,7 +3,19 @@ languageCode = 'en-us'
 title = 'Anne Arundel County Guide'
 theme = 'relearn'
 
+# Canonical URLs with trailing slashes for better SEO
+[permalinks]
+  page = '/:slug/'
+  topics = '/:slug/'
+  categories = '/:slug/'
+  tags = '/:slug/'
+
+[pagination]
+  disabled = false
+
 [params]
+  author = ""
+  authorEmail = ""
   custom_css = ["custom.css"]
   description = 'Your comprehensive guide to living in Anne Arundel County, Maryland'
   showPostNavigation = true
