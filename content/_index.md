@@ -517,7 +517,7 @@ weight: 1
 <footer class="bg-neutral-900 text-neutral-300 py-12">
 <div class="container mx-auto px-4">
 <div class="max-w-6xl mx-auto">
-<div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
 <!-- About -->
 <div>
 <h3 class="text-white font-bold text-lg mb-4">About AnneArundelGuide.com</h3>
@@ -538,18 +538,6 @@ weight: 1
 <li><a href="/topics/healthcare-navigation/" class="text-primary-400 hover:text-primary-300">Healthcare Resources</a></li>
 <li><a href="/topics/commuting-transportation/" class="text-primary-400 hover:text-primary-300">Transportation</a></li>
 <li><a href="/topics/budgeting-cost-living/" class="text-primary-400 hover:text-primary-300">Cost of Living</a></li>
-</ul>
-</div>
-
-<!-- Legal -->
-<div>
-<h3 class="text-white font-bold text-lg mb-4">Legal</h3>
-<ul class="space-y-2 text-sm">
-<li><a href="/legal/privacy-policy/" class="text-primary-400 hover:text-primary-300">Privacy Policy</a></li>
-<li><a href="/legal/terms-of-service/" class="text-primary-400 hover:text-primary-300">Terms of Service</a></li>
-<li><a href="/legal/editorial-policy/" class="text-primary-400 hover:text-primary-300">Editorial Policy</a></li>
-<li><a href="/legal/accuracy-verification/" class="text-primary-400 hover:text-primary-300">Accuracy &amp; Verification</a></li>
-<li><a href="/legal/contact-us/" class="text-primary-400 hover:text-primary-300">Contact Us</a></li>
 </ul>
 </div>
 
