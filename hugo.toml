@@ -27,6 +27,9 @@ theme = 'relearn'
   enableEmoji = true
   disableThemeToggle = true
   label = { text = "Anne Arundel Guide", icon = "/logo.png" }
+  hideAuthorName = true
+  hideAuthorEmail = true
+  hideAuthorDate = false
 
 [menu]
   [[menu.main]]
