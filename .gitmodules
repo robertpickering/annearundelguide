@@ -7,4 +7,4 @@
 	url = https://github.com/gohugo-ananke/ananke.git
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
-	url = git@github.com:adityatelange/hugo-PaperMod.git
+	url = https://github.com/adityatelange/hugo-PaperMod.git
