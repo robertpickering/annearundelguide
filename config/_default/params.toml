@@ -1,0 +1,3 @@
+# Hide git commit author info from page footers
+hideAuthorName = true
+hideAuthorEmail = true
