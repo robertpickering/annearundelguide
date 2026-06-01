@@ -1,0 +1,10 @@
+{{- /* 
+  DecoratedLink - Renders a link with trailing slash for canonical URLs
+  Usage: {{ partial "partial/decorated-link" (dict "href" "/topics/test" "title" "Test Page") }}
+*/}}
+{{- $href := .href }}
+{{- $title := .title }}
+{{- if not (hasSuffix "/" $href) }}
+{{- $href = print $href "/" }}
+{{- end }}
+<a href="{{ $href }}">{{ $title }}</a>

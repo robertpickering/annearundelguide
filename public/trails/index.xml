@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trails :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/trails/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://annearundelguide.com/trails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bacon Ridge Natural Area</title>
+      <link>https://annearundelguide.com/bacon-ridge-natural-area/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/bacon-ridge-natural-area/index.html</guid>
+      <description>Bacon Ridge Natural Area is a 53-acre preserve in Annapolis featuring walking trails through old-growth forest along the Severn River.</description>
+    </item>
+    <item>
+      <title>Franklin Point State Park</title>
+      <link>https://annearundelguide.com/franklin-point-state-park/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/franklin-point-state-park/index.html</guid>
+      <description>Franklin Point State Park is a 470-acre park on the Severn River offering trails, fishing, boating, and picnic areas near Crofton.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,75 +1,24 @@
 baseURL = 'https://annearundelguide.com/'
 languageCode = 'en-us'
-title = 'Anne Arundel County Guide'
+title = 'Anne Arundel Guide'
 theme = 'relearn'
 
-# Canonical URLs with trailing slashes for better SEO
+enableRobotsTXT = true
+canonifyURLs = true
+
+# Permalinks for all sections
 [permalinks]
   page = '/:slug/'
-  topics = '/:slug/'
+  cities = '/:slug/'
+  attractions = '/:slug/'
+  guides = '/:slug/'
+  pages = '/:slug/'
   categories = '/:slug/'
   tags = '/:slug/'
 
-[pagination]
-  disabled = false
-
-[params]
-  author = ""
-  authorEmail = ""
-  custom_css = ["custom.css"]
-  description = 'Your comprehensive guide to living in Anne Arundel County, Maryland'
-  showPostNavigation = true
-  showReadingTime = true
-  showWordCount = true
-  showToc = true
-  disableSpecial1stPost = false
-  disableHL = false
-  enableEmoji = true
-  disableThemeToggle = true
-  label = { text = "Anne Arundel Guide", icon = "/logo.png" }
-  hideAuthorName = true
-  hideAuthorEmail = true
-  hideAuthorDate = false
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    pageRef = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Things to Do"
-    pageRef = "/topics/things-to-do/"
-    weight = 2
-  [[menu.main]]
-    name = "Settling In"
-    pageRef = "/topics/settling-in-first-30-days/"
-    weight = 3
-  [[menu.main]]
-    name = "Schools"
-    pageRef = "/topics/schools-education-pathways/"
-    weight = 3
-  [[menu.main]]
-    name = "Healthcare"
-    pageRef = "/topics/healthcare-navigation/"
-    weight = 4
-  [[menu.main]]
-    name = "Transportation"
-    pageRef = "/topics/commuting-transportation/"
-    weight = 5
-  [[menu.main]]
-    name = "Budgeting"
-    pageRef = "/topics/budgeting-cost-living/"
-    weight = 6
-  [[menu.main]]
-    name = "Veterans"
-    pageRef = "/topics/veterans-military-resources/"
-    weight = 7
+# Note: description moved to home page frontmatter for Relearn theme compatibility
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[outputs]
-  home = ["HTML"]
-  section = ["HTML"]

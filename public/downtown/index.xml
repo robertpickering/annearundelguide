@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downtown :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/downtown/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://annearundelguide.com/downtown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arnold, Maryland</title>
+      <link>https://annearundelguide.com/arnold/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/arnold/index.html</guid>
+      <description>Arnold is a charming waterfront community on the Severn River in Anne Arundel County, known for its historic downtown, seafood restaurants, and ferry to Annapolis.</description>
+    </item>
+    <item>
+      <title>Odenton, Maryland</title>
+      <link>https://annearundelguide.com/odenton/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/odenton/index.html</guid>
+      <description>Odenton is a growing community in western Anne Arundel County near Fort Meade, with a new downtown development, parks, and excellent schools.</description>
+    </item>
+    <item>
+      <title>Severna Park, Maryland</title>
+      <link>https://annearundelguide.com/severna-park/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/severna-park/index.html</guid>
+      <description>Severna Park is one of Anne Arundel County&#39;s most desirable communities, known for its excellent schools, walkable downtown, and family-friendly atmosphere.</description>
+    </item>
+  </channel>
+</rss>

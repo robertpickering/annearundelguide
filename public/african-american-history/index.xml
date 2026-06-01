@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>African American History :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/african-american-history/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://annearundelguide.com/african-american-history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kunta Kinte-Alex Haley Memorial</title>
+      <link>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/index.html</guid>
+      <description>The Kunta Kinte-Alex Haley Memorial in Annapolis commemorates the legacy of Alex Haley and honors the history of the African American experience.</description>
+    </item>
+  </channel>
+</rss>

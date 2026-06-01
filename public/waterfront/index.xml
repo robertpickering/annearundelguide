@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waterfront :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/waterfront/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://annearundelguide.com/waterfront/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arnold, Maryland</title>
+      <link>https://annearundelguide.com/arnold/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/arnold/index.html</guid>
+      <description>Arnold is a charming waterfront community on the Severn River in Anne Arundel County, known for its historic downtown, seafood restaurants, and ferry to Annapolis.</description>
+    </item>
+    <item>
+      <title>Davidsonville, Maryland</title>
+      <link>https://annearundelguide.com/davidsonville/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/davidsonville/index.html</guid>
+      <description>Davidsonville is a waterfront community on the Patuxent River in southern Anne Arundel County, offering boat ramps, parks, and a relaxed Chesapeake Bay lifestyle.</description>
+    </item>
+    <item>
+      <title>Deale, Maryland</title>
+      <link>https://annearundelguide.com/deale/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/deale/index.html</guid>
+      <description>Deale is a small waterfront community in eastern Anne Arundel County on the Chesapeake Bay, known for its beaches, boat launches, and quiet coastal living.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>State Park :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/state-park/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://annearundelguide.com/state-park/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Franklin Point State Park</title>
+      <link>https://annearundelguide.com/franklin-point-state-park/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/franklin-point-state-park/index.html</guid>
+      <description>Franklin Point State Park is a 470-acre park on the Severn River offering trails, fishing, boating, and picnic areas near Crofton.</description>
+    </item>
+    <item>
+      <title>Love Point State Park</title>
+      <link>https://annearundelguide.com/love-point-state-park/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/love-point-state-park/index.html</guid>
+      <description>Love Point State Park is a 1,500-acre park in Glen Burnie offering hiking trails, fishing, boating, and scenic views of the Chesapeake Bay.</description>
+    </item>
+    <item>
+      <title>North Point State Park</title>
+      <link>https://annearundelguide.com/north-point-state-park/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/north-point-state-park/index.html</guid>
+      <description>North Point State Park is a 565-acre park on the Chesapeake Bay where British ships attempted to pass Fort McHenry in 1814, inspiring the Star-Spangled Banner.</description>
+    </item>
+    <item>
+      <title>Patapsco Valley State Park Areas</title>
+      <link>https://annearundelguide.com/patapsco-valley-state-park-areas/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/patapsco-valley-state-park-areas/index.html</guid>
+      <description>Patapsco Valley State Park has multiple areas including sections near Arbutus and Rosedale offering hiking, mountain biking, and camping.</description>
+    </item>
+    <item>
+      <title>Patuxent State Park</title>
+      <link>https://annearundelguide.com/patuxent-state-park/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/patuxent-state-park/index.html</guid>
+      <description>Patuxent River State Park is a 6,700-acre park protecting the upper Patuxent River watershed with camping, hiking, boating, and water sports near Davidsonville.</description>
+    </item>
+    <item>
+      <title>Sandy Point State Park</title>
+      <link>https://annearundelguide.com/sandy-point-state-park/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/sandy-point-state-park/index.html</guid>
+      <description>Sandy Point State Park is a 6,500-acre park on the Chesapeake Bay offering beaches, camping, fishing, kayaking, and hiking trails near Annapolis.</description>
+    </item>
+  </channel>
+</rss>

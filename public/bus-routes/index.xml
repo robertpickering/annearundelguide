@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bus Routes :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/bus-routes/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://annearundelguide.com/bus-routes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anne Arundel County Transit Routes</title>
+      <link>https://annearundelguide.com/transit-routes/index.html</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/transit-routes/index.html</guid>
+      <description>Complete guide to public transit routes in Anne Arundel County - MTA buses, MARC train, and connecting services</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+{{- /* 
+  CanonicalLink Shortcode - Ensures all internal links have trailing slashes
+  Usage: {{< canonicalLink href="/topics/test" title="Test" class="my-class" >}}
+*/}}
+{{- $href := .Get "href" }}
+{{- $title := .Get "title" }}
+{{- $class := .Get "class" }}
+{{- if not (hasSuffix "/" $href) }}
+{{- $href = print $href "/" }}
+{{- end }}
+<a href="{{ $href }}" {{ if $class }}class="{{ $class }}"{{ end }}>{{ $title }}</a>

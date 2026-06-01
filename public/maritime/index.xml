@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maritime :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/maritime/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://annearundelguide.com/maritime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annapolis Maritime Hall of Fame</title>
+      <link>https://annearundelguide.com/annapolis-maritime-hall-of-fame/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/annapolis-maritime-hall-of-fame/index.html</guid>
+      <description>The Annapolis Maritime Museum and the U.S. Naval Academy Museum showcase naval history with exhibits, artifacts, and interactive displays about America&#39;s maritime heritage.</description>
+    </item>
+    <item>
+      <title>Crownsville, Maryland</title>
+      <link>https://annearundelguide.com/crownsville/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/crownsville/index.html</guid>
+      <description>Crownsville is a historic community in eastern Anne Arundel County, known for its Chesapeake Bay beaches, maritime history, and waterfront parks.</description>
+    </item>
+  </channel>
+</rss>

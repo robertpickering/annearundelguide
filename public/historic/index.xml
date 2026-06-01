@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Historic :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/historic/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://annearundelguide.com/historic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arnold, Maryland</title>
+      <link>https://annearundelguide.com/arnold/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/arnold/index.html</guid>
+      <description>Arnold is a charming waterfront community on the Severn River in Anne Arundel County, known for its historic downtown, seafood restaurants, and ferry to Annapolis.</description>
+    </item>
+    <item>
+      <title>Crownsville, Maryland</title>
+      <link>https://annearundelguide.com/crownsville/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/crownsville/index.html</guid>
+      <description>Crownsville is a historic community in eastern Anne Arundel County, known for its Chesapeake Bay beaches, maritime history, and waterfront parks.</description>
+    </item>
+    <item>
+      <title>Historic London Town and Gardens</title>
+      <link>https://annearundelguide.com/historic-london-town-and-gardens/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/historic-london-town-and-gardens/index.html</guid>
+      <description>Historic London Town and Gardens features beautifully restored 18th-century colonial buildings, gardens, and interpretive programs about Anne Arundel County colonial history.</description>
+    </item>
+    <item>
+      <title>Kunta Kinte-Alex Haley Memorial</title>
+      <link>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/index.html</guid>
+      <description>The Kunta Kinte-Alex Haley Memorial in Annapolis commemorates the legacy of Alex Haley and honors the history of the African American experience.</description>
+    </item>
+    <item>
+      <title>Maryland State House</title>
+      <link>https://annearundelguide.com/maryland-state-house/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/maryland-state-house/index.html</guid>
+      <description>The Maryland State House in Annapolis houses the oldest capitol building in continuous legislative use in the United States.</description>
+    </item>
+    <item>
+      <title>North Point State Park</title>
+      <link>https://annearundelguide.com/north-point-state-park/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/north-point-state-park/index.html</guid>
+      <description>North Point State Park is a 565-acre park on the Chesapeake Bay where British ships attempted to pass Fort McHenry in 1814, inspiring the Star-Spangled Banner.</description>
+    </item>
+  </channel>
+</rss>

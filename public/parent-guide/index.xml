@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parent Guide :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/parent-guide/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://annearundelguide.com/parent-guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>School Choices &amp; Education Pathways in Anne Arundel County</title>
+      <link>https://annearundelguide.com/schools-education/index.html</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/schools-education/index.html</guid>
+      <description>Complete guide to Anne Arundel County Public Schools, school ratings, special programs, private school options, and homeschooling resources for parents</description>
+    </item>
+  </channel>
+</rss>

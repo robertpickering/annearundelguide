@@ -1,0 +1,27 @@
+{{- /* 
+  SEO Helper - Server-side link rendering for canonical URLs with trailing slashes
+  Adds canonical URL meta tags and ensures all internal links have trailing slashes
+*/}}
+
+{{- /* Canonical URL for current page */}}
+{{- $canonicalURL := "" }}
+{{- with .Permalink }}
+  {{- $canonicalURL = . }}
+{{- else }}
+  {{- $canonicalURL = print .Site.BaseURL .RelPermalink }}
+{{- end }}
+
+{{- /* Add canonical meta tag to page head */}}
+<meta name="canonical" content="{{ $canonicalURL }}" />
+
+{{- /* Function to ensure links have trailing slashes - use in content */}}
+{{- define "partials/seo/ensureTrailingSlash" -}}
+{{- $url := . -}}
+{{- if not (hasSuffix "/" $url) -}}
+{{- $url = print $url "/" -}}
+{{- end -}}
+{{- return $url -}}
+{{- end -}}
+
+{{- /* Render the SEO helpers */}}
+{{- partial "seo/canonical-url.html" . -}}

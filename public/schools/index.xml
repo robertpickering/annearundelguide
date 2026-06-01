@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schools :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/schools/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://annearundelguide.com/schools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Settling In: Your First 30 Days in Anne Arundel County</title>
+      <link>https://annearundelguide.com/settling-in/index.html</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/settling-in/index.html</guid>
+      <description>A comprehensive guide for new residents covering vehicle registration, utilities, schools, healthcare, and essential services for your first month in Anne Arundel County, MD</description>
+    </item>
+    <item>
+      <title>School Choices &amp; Education Pathways in Anne Arundel County</title>
+      <link>https://annearundelguide.com/schools-education/index.html</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/schools-education/index.html</guid>
+      <description>Complete guide to Anne Arundel County Public Schools, school ratings, special programs, private school options, and homeschooling resources for parents</description>
+    </item>
+    <item>
+      <title>AACPS Enrollment Guide</title>
+      <link>https://annearundelguide.com/enrollment-guide/index.html</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/enrollment-guide/index.html</guid>
+      <description>Step-by-step guide to enrolling children in Anne Arundel County Public Schools - requirements, process, and timelines</description>
+    </item>
+    <item>
+      <title>Military Education &amp; Training Opportunities</title>
+      <link>https://annearundelguide.com/military-education/index.html</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/military-education/index.html</guid>
+      <description>Education resources for military families in Anne Arundel County - from military schools to civilian education benefits</description>
+    </item>
+    <item>
+      <title>Crofton, Maryland</title>
+      <link>https://annearundelguide.com/crofton/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/crofton/index.html</guid>
+      <description>Crofton is a family-friendly community in central Anne Arundel County with excellent schools, parks, and proximity to Fort Meade and the NSA.</description>
+    </item>
+    <item>
+      <title>Odenton, Maryland</title>
+      <link>https://annearundelguide.com/odenton/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/odenton/index.html</guid>
+      <description>Odenton is a growing community in western Anne Arundel County near Fort Meade, with a new downtown development, parks, and excellent schools.</description>
+    </item>
+  </channel>
+</rss>

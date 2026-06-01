@@ -1,0 +1,8 @@
+{{- /* Canonical URL Meta Tag for SEO */}}
+{{- $canonicalURL := "" }}
+{{- with .Permalink }}
+  {{- $canonicalURL = . }}
+{{- else }}
+  {{- $canonicalURL = print .Site.BaseURL .RelPermalink }}
+{{- end }}
+<link rel="canonical" href="{{ $canonicalURL }}" />

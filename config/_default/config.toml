@@ -7,8 +7,17 @@ enableRobotsTXT = true
 
 canonifyURLs = true
 
-[params]
-  description = "A comprehensive local guide to Anne Arundel County, Maryland"
+# Permalinks for all sections - trailing slashes for SEO
+[permalinks]
+  page = "/:slug/"
+  cities = "/:slug/"
+  attractions = "/:slug/"
+  guides = "/:slug/"
+  pages = "/:slug/"
+  categories = "/:slug/"
+  tags = "/:slug/"
+
+# Note: description moved to home page frontmatter for Relearn theme compatibility
 
 [markup]
   [markup.goldmark]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Military :: Tag :: Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/military/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://annearundelguide.com/military/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Veterans &amp; Military Resources in Anne Arundel County</title>
+      <link>https://annearundelguide.com/veterans-military/index.html</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/veterans-military/index.html</guid>
+      <description>Complete guide for military families and veterans living in Anne Arundel County, including VA benefits, local resources, schools, and community support</description>
+    </item>
+    <item>
+      <title>Tricare Health Insurance for Military Families</title>
+      <link>https://annearundelguide.com/tricare-guide/index.html</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/tricare-guide/index.html</guid>
+      <description>Complete guide to Tricare health insurance for military families living in Anne Arundel County near Fort Meade and Naval Academy</description>
+    </item>
+    <item>
+      <title>Fort Meade, Maryland</title>
+      <link>https://annearundelguide.com/fort-meade/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annearundelguide.com/fort-meade/index.html</guid>
+      <description>Fort Meade is a U.S. Army installation in Anne Arundel County, home to the NSA and CIA, and a major employer for military and federal workers.</description>
+    </item>
+  </channel>
+</rss>
