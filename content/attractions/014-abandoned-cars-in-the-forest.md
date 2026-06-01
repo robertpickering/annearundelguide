@@ -3,7 +3,6 @@ title: "Abandoned Cars in the Forest"
 description: "Abandoned Cars in the Forest is an unusual outdoor art installation featuring old cars stacked in the woods near Crofton."
 tags: ["art", "roadside attraction", "Crofton", "unique", "photo spot"]
 categories: ["Unique Attractions"]
-slug: "abandoned-cars-in-the-forest"
 draft: false
 ---
 

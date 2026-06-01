@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Spouse Employment :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/spouse-employment/index.html</link>
-    <description></description>
+    <title>Spouse Employment on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/spouse-employment/</link>
+    <description>Recent content in Spouse Employment on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://annearundelguide.com/spouse-employment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Military Employment &amp; Career Resources</title>
-      <link>https://annearundelguide.com/military-employment/index.html</link>
+      <link>https://annearundelguide.com/military-employment-career-resources/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/military-employment/index.html</guid>
+      <guid>https://annearundelguide.com/military-employment-career-resources/</guid>
       <description>Employment resources for military families in Anne Arundel County - job search, spouse employment, career transition, and veteran hiring</description>
     </item>
   </channel>

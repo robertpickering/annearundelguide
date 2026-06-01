@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Glen Burnie :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/glen-burnie/index.html</link>
-    <description></description>
+    <title>Glen Burnie on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/glen-burnie/</link>
+    <description>Recent content in Glen Burnie on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://annearundelguide.com/glen-burnie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>School Choices &amp; Education Pathways in Anne Arundel County</title>
-      <link>https://annearundelguide.com/schools-education/index.html</link>
+      <link>https://annearundelguide.com/school-choices-education-pathways-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/schools-education/index.html</guid>
+      <guid>https://annearundelguide.com/school-choices-education-pathways-in-anne-arundel-county/</guid>
       <description>Complete guide to Anne Arundel County Public Schools, school ratings, special programs, private school options, and homeschooling resources for parents</description>
     </item>
     <item>
       <title>Anne Arundel County Parking Guide</title>
-      <link>https://annearundelguide.com/parking-guide/index.html</link>
+      <link>https://annearundelguide.com/anne-arundel-county-parking-guide/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/parking-guide/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county-parking-guide/</guid>
       <description>Complete parking information for Anne Arundel County - street parking, paid lots, permits, rates, and restrictions</description>
     </item>
     <item>
       <title>BWI Trail</title>
-      <link>https://annearundelguide.com/bwi-trail/index.html</link>
+      <link>https://annearundelguide.com/bwi-trail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/bwi-trail/index.html</guid>
+      <guid>https://annearundelguide.com/bwi-trail/</guid>
       <description>The BWI Trail is a 5.7-mile paved recreational trail running from Glen Burnie to Arundel Mills, perfect for walking, biking, and running.</description>
     </item>
     <item>
       <title>Love Point State Park</title>
-      <link>https://annearundelguide.com/love-point-state-park/index.html</link>
+      <link>https://annearundelguide.com/love-point-state-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/love-point-state-park/index.html</guid>
+      <guid>https://annearundelguide.com/love-point-state-park/</guid>
       <description>Love Point State Park is a 1,500-acre park in Glen Burnie offering hiking trails, fishing, boating, and scenic views of the Chesapeake Bay.</description>
     </item>
   </channel>

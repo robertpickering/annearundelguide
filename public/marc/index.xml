@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MARC :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/marc/index.html</link>
-    <description></description>
+    <title>MARC on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/marc/</link>
+    <description>Recent content in MARC on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://annearundelguide.com/marc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commuting &amp; Transportation in Anne Arundel County</title>
-      <link>https://annearundelguide.com/transportation/index.html</link>
+      <link>https://annearundelguide.com/commuting-transportation-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/transportation/index.html</guid>
+      <guid>https://annearundelguide.com/commuting-transportation-in-anne-arundel-county/</guid>
       <description>Complete guide to commuting, public transit, ferry services, parking, and transportation options in Anne Arundel County, MD</description>
     </item>
     <item>
       <title>Anne Arundel County Transit Routes</title>
-      <link>https://annearundelguide.com/transit-routes/index.html</link>
+      <link>https://annearundelguide.com/anne-arundel-county-transit-routes/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/transit-routes/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county-transit-routes/</guid>
       <description>Complete guide to public transit routes in Anne Arundel County - MTA buses, MARC train, and connecting services</description>
     </item>
   </channel>

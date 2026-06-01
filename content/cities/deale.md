@@ -1,9 +1,8 @@
 ---
-title: "Deale, Maryland"
+title: "Deale"
 description: "Deale is a small waterfront community in eastern Anne Arundel County on the Chesapeake Bay, known for its beaches, boat launches, and quiet coastal living."
 tags: ["waterfront", "beach", "Chesapeake Bay", "eastern county", "boating"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "deale"
 draft: false
 ---
 

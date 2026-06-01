@@ -1,9 +1,8 @@
 ---
-title: "Glen Burnie, Maryland"
+title: "Glen Burnie"
 description: "Glen Burnie is the largest community in Anne Arundel County, offering diverse neighborhoods, shopping centers, restaurants, and easy access to Baltimore."
 tags: ["largest city", "diverse", "shopping", "restaurants", "Baltimore access"]
 categories: ["Cities", "Anne Arundel County"]
-slug: "glen-burnie"
 draft: false
 ---
 

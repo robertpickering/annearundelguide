@@ -1,9 +1,8 @@
 ---
-title: "Severn, Maryland"
+title: "Severn"
 description: "Severn is a suburban community in central Anne Arundel County along the Severn River, offering residential neighborhoods, parks, and proximity to Annapolis."
 tags: ["suburban", "Severn River", "central county", "Annapolis access"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "severn"
 draft: false
 ---
 

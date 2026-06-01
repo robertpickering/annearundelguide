@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://annearundelguide.com/sitemap.xml

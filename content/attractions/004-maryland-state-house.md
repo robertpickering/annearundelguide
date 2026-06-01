@@ -3,7 +3,6 @@ title: "Maryland State House"
 description: "The Maryland State House in Annapolis houses the oldest capitol building in continuous legislative use in the United States."
 tags: ["historic", "government", "Annapolis", "capitol", "tourism"]
 categories: ["Historic Sites"]
-slug: "maryland-state-house"
 draft: false
 ---
 

@@ -4,7 +4,6 @@ title: "Veterans & Military Resources in Anne Arundel County"
 description: "Complete guide for military families and veterans living in Anne Arundel County, including VA benefits, local resources, schools, and community support"
 date: 2026-05-18
 draft: false
-slug: "veterans-military"
 tags: ["military", "veterans", "VA", "naval academy", "fort meade", "joint base andrews", "benefits", "TRICARE", "GI Bill"]
 categories: ["Military"]
 weight: 6

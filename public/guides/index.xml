@@ -1,151 +1,156 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Guides for Anne Arundel County :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/guides/index.html</link>
-    <description>Practical guides for living in and visiting Anne Arundel County, Maryland — schools, healthcare, transportation, budgeting, and more.</description>
+    <title>Guides for Anne Arundel County on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/guides/</link>
+    <description>Recent content in Guides for Anne Arundel County on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://annearundelguide.com/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Settling In: Your First 30 Days in Anne Arundel County</title>
-      <link>https://annearundelguide.com/settling-in/index.html</link>
+      <link>https://annearundelguide.com/settling-in-your-first-30-days-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/settling-in/index.html</guid>
+      <guid>https://annearundelguide.com/settling-in-your-first-30-days-in-anne-arundel-county/</guid>
       <description>A comprehensive guide for new residents covering vehicle registration, utilities, schools, healthcare, and essential services for your first month in Anne Arundel County, MD</description>
     </item>
     <item>
       <title>Things to do in Anne Arundel County</title>
-      <link>https://annearundelguide.com/things-to-do-in-anne-arundel-county/index.html</link>
+      <link>https://annearundelguide.com/things-to-do-in-anne-arundel-county/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/things-to-do-in-anne-arundel-county/index.html</guid>
-      <description>Explore the best attractions, parks, trails, and experiences Anne Arundel County has to offer. From historic sites to natural wonders, you’ll find something for every traveler.&#xA;Parks &amp; Outdoor Recreation Sandy Point State Park Sandy Point State Park - A beautiful 6,500-acre state park offering beaches, camping, fishing, and boating on the Chesapeake Bay.</description>
+      <guid>https://annearundelguide.com/things-to-do-in-anne-arundel-county/</guid>
+      <description>&lt;p&gt;Explore the best attractions, parks, trails, and experiences Anne Arundel County has to offer. From historic sites to natural wonders, you&amp;rsquo;ll find something for every traveler.&lt;/p&gt;
+&lt;h2 id=&#34;parks--outdoor-recreation&#34;&gt;Parks &amp;amp; Outdoor Recreation&lt;/h2&gt;
+&lt;h3 id=&#34;sandy-point-state-park&#34;&gt;Sandy Point State Park&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://annearundelguide.com/topics/001-sandy-point-state-park/&#34;&gt;Sandy Point State Park&lt;/a&gt; - A beautiful 6,500-acre state park offering beaches, camping, fishing, and boating on the Chesapeake Bay.&lt;/p&gt;
+&lt;h3 id=&#34;north-point-state-park&#34;&gt;North Point State Park&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://annearundelguide.com/topics/012-north-point-state-park/&#34;&gt;North Point State Park&lt;/a&gt; - A 565-acre park with historic significance where British ships attempted to pass Fort McHenry in September 1814, inspiring the writing of the Star-Spangled Banner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>School Choices &amp; Education Pathways in Anne Arundel County</title>
-      <link>https://annearundelguide.com/schools-education/index.html</link>
+      <link>https://annearundelguide.com/school-choices-education-pathways-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/schools-education/index.html</guid>
+      <guid>https://annearundelguide.com/school-choices-education-pathways-in-anne-arundel-county/</guid>
       <description>Complete guide to Anne Arundel County Public Schools, school ratings, special programs, private school options, and homeschooling resources for parents</description>
     </item>
     <item>
       <title>Anne Arundel County Healthcare Navigation Guide</title>
-      <link>https://annearundelguide.com/healthcare/index.html</link>
+      <link>https://annearundelguide.com/anne-arundel-county-healthcare-navigation-guide/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/healthcare/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county-healthcare-navigation-guide/</guid>
       <description>Complete guide to healthcare in Anne Arundel County - hospitals, doctors, insurance, and medical services.</description>
     </item>
     <item>
       <title>Anne Arundel County Housing Cost Calculator - Find Your Budget</title>
-      <link>https://annearundelguide.com/housing-cost-calculator/index.html</link>
+      <link>https://annearundelguide.com/anne-arundel-county-housing-cost-calculator-find-your-budget/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/housing-cost-calculator/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county-housing-cost-calculator-find-your-budget/</guid>
       <description>Interactive housing cost calculator for Anne Arundel County MD. Estimate home prices, rent, mortgage payments by town including Annapolis, Severna Park, Odenton, Crofton, Pasadena and more.</description>
     </item>
     <item>
       <title>Commuting &amp; Transportation in Anne Arundel County</title>
-      <link>https://annearundelguide.com/transportation/index.html</link>
+      <link>https://annearundelguide.com/commuting-transportation-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/transportation/index.html</guid>
+      <guid>https://annearundelguide.com/commuting-transportation-in-anne-arundel-county/</guid>
       <description>Complete guide to commuting, public transit, ferry services, parking, and transportation options in Anne Arundel County, MD</description>
     </item>
     <item>
       <title>Housing Guide - Anne Arundel County, Maryland</title>
-      <link>https://annearundelguide.com/housing-guide/index.html</link>
+      <link>https://annearundelguide.com/housing-guide-anne-arundel-county-maryland/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/housing-guide/index.html</guid>
+      <guid>https://annearundelguide.com/housing-guide-anne-arundel-county-maryland/</guid>
       <description>Complete guide to housing in Anne Arundel County including home values, rental market, neighborhoods, and real estate resources for buyers, renters, and residents.</description>
     </item>
     <item>
       <title>Budgeting for Anne Arundel County</title>
-      <link>https://annearundelguide.com/budgeting-cost-of-living/index.html</link>
+      <link>https://annearundelguide.com/budgeting-for-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/budgeting-cost-of-living/index.html</guid>
+      <guid>https://annearundelguide.com/budgeting-for-anne-arundel-county/</guid>
       <description>Complete cost of living breakdown, property taxes, utility costs, and financial planning for Anne Arundel County residents</description>
     </item>
     <item>
       <title>BWI Airport Complete Guide</title>
-      <link>https://annearundelguide.com/bwi-airport/index.html</link>
+      <link>https://annearundelguide.com/bwi-airport-complete-guide/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/bwi-airport/index.html</guid>
+      <guid>https://annearundelguide.com/bwi-airport-complete-guide/</guid>
       <description>Complete guide to BWI Thurgood Marshall Airport - terminals, airlines, parking, dining, and services.</description>
     </item>
     <item>
       <title>Anne Arundel County Parking Guide</title>
-      <link>https://annearundelguide.com/parking-guide/index.html</link>
+      <link>https://annearundelguide.com/anne-arundel-county-parking-guide/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/parking-guide/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county-parking-guide/</guid>
       <description>Complete parking information for Anne Arundel County - street parking, paid lots, permits, rates, and restrictions</description>
     </item>
     <item>
       <title>Veterans &amp; Military Resources in Anne Arundel County</title>
-      <link>https://annearundelguide.com/veterans-military/index.html</link>
+      <link>https://annearundelguide.com/veterans-military-resources-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/veterans-military/index.html</guid>
+      <guid>https://annearundelguide.com/veterans-military-resources-in-anne-arundel-county/</guid>
       <description>Complete guide for military families and veterans living in Anne Arundel County, including VA benefits, local resources, schools, and community support</description>
     </item>
     <item>
       <title>Anne Arundel County Transit Routes</title>
-      <link>https://annearundelguide.com/transit-routes/index.html</link>
+      <link>https://annearundelguide.com/anne-arundel-county-transit-routes/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/transit-routes/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county-transit-routes/</guid>
       <description>Complete guide to public transit routes in Anne Arundel County - MTA buses, MARC train, and connecting services</description>
     </item>
     <item>
       <title>AACPS Enrollment Guide</title>
-      <link>https://annearundelguide.com/enrollment-guide/index.html</link>
+      <link>https://annearundelguide.com/aacps-enrollment-guide/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/enrollment-guide/index.html</guid>
+      <guid>https://annearundelguide.com/aacps-enrollment-guide/</guid>
       <description>Step-by-step guide to enrolling children in Anne Arundel County Public Schools - requirements, process, and timelines</description>
     </item>
     <item>
       <title>Tricare Health Insurance for Military Families</title>
-      <link>https://annearundelguide.com/tricare-guide/index.html</link>
+      <link>https://annearundelguide.com/tricare-health-insurance-for-military-families/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/tricare-guide/index.html</guid>
+      <guid>https://annearundelguide.com/tricare-health-insurance-for-military-families/</guid>
       <description>Complete guide to Tricare health insurance for military families living in Anne Arundel County near Fort Meade and Naval Academy</description>
     </item>
     <item>
       <title>Pediatric Care in Anne Arundel County</title>
-      <link>https://annearundelguide.com/pediatric-care/index.html</link>
+      <link>https://annearundelguide.com/pediatric-care-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/pediatric-care/index.html</guid>
-      <description>Complete guide to pediatric healthcare, doctors, and children&#39;s medical services in Anne Arundel County</description>
+      <guid>https://annearundelguide.com/pediatric-care-in-anne-arundel-county/</guid>
+      <description>Complete guide to pediatric healthcare, doctors, and children&amp;#39;s medical services in Anne Arundel County</description>
     </item>
     <item>
       <title>Military Education &amp; Training Opportunities</title>
-      <link>https://annearundelguide.com/military-education/index.html</link>
+      <link>https://annearundelguide.com/military-education-training-opportunities/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/military-education/index.html</guid>
+      <guid>https://annearundelguide.com/military-education-training-opportunities/</guid>
       <description>Education resources for military families in Anne Arundel County - from military schools to civilian education benefits</description>
     </item>
     <item>
       <title>Military Employment &amp; Career Resources</title>
-      <link>https://annearundelguide.com/military-employment/index.html</link>
+      <link>https://annearundelguide.com/military-employment-career-resources/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/military-employment/index.html</guid>
+      <guid>https://annearundelguide.com/military-employment-career-resources/</guid>
       <description>Employment resources for military families in Anne Arundel County - job search, spouse employment, career transition, and veteran hiring</description>
     </item>
     <item>
       <title>Anne Arundel County Tax Guide</title>
-      <link>https://annearundelguide.com/tax-guide/index.html</link>
+      <link>https://annearundelguide.com/anne-arundel-county-tax-guide/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/tax-guide/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county-tax-guide/</guid>
       <description>Complete guide to taxes in Anne Arundel County - property taxes, income taxes, sales taxes, and tax resources</description>
     </item>
     <item>
       <title>Anne Arundel County Utility Costs</title>
-      <link>https://annearundelguide.com/utility-costs/index.html</link>
+      <link>https://annearundelguide.com/anne-arundel-county-utility-costs/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/utility-costs/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county-utility-costs/</guid>
       <description>Complete guide to utility costs in Anne Arundel County - electricity, water, gas, internet, and other essential services</description>
     </item>
     <item>
       <title>Anne Arundel County Housing Calculator</title>
-      <link>https://annearundelguide.com/housing-calculator/index.html</link>
+      <link>https://annearundelguide.com/anne-arundel-county-housing-calculator/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/housing-calculator/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county-housing-calculator/</guid>
       <description>Estimate housing costs in Anne Arundel County - mortgage calculations, rent estimates, and affordability analysis</description>
     </item>
   </channel>

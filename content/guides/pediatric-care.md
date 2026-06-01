@@ -3,7 +3,6 @@ title: "Pediatric Care in Anne Arundel County"
 description: "Complete guide to pediatric healthcare, doctors, and children's medical services in Anne Arundel County"
 date: 2026-05-18
 draft: false
-slug: "pediatric-care"
 tags: ["pediatric", "children", "doctors", "healthcare", "vaccines", "wellness"]
 categories: ["Healthcare"]
 weight: 11

@@ -3,7 +3,6 @@ title: "Baltimore & Annapolis Trail"
 description: "The Baltimore & Annapolis Trail connects Annapolis to Baltimore along a former railroad corridor, offering 14 miles of paved trail for biking and walking."
 tags: ["trail", "biking", "walking", "Annapolis", "Baltimore", "rail trail", "recreation"]
 categories: ["Trails"]
-slug: "baltimore-annapolis-trail"
 draft: false
 ---
 

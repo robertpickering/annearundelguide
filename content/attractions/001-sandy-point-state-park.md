@@ -3,7 +3,6 @@ title: "Sandy Point State Park"
 description: "Sandy Point State Park is a 6,500-acre park on the Chesapeake Bay offering beaches, camping, fishing, kayaking, and hiking trails near Annapolis."
 tags: ["state park", "beach", "camping", "Chesapeake Bay", "Annapolis", "kayaking", "fishing"]
 categories: ["State Parks"]
-slug: "sandy-point-state-park"
 draft: false
 ---
 

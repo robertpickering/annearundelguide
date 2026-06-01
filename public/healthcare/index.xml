@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Healthcare :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/healthcare/index.html</link>
-    <description></description>
+    <title>Healthcare on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/healthcare/</link>
+    <description>Recent content in Healthcare on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://annearundelguide.com/healthcare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Settling In: Your First 30 Days in Anne Arundel County</title>
-      <link>https://annearundelguide.com/settling-in/index.html</link>
+      <link>https://annearundelguide.com/settling-in-your-first-30-days-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/settling-in/index.html</guid>
+      <guid>https://annearundelguide.com/settling-in-your-first-30-days-in-anne-arundel-county/</guid>
       <description>A comprehensive guide for new residents covering vehicle registration, utilities, schools, healthcare, and essential services for your first month in Anne Arundel County, MD</description>
     </item>
     <item>
       <title>Tricare Health Insurance for Military Families</title>
-      <link>https://annearundelguide.com/tricare-guide/index.html</link>
+      <link>https://annearundelguide.com/tricare-health-insurance-for-military-families/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/tricare-guide/index.html</guid>
+      <guid>https://annearundelguide.com/tricare-health-insurance-for-military-families/</guid>
       <description>Complete guide to Tricare health insurance for military families living in Anne Arundel County near Fort Meade and Naval Academy</description>
     </item>
     <item>
       <title>Pediatric Care in Anne Arundel County</title>
-      <link>https://annearundelguide.com/pediatric-care/index.html</link>
+      <link>https://annearundelguide.com/pediatric-care-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/pediatric-care/index.html</guid>
-      <description>Complete guide to pediatric healthcare, doctors, and children&#39;s medical services in Anne Arundel County</description>
+      <guid>https://annearundelguide.com/pediatric-care-in-anne-arundel-county/</guid>
+      <description>Complete guide to pediatric healthcare, doctors, and children&amp;#39;s medical services in Anne Arundel County</description>
     </item>
   </channel>
 </rss>

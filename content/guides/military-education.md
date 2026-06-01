@@ -3,7 +3,6 @@ title: "Military Education & Training Opportunities"
 description: "Education resources for military families in Anne Arundel County - from military schools to civilian education benefits"
 date: 2026-05-18
 draft: false
-slug: "military-education"
 tags: ["military education", "schools", "training", "GI Bill", "military families", "Fort Meade"]
 categories: ["Education", "Military"]
 weight: 13

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Horse Farms :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/horse-farms/index.html</link>
-    <description></description>
+    <title>Horse Farms on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/horse-farms/</link>
+    <description>Recent content in Horse Farms on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://annearundelguide.com/horse-farms/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Parole, Maryland</title>
-      <link>https://annearundelguide.com/parole/index.html</link>
+      <title>Parole</title>
+      <link>https://annearundelguide.com/parole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/parole/index.html</guid>
+      <guid>https://annearundelguide.com/parole/</guid>
       <description>Parole is a small rural community in western Anne Arundel County, known for its countryside setting, horse farms, and quiet country living.</description>
     </item>
   </channel>

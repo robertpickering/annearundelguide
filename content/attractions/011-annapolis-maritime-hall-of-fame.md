@@ -3,7 +3,6 @@ title: "Annapolis Maritime Hall of Fame"
 description: "The Annapolis Maritime Museum and the U.S. Naval Academy Museum showcase naval history with exhibits, artifacts, and interactive displays about America's maritime heritage."
 tags: ["museum", "maritime", "navy", "Annapolis", "history"]
 categories: ["Museums"]
-slug: "annapolis-maritime-hall-of-fame"
 draft: false
 ---
 

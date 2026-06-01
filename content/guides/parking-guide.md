@@ -3,7 +3,6 @@ title: "Anne Arundel County Parking Guide"
 description: "Complete parking information for Anne Arundel County - street parking, paid lots, permits, rates, and restrictions"
 date: 2026-05-18
 draft: false
-slug: "parking-guide"
 tags: ["parking", "transportation", "Annapolis", "Glen Burnie", "permits", "rates"]
 categories: ["Transportation"]
 weight: 6

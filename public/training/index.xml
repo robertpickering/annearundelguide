@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Training :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/training/index.html</link>
-    <description></description>
+    <title>Training on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/training/</link>
+    <description>Recent content in Training on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://annearundelguide.com/training/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Military Education &amp; Training Opportunities</title>
-      <link>https://annearundelguide.com/military-education/index.html</link>
+      <link>https://annearundelguide.com/military-education-training-opportunities/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/military-education/index.html</guid>
+      <guid>https://annearundelguide.com/military-education-training-opportunities/</guid>
       <description>Education resources for military families in Anne Arundel County - from military schools to civilian education benefits</description>
     </item>
   </channel>

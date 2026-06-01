@@ -3,7 +3,6 @@ title: "AACPS Enrollment Guide"
 description: "Step-by-step guide to enrolling children in Anne Arundel County Public Schools - requirements, process, and timelines"
 date: 2026-05-18
 draft: false
-slug: "enrollment-guide"
 tags: ["enrollment", "schools", "AACPS", "registration", "schools"]
 categories: ["Education"]
 weight: 8

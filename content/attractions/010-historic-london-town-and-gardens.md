@@ -3,7 +3,6 @@ title: "Historic London Town and Gardens"
 description: "Historic London Town and Gardens features beautifully restored 18th-century colonial buildings, gardens, and interpretive programs about Anne Arundel County colonial history."
 tags: ["historic", "colonial", "garden", "Gambrills", "museum"]
 categories: ["Historic Sites"]
-slug: "historic-london-town-and-gardens"
 draft: false
 ---
 

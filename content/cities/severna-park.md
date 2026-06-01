@@ -1,9 +1,8 @@
 ---
-title: "Severna Park, Maryland"
+title: "Severna Park"
 description: "Severna Park is one of Anne Arundel County's most desirable communities, known for its excellent schools, walkable downtown, and family-friendly atmosphere."
 tags: ["top schools", "downtown", "family", "walkable", "desirable"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "severna-park"
 draft: false
 ---
 

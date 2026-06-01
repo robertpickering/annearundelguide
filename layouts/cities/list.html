@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{ if and .Title (not .IsNode) }}
+<!-- This is a single page, not a list -->
+<article class="single">
+  <header class="article-header">
+    <h1>{{ .Title }}</h1>
+    {{ if .Description }}
+      <p class="description">{{ .Description }}</p>
+    {{ end }}
+  </header>
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ else }}
+<!-- This is a section listing -->
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ if .Description }}
+    <p>{{ .Description }}</p>
+  {{ end }}
+</header>
+{{ range .Pages }}
+<article class="post-entry">
+  <header class="entry-header">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  </header>
+  <div class="entry-content">
+    <p>{{ .Description }}</p>
+  </div>
+</article>
+{{ end }}
+{{ end }}
+{{ end }}

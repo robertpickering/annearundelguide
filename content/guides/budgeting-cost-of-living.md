@@ -4,7 +4,6 @@ title: "Budgeting for Anne Arundel County"
 description: "Complete cost of living breakdown, property taxes, utility costs, and financial planning for Anne Arundel County residents"
 date: 2026-05-18
 draft: false
-slug: "budgeting-cost-of-living"
 tags: ["budgeting", "cost of living", "property taxes", "utilities", "banking", "financial", "housing costs"]
 categories: ["Finance"]
 weight: 5

@@ -1,9 +1,8 @@
 ---
-title: "Fort Meade, Maryland"
+title: "Fort Meade"
 description: "Fort Meade is a U.S. Army installation in Anne Arundel County, home to the NSA and CIA, and a major employer for military and federal workers."
 tags: ["military", "NSA", "CIA", "federal", "Army", "employment"]
 categories: ["Military", "Anne Arundel County"]
-slug: "fort-meade"
 draft: false
 ---
 

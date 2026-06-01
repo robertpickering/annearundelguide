@@ -1,9 +1,8 @@
 ---
-title: "Gambrills, Maryland"
+title: "Gambrills"
 description: "Gambrills is a suburban community in southern Anne Arundel County with a mix of residential areas, shopping centers, and proximity to historic London Town."
 tags: ["suburban", "shopping", "London Town", "southern county"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "gambrills"
 draft: false
 ---
 

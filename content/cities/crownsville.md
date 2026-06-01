@@ -1,9 +1,8 @@
 ---
-title: "Crownsville, Maryland"
+title: "Crownsville"
 description: "Crownsville is a historic community in eastern Anne Arundel County, known for its Chesapeake Bay beaches, maritime history, and waterfront parks."
 tags: ["historic", "beach", "Chesapeake Bay", "maritime", "eastern county"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "crownsville"
 draft: false
 ---
 

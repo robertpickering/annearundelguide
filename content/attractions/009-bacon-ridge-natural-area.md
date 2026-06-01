@@ -3,7 +3,6 @@ title: "Bacon Ridge Natural Area"
 description: "Bacon Ridge Natural Area is a 53-acre preserve in Annapolis featuring walking trails through old-growth forest along the Severn River."
 tags: ["natural area", "trails", "forest", "Annapolis", "birding"]
 categories: ["Natural Areas"]
-slug: "bacon-ridge-natural-area"
 draft: false
 ---
 

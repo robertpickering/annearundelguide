@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Alex Haley :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/alex-haley/index.html</link>
-    <description></description>
+    <title>Alex Haley on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/alex-haley/</link>
+    <description>Recent content in Alex Haley on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://annearundelguide.com/alex-haley/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kunta Kinte-Alex Haley Memorial</title>
-      <link>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/index.html</link>
+      <link>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/index.html</guid>
+      <guid>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/</guid>
       <description>The Kunta Kinte-Alex Haley Memorial in Annapolis commemorates the legacy of Alex Haley and honors the history of the African American experience.</description>
     </item>
   </channel>

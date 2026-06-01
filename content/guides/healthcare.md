@@ -4,7 +4,6 @@ title: "Anne Arundel County Healthcare Navigation Guide"
 description: "Complete guide to healthcare in Anne Arundel County - hospitals, doctors, insurance, and medical services."
 date: 2026-05-20
 draft: false
-slug: "healthcare"
 weight: 3
 
 aliases: ["healthcare-navigation", "hospitals-guide"]

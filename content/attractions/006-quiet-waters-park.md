@@ -3,7 +3,6 @@ title: "Quiet Waters Park"
 description: "Quiet Waters Park is a 504-acre park in Annapolis featuring a zoo, nature center, playground, tennis courts, and trails along the Severn River."
 tags: ["park", "zoo", "nature center", "Annapolis", "playground", "family"]
 categories: ["Parks"]
-slug: "quiet-waters-park"
 draft: false
 ---
 

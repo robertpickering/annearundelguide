@@ -3,7 +3,6 @@ title: "Patuxent State Park"
 description: "Patuxent River State Park is a 6,700-acre park protecting the upper Patuxent River watershed with camping, hiking, boating, and water sports near Davidsonville."
 tags: ["state park", "camping", "hiking", "boating", "Davidsonville", "Patuxent River"]
 categories: ["State Parks"]
-slug: "patuxent-state-park"
 draft: false
 ---
 

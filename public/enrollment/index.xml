@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Enrollment :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/enrollment/index.html</link>
-    <description></description>
+    <title>Enrollment on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/enrollment/</link>
+    <description>Recent content in Enrollment on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://annearundelguide.com/enrollment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AACPS Enrollment Guide</title>
-      <link>https://annearundelguide.com/enrollment-guide/index.html</link>
+      <link>https://annearundelguide.com/aacps-enrollment-guide/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/enrollment-guide/index.html</guid>
+      <guid>https://annearundelguide.com/aacps-enrollment-guide/</guid>
       <description>Step-by-step guide to enrolling children in Anne Arundel County Public Schools - requirements, process, and timelines</description>
     </item>
   </channel>

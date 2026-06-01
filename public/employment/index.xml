@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Employment :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/employment/index.html</link>
-    <description></description>
+    <title>Employment on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/employment/</link>
+    <description>Recent content in Employment on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://annearundelguide.com/employment/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fort Meade, Maryland</title>
-      <link>https://annearundelguide.com/fort-meade/index.html</link>
+      <title>Fort Meade</title>
+      <link>https://annearundelguide.com/fort-meade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/fort-meade/index.html</guid>
+      <guid>https://annearundelguide.com/fort-meade/</guid>
       <description>Fort Meade is a U.S. Army installation in Anne Arundel County, home to the NSA and CIA, and a major employer for military and federal workers.</description>
     </item>
   </channel>

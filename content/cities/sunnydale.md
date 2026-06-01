@@ -1,9 +1,8 @@
 ---
-title: "Sunnydale, Maryland"
+title: "Sunnydale"
 description: "Sunnydale is a small residential community in eastern Anne Arundel County, known for its quiet suburban feel and proximity to Chesapeake Bay beaches."
 tags: ["residential", "eastern county", "quiet", "Chesapeake Bay"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "sunnydale"
 draft: false
 ---
 

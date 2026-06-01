@@ -1,9 +1,8 @@
 ---
-title: "Crofton, Maryland"
+title: "Crofton"
 description: "Crofton is a family-friendly community in central Anne Arundel County with excellent schools, parks, and proximity to Fort Meade and the NSA."
 tags: ["family", "schools", "Fort Meade", "NSA", "parks"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "crofton"
 draft: false
 ---
 

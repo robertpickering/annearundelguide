@@ -3,7 +3,6 @@ title: "Kunta Kinte-Alex Haley Memorial"
 description: "The Kunta Kinte-Alex Haley Memorial in Annapolis commemorates the legacy of Alex Haley and honors the history of the African American experience."
 tags: ["memorial", "historic", "Annapolis", "African American history", "Alex Haley"]
 categories: ["Historic Sites"]
-slug: "kunta-kinte-alex-haley-memorial"
 draft: false
 ---
 

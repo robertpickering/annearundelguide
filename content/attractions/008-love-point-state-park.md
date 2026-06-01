@@ -3,7 +3,6 @@ title: "Love Point State Park"
 description: "Love Point State Park is a 1,500-acre park in Glen Burnie offering hiking trails, fishing, boating, and scenic views of the Chesapeake Bay."
 tags: ["state park", "hiking", "fishing", "Glen Burnie", "Chesapeake Bay"]
 categories: ["State Parks"]
-slug: "love-point-state-park"
 draft: false
 ---
 

@@ -3,7 +3,6 @@ title: "Patapsco Valley State Park Areas"
 description: "Patapsco Valley State Park has multiple areas including sections near Arbutus and Rosedale offering hiking, mountain biking, and camping."
 tags: ["state park", "hiking", "mountain biking", "camping", "Arbutus"]
 categories: ["State Parks"]
-slug: "patapsco-valley-state-park-areas"
 draft: false
 ---
 

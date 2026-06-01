@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Natural Areas :: Category :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/natural-areas/index.html</link>
-    <description></description>
+    <title>Natural Areas on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/natural-areas/</link>
+    <description>Recent content in Natural Areas on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://annearundelguide.com/natural-areas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bacon Ridge Natural Area</title>
-      <link>https://annearundelguide.com/bacon-ridge-natural-area/index.html</link>
+      <link>https://annearundelguide.com/bacon-ridge-natural-area/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/bacon-ridge-natural-area/index.html</guid>
+      <guid>https://annearundelguide.com/bacon-ridge-natural-area/</guid>
       <description>Bacon Ridge Natural Area is a 53-acre preserve in Annapolis featuring walking trails through old-growth forest along the Severn River.</description>
     </item>
   </channel>

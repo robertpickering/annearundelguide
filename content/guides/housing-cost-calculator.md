@@ -3,9 +3,7 @@ title: "Anne Arundel County Housing Cost Calculator - Find Your Budget"
 description: "Interactive housing cost calculator for Anne Arundel County MD. Estimate home prices, rent, mortgage payments by town including Annapolis, Severna Park, Odenton, Crofton, Pasadena and more."
 date: 2026-05-20
 draft: false
-slug: "housing-cost-calculator"
 weight: 4
-type: "topic"
 ---
 
 <!-- HERO SECTION -->

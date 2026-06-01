@@ -3,7 +3,6 @@ title: "Anne Arundel County Tax Guide"
 description: "Complete guide to taxes in Anne Arundel County - property taxes, income taxes, sales taxes, and tax resources"
 date: 2026-05-18
 draft: false
-slug: "tax-guide"
 tags: ["taxes", "property tax", "income tax", "sales tax", "Anne Arundel County", "Maryland"]
 categories: ["Budgeting"]
 weight: 15

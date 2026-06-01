@@ -1,9 +1,8 @@
 ---
-title: "Parole, Maryland"
+title: "Parole"
 description: "Parole is a small rural community in western Anne Arundel County, known for its countryside setting, horse farms, and quiet country living."
 tags: ["rural", "horse farms", "countryside", "western county"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "parole"
 draft: false
 ---
 

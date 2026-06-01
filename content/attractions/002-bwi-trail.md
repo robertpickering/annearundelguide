@@ -3,7 +3,6 @@ title: "BWI Trail"
 description: "The BWI Trail is a 5.7-mile paved recreational trail running from Glen Burnie to Arundel Mills, perfect for walking, biking, and running."
 tags: ["trail", "biking", "walking", "recreation", "Glen Burnie", "paved trail"]
 categories: ["Trails"]
-slug: "bwi-trail"
 draft: false
 ---
 

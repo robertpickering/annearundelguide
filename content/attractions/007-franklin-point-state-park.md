@@ -3,7 +3,6 @@ title: "Franklin Point State Park"
 description: "Franklin Point State Park is a 470-acre park on the Severn River offering trails, fishing, boating, and picnic areas near Crofton."
 tags: ["state park", "fishing", "boating", "Crofton", "trails"]
 categories: ["State Parks"]
-slug: "franklin-point-state-park"
 draft: false
 ---
 

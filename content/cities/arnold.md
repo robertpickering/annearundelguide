@@ -1,9 +1,8 @@
 ---
-title: "Arnold, Maryland"
+title: "Arnold"
 description: "Arnold is a charming waterfront community on the Severn River in Anne Arundel County, known for its historic downtown, seafood restaurants, and ferry to Annapolis."
 tags: ["waterfront", "historic", "Severn River", "ferry", "downtown", "seafood"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "arnold"
 draft: false
 ---
 

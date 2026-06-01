@@ -1,9 +1,8 @@
 ---
-title: "Pasadena, Maryland"
+title: "Pasadena"
 description: "Pasadena is a small residential community in central Anne Arundel County near the Patuxent Research Refuge, offering a quiet suburban lifestyle."
 tags: ["residential", "quiet", "central county", "Patuxent"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "pasadena"
 draft: false
 ---
 

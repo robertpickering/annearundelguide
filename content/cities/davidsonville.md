@@ -1,9 +1,8 @@
 ---
-title: "Davidsonville, Maryland"
+title: "Davidsonville"
 description: "Davidsonville is a waterfront community on the Patuxent River in southern Anne Arundel County, offering boat ramps, parks, and a relaxed Chesapeake Bay lifestyle."
 tags: ["waterfront", "Patuxent River", "boating", "parks", "southern county"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "davidsonville"
 draft: false
 ---
 

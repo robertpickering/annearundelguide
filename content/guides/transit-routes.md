@@ -3,7 +3,6 @@ title: "Anne Arundel County Transit Routes"
 description: "Complete guide to public transit routes in Anne Arundel County - MTA buses, MARC train, and connecting services"
 date: 2026-05-18
 draft: false
-slug: "transit-routes"
 tags: ["transit", "MTA", "MARC", "bus routes", "public transportation"]
 categories: ["Transportation"]
 weight: 7

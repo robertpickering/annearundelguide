@@ -3,7 +3,6 @@ title: "North Point State Park"
 description: "North Point State Park is a 565-acre park on the Chesapeake Bay where British ships attempted to pass Fort McHenry in 1814, inspiring the Star-Spangled Banner."
 tags: ["state park", "historic", "Chesapeake Bay", "Annapolis", "Revolutionary War"]
 categories: ["State Parks"]
-slug: "north-point-state-park"
 draft: false
 ---
 

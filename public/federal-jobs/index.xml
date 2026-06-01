@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Federal Jobs :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/federal-jobs/index.html</link>
-    <description></description>
+    <title>Federal Jobs on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/federal-jobs/</link>
+    <description>Recent content in Federal Jobs on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://annearundelguide.com/federal-jobs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Millersville, Maryland</title>
-      <link>https://annearundelguide.com/millersville/index.html</link>
+      <title>Millersville</title>
+      <link>https://annearundelguide.com/millersville/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/millersville/index.html</guid>
+      <guid>https://annearundelguide.com/millersville/</guid>
       <description>Millersville is a suburban community in western Anne Arundel County near Fort Meade, known for its family-friendly neighborhoods and proximity to federal employment.</description>
     </item>
   </channel>

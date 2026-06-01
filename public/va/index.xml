@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>VA :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/va/index.html</link>
-    <description></description>
+    <title>VA on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/va/</link>
+    <description>Recent content in VA on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://annearundelguide.com/va/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Veterans &amp; Military Resources in Anne Arundel County</title>
-      <link>https://annearundelguide.com/veterans-military/index.html</link>
+      <link>https://annearundelguide.com/veterans-military-resources-in-anne-arundel-county/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/veterans-military/index.html</guid>
+      <guid>https://annearundelguide.com/veterans-military-resources-in-anne-arundel-county/</guid>
       <description>Complete guide for military families and veterans living in Anne Arundel County, including VA benefits, local resources, schools, and community support</description>
     </item>
   </channel>

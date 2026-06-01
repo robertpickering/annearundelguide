@@ -4,7 +4,6 @@ title: "Commuting & Transportation in Anne Arundel County"
 description: "Complete guide to commuting, public transit, ferry services, parking, and transportation options in Anne Arundel County, MD"
 date: 2026-05-18
 draft: false
-slug: "transportation"
 tags: ["commuting", "transportation", "MTA", "MARC", "ferry", "BWI", "parking", "bus", "highways"]
 categories: ["Transportation"]
 weight: 4

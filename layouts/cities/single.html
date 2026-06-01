@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article class="single">
+  <header class="article-header">
+    <h1>{{ .Title }}</h1>
+    {{ if .Description }}
+      <p class="description">{{ .Description }}</p>
+    {{ end }}
+  </header>
+  
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+  
+  {{ if .Params.sources }}
+  <section class="sources">
+    <h2>Sources</h2>
+    {{ range .Params.sources }}
+      <p><a href="{{ .url }}">{{ .name }}</a></p>
+    {{ end }}
+  </section>
+  {{ end }}
+</article>
+{{ end }}

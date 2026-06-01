@@ -4,7 +4,6 @@ title: "School Choices & Education Pathways in Anne Arundel County"
 description: "Complete guide to Anne Arundel County Public Schools, school ratings, special programs, private school options, and homeschooling resources for parents"
 date: 2026-05-18
 draft: false
-slug: "schools-education"
 tags: ["schools", "education", "AACPS", "school districts", "parent guide", "Annapolis", "Crofton", "Glen Burnie", "Severn", "private schools"]
 categories: ["Education"]
 weight: 2

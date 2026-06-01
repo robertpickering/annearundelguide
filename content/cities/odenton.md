@@ -1,9 +1,8 @@
 ---
-title: "Odenton, Maryland"
+title: "Odenton"
 description: "Odenton is a growing community in western Anne Arundel County near Fort Meade, with a new downtown development, parks, and excellent schools."
 tags: ["growing", "downtown", "Fort Meade", "western county", "schools"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "odenton"
 draft: false
 ---
 

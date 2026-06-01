@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Historic :: Tag :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/historic/index.html</link>
-    <description></description>
+    <title>Historic on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/historic/</link>
+    <description>Recent content in Historic on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://annearundelguide.com/historic/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arnold, Maryland</title>
-      <link>https://annearundelguide.com/arnold/index.html</link>
+      <title>Arnold</title>
+      <link>https://annearundelguide.com/arnold/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/arnold/index.html</guid>
+      <guid>https://annearundelguide.com/arnold/</guid>
       <description>Arnold is a charming waterfront community on the Severn River in Anne Arundel County, known for its historic downtown, seafood restaurants, and ferry to Annapolis.</description>
     </item>
     <item>
-      <title>Crownsville, Maryland</title>
-      <link>https://annearundelguide.com/crownsville/index.html</link>
+      <title>Crownsville</title>
+      <link>https://annearundelguide.com/crownsville/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/crownsville/index.html</guid>
+      <guid>https://annearundelguide.com/crownsville/</guid>
       <description>Crownsville is a historic community in eastern Anne Arundel County, known for its Chesapeake Bay beaches, maritime history, and waterfront parks.</description>
     </item>
     <item>
       <title>Historic London Town and Gardens</title>
-      <link>https://annearundelguide.com/historic-london-town-and-gardens/index.html</link>
+      <link>https://annearundelguide.com/historic-london-town-and-gardens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/historic-london-town-and-gardens/index.html</guid>
+      <guid>https://annearundelguide.com/historic-london-town-and-gardens/</guid>
       <description>Historic London Town and Gardens features beautifully restored 18th-century colonial buildings, gardens, and interpretive programs about Anne Arundel County colonial history.</description>
     </item>
     <item>
       <title>Kunta Kinte-Alex Haley Memorial</title>
-      <link>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/index.html</link>
+      <link>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/index.html</guid>
+      <guid>https://annearundelguide.com/kunta-kinte-alex-haley-memorial/</guid>
       <description>The Kunta Kinte-Alex Haley Memorial in Annapolis commemorates the legacy of Alex Haley and honors the history of the African American experience.</description>
     </item>
     <item>
       <title>Maryland State House</title>
-      <link>https://annearundelguide.com/maryland-state-house/index.html</link>
+      <link>https://annearundelguide.com/maryland-state-house/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/maryland-state-house/index.html</guid>
+      <guid>https://annearundelguide.com/maryland-state-house/</guid>
       <description>The Maryland State House in Annapolis houses the oldest capitol building in continuous legislative use in the United States.</description>
     </item>
     <item>
       <title>North Point State Park</title>
-      <link>https://annearundelguide.com/north-point-state-park/index.html</link>
+      <link>https://annearundelguide.com/north-point-state-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/north-point-state-park/index.html</guid>
+      <guid>https://annearundelguide.com/north-point-state-park/</guid>
       <description>North Point State Park is a 565-acre park on the Chesapeake Bay where British ships attempted to pass Fort McHenry in 1814, inspiring the Star-Spangled Banner.</description>
     </item>
   </channel>

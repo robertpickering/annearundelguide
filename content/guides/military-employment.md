@@ -3,7 +3,6 @@ title: "Military Employment & Career Resources"
 description: "Employment resources for military families in Anne Arundel County - job search, spouse employment, career transition, and veteran hiring"
 date: 2026-05-18
 draft: false
-slug: "military-employment"
 tags: ["military employment", "jobs", "career", "veterans", "spouse employment", "Fort Meade"]
 categories: ["Veterans", "Military"]
 weight: 14

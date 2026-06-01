@@ -3,7 +3,6 @@ title: "Tricare Health Insurance for Military Families"
 description: "Complete guide to Tricare health insurance for military families living in Anne Arundel County near Fort Meade and Naval Academy"
 date: 2026-05-18
 draft: false
-slug: "tricare-guide"
 tags: ["Tricare", "military", "healthcare", "insurance", "Fort Meade", "Naval Academy"]
 categories: ["Healthcare", "Military"]
 weight: 10

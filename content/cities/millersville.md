@@ -1,9 +1,8 @@
 ---
-title: "Millersville, Maryland"
+title: "Millersville"
 description: "Millersville is a suburban community in western Anne Arundel County near Fort Meade, known for its family-friendly neighborhoods and proximity to federal employment."
 tags: ["suburban", "Fort Meade", "family", "western county", "federal jobs"]
 categories: ["Towns", "Anne Arundel County"]
-slug: "millersville"
 draft: false
 ---
 

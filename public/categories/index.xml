@@ -1,137 +1,137 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories :: Anne Arundel Guide</title>
-    <link>https://annearundelguide.com/categories/index.html</link>
-    <description></description>
+    <title>Categories on Anne Arundel Guide</title>
+    <link>https://annearundelguide.com/categories/</link>
+    <description>Recent content in Categories on Anne Arundel Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://annearundelguide.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Category :: Budgeting</title>
-      <link>https://annearundelguide.com/budgeting/index.html</link>
+      <title>Budgeting</title>
+      <link>https://annearundelguide.com/budgeting/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/budgeting/index.html</guid>
+      <guid>https://annearundelguide.com/budgeting/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Education</title>
-      <link>https://annearundelguide.com/education/index.html</link>
+      <title>Education</title>
+      <link>https://annearundelguide.com/education/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/education/index.html</guid>
+      <guid>https://annearundelguide.com/education/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Finance</title>
-      <link>https://annearundelguide.com/finance/index.html</link>
+      <title>Finance</title>
+      <link>https://annearundelguide.com/finance/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/finance/index.html</guid>
+      <guid>https://annearundelguide.com/finance/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Getting Started</title>
-      <link>https://annearundelguide.com/getting-started/index.html</link>
+      <title>Getting Started</title>
+      <link>https://annearundelguide.com/getting-started/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/getting-started/index.html</guid>
+      <guid>https://annearundelguide.com/getting-started/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Healthcare</title>
-      <link>https://annearundelguide.com/healthcare/index.html</link>
+      <title>Healthcare</title>
+      <link>https://annearundelguide.com/healthcare/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/healthcare/index.html</guid>
+      <guid>https://annearundelguide.com/healthcare/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Military</title>
-      <link>https://annearundelguide.com/military/index.html</link>
+      <title>Military</title>
+      <link>https://annearundelguide.com/military/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/military/index.html</guid>
+      <guid>https://annearundelguide.com/military/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Transportation</title>
-      <link>https://annearundelguide.com/transportation/index.html</link>
+      <title>Transportation</title>
+      <link>https://annearundelguide.com/transportation/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/transportation/index.html</guid>
+      <guid>https://annearundelguide.com/transportation/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Veterans</title>
-      <link>https://annearundelguide.com/veterans/index.html</link>
+      <title>Veterans</title>
+      <link>https://annearundelguide.com/veterans/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/veterans/index.html</guid>
+      <guid>https://annearundelguide.com/veterans/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Anne Arundel County</title>
-      <link>https://annearundelguide.com/anne-arundel-county/index.html</link>
+      <title>Anne Arundel County</title>
+      <link>https://annearundelguide.com/anne-arundel-county/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/anne-arundel-county/index.html</guid>
+      <guid>https://annearundelguide.com/anne-arundel-county/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Cities</title>
-      <link>https://annearundelguide.com/cities/index.html</link>
+      <title>Cities</title>
+      <link>https://annearundelguide.com/cities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/cities/index.html</guid>
+      <guid>https://annearundelguide.com/cities/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Historic Sites</title>
-      <link>https://annearundelguide.com/historic-sites/index.html</link>
+      <title>Historic Sites</title>
+      <link>https://annearundelguide.com/historic-sites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/historic-sites/index.html</guid>
+      <guid>https://annearundelguide.com/historic-sites/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Museums</title>
-      <link>https://annearundelguide.com/museums/index.html</link>
+      <title>Museums</title>
+      <link>https://annearundelguide.com/museums/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/museums/index.html</guid>
+      <guid>https://annearundelguide.com/museums/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Natural Areas</title>
-      <link>https://annearundelguide.com/natural-areas/index.html</link>
+      <title>Natural Areas</title>
+      <link>https://annearundelguide.com/natural-areas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/natural-areas/index.html</guid>
+      <guid>https://annearundelguide.com/natural-areas/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Parks</title>
-      <link>https://annearundelguide.com/parks/index.html</link>
+      <title>Parks</title>
+      <link>https://annearundelguide.com/parks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/parks/index.html</guid>
+      <guid>https://annearundelguide.com/parks/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: State Parks</title>
-      <link>https://annearundelguide.com/state-parks/index.html</link>
+      <title>State Parks</title>
+      <link>https://annearundelguide.com/state-parks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/state-parks/index.html</guid>
+      <guid>https://annearundelguide.com/state-parks/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Towns</title>
-      <link>https://annearundelguide.com/towns/index.html</link>
+      <title>Towns</title>
+      <link>https://annearundelguide.com/towns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/towns/index.html</guid>
+      <guid>https://annearundelguide.com/towns/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Trails</title>
-      <link>https://annearundelguide.com/trails/index.html</link>
+      <title>Trails</title>
+      <link>https://annearundelguide.com/trails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/trails/index.html</guid>
+      <guid>https://annearundelguide.com/trails/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category :: Unique Attractions</title>
-      <link>https://annearundelguide.com/unique-attractions/index.html</link>
+      <title>Unique Attractions</title>
+      <link>https://annearundelguide.com/unique-attractions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annearundelguide.com/unique-attractions/index.html</guid>
+      <guid>https://annearundelguide.com/unique-attractions/</guid>
       <description></description>
     </item>
   </channel>
