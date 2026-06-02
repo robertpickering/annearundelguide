@@ -13,6 +13,7 @@ Anne Arundel County is a vibrant region on the Chesapeake Bay with over 1.5 mill
 
 Discover detailed guides for every community in Anne Arundel County:
 
+- [Annapolis](/annapolis/) - State capital with the US Naval Academy, historic downtown, and Maryland State House
 - [Arnold](/arnold/) - Charming waterfront town on the Severn River with a historic downtown and ferry to Annapolis
 - [Crofton](/crofton/) - Family-friendly community with excellent schools and proximity to Fort Meade
 - [Crownsville](/crownsville/) - Historic eastern community with Chesapeake Bay beaches
