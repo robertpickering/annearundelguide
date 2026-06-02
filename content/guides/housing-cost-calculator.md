@@ -541,13 +541,13 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
 }
 
 .calculator-form {
-  background: #f8f9fa;
+  background: #FFF8F2;
   padding: 2rem;
   border-radius: 12px;
 }
 
 .calculator-results {
-  background: #e8f4f8;
+  background: #F5EDE3;
   padding: 2rem;
   border-radius: 12px;
 }
@@ -571,7 +571,7 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
 }
 
 .btn-primary {
-  background: #2563eb;
+  background: #C47A5A;
   color: white;
   border: none;
   padding: 1rem 2rem;
@@ -582,7 +582,7 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
 }
 
 .btn-primary:hover {
-  background: #1d4ed8;
+  background: #A8634A;
 }
 
 .results-grid {
@@ -592,10 +592,10 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
 }
 
 .result-card {
-  background: white;
+  background: #FFF8F2;
   padding: 1.5rem;
   border-radius: 8px;
-  border-left: 4px solid #2563eb;
+  border-left: 4px solid #C47A5A;
 }
 
 .town-grid {
@@ -606,14 +606,14 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
 }
 
 .town-card {
-  background: #f8f9fa;
+  background: #FFF8F2;
   padding: 1.5rem;
   border-radius: 12px;
-  border-left: 4px solid #059669;
+  border-left: 4px solid #8B7355;
 }
 
 .town-card h3 {
-  color: #059669;
+  color: #8B5E3C;
   margin-bottom: 1rem;
 }
 
@@ -623,14 +623,14 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
 }
 
 .recommendations-section {
-  background: white;
+  background: #FFF8F2;
   padding: 1.5rem;
   border-radius: 8px;
   margin-top: 2rem;
 }
 
 .recommendations-section h3 {
-  color: #059669;
+  color: #8B5E3C;
   margin-bottom: 1rem;
 }
 
