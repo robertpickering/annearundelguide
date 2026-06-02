@@ -1,0 +1,451 @@
+/*
+ * Anne Arundel Guide — Custom Color Scheme
+ * Green (#07A855), Teal (#07A8A5), Blue (#075AA8)
+ *
+ * Overrides PaperMod theme variables and applies comprehensive
+ * color scheme across all site elements.
+ */
+
+/* ========== OVERRIDES THEME VARIABLES ========== */
+/* These replace PaperMod defaults: --primary, --secondary, --tertiary */
+
+:root {
+  --primary:   #07A855;
+  --secondary: #07A8A5;
+  --tertiary:  #075AA8;
+  --theme:     rgb(255, 255, 255);
+  --entry:     rgb(255, 255, 255);
+  --content:   rgb(31, 31, 31);
+  --code-block-bg: rgb(28, 29, 33);
+  --code-bg:   rgba(7, 168, 165, 0.08);
+  --border:    rgba(7, 168, 165, 0.25);
+}
+
+:root[data-theme="dark"] {
+  --primary:   #4DD9A0;
+  --secondary: #3AAFBF;
+  --tertiary:  #5B9BD5;
+  --theme:     rgb(15, 25, 35);
+  --entry:     rgb(30, 40, 55);
+  --content:   rgb(196, 196, 197);
+  --code-block-bg: rgb(10, 22, 40);
+  --code-bg:   rgba(7, 168, 165, 0.12);
+  --border:    rgba(7, 168, 165, 0.2);
+}
+
+/* ========== LIGHT MODE ========== */
+
+body {
+  background: #FFFFFF !important;
+  color: #1A1A2E !important;
+}
+
+/* Header */
+.header {
+  background: var(--theme) !important;
+  border-bottom-color: var(--border) !important;
+}
+
+.header .logo,
+.header .logo a {
+  color: var(--tertiary) !important;
+}
+
+/* Nav links */
+.nav-menu a {
+  color: var(--tertiary) !important;
+}
+
+.nav-menu a:hover,
+.nav-menu .active a {
+  color: var(--primary) !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--tertiary) !important;
+}
+
+.page-header h1,
+.article-header h1 {
+  color: var(--tertiary) !important;
+}
+
+/* Links — green */
+a {
+  color: var(--primary) !important;
+}
+
+a:hover {
+  color: #069147 !important;
+}
+
+/* Entry cards */
+.post-entry {
+  border-color: var(--border) !important;
+  background: var(--entry) !important;
+  box-shadow: 0 1px 3px rgba(7, 90, 168, 0.06) !important;
+  border-radius: var(--radius) !important;
+}
+
+.post-entry:hover {
+  border-color: var(--secondary) !important;
+  box-shadow: 0 3px 12px rgba(7, 168, 85, 0.1) !important;
+}
+
+.entry-header a {
+  color: var(--tertiary) !important;
+}
+
+/* Entry hints (date, tags) */
+.entry-hint {
+  color: var(--secondary) !important;
+}
+
+/* Body text */
+p, li, td, span, blockquote {
+  color: #333340 !important;
+}
+
+.entry-content {
+  color: #333340 !important;
+}
+
+/* Blockquote — green border */
+blockquote {
+  border-left-color: var(--primary) !important;
+  background: rgba(7, 168, 85, 0.04) !important;
+}
+
+/* Tables */
+table th {
+  background: rgba(7, 90, 168, 0.08) !important;
+  color: var(--tertiary) !important;
+  border-bottom-color: var(--secondary) !important;
+}
+
+table td {
+  color: #333340 !important;
+  border-color: var(--border) !important;
+}
+
+table {
+  border-color: var(--border) !important;
+}
+
+/* Code */
+code {
+  background: var(--code-bg) !important;
+  color: #C0392B !important;
+}
+
+pre {
+  background: var(--code-block-bg) !important;
+}
+
+/* Horizontal rule — teal */
+hr {
+  border-color: var(--border) !important;
+}
+
+/* Pagination — blue */
+.pagination a {
+  background: var(--tertiary) !important;
+  color: #FFFFFF !important;
+  border-color: var(--tertiary) !important;
+  border-radius: var(--radius) !important;
+}
+
+.pagination a:hover {
+  background: var(--primary) !important;
+  border-color: var(--primary) !important;
+}
+
+/* Footer */
+.footer {
+  background: var(--tertiary) !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.footer a {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.footer a:hover {
+  color: #FFFFFF !important;
+}
+
+/* List bullets — green */
+ul li::marker {
+  color: var(--primary) !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar-track {
+  background: #F4F4F4 !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary) !important;
+  border-radius: 6px !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #069147 !important;
+}
+
+/* Selection — green highlight */
+::selection {
+  background: rgba(7, 168, 85, 0.25) !important;
+  color: var(--tertiary) !important;
+}
+
+/* ========== DARK MODE ========== */
+
+[data-theme="dark"] body {
+  background: var(--theme) !important;
+  color: #D5DCE4 !important;
+}
+
+[data-theme="dark"] .header {
+  background: var(--theme) !important;
+  border-bottom-color: var(--border) !important;
+}
+
+[data-theme="dark"] .header .logo,
+[data-theme="dark"] .header .logo a {
+  color: var(--primary) !important;
+}
+
+[data-theme="dark"] h1,
+[data-theme="dark"] h2,
+[data-theme="dark"] h3,
+[data-theme="dark"] h4,
+[data-theme="dark"] h5,
+[data-theme="dark"] h6 {
+  color: var(--primary) !important;
+}
+
+[data-theme="dark"] .page-header h1,
+[data-theme="dark"] .article-header h1 {
+  color: var(--primary) !important;
+}
+
+[data-theme="dark"] a {
+  color: var(--secondary) !important;
+}
+
+[data-theme="dark"] a:hover {
+  color: var(--primary) !important;
+}
+
+[data-theme="dark"] .post-entry {
+  border-color: var(--border) !important;
+  background: var(--entry) !important;
+}
+
+[data-theme="dark"] .post-entry:hover {
+  border-color: var(--primary) !important;
+}
+
+[data-theme="dark"] .entry-header a {
+  color: #D5DCE4 !important;
+}
+
+[data-theme="dark"] .entry-hint {
+  color: var(--secondary) !important;
+}
+
+[data-theme="dark"] p,
+[data-theme="dark"] li,
+[data-theme="dark"] td,
+[data-theme="dark"] span,
+[data-theme="dark"] blockquote {
+  color: #A8B0B8 !important;
+}
+
+[data-theme="dark"] .entry-content {
+  color: #98A0A8 !important;
+}
+
+[data-theme="dark"] blockquote {
+  border-left-color: var(--primary) !important;
+  background: rgba(7, 168, 85, 0.08) !important;
+}
+
+[data-theme="dark"] table th {
+  background: rgba(7, 168, 85, 0.1) !important;
+  color: var(--primary) !important;
+  border-bottom-color: var(--secondary) !important;
+}
+
+[data-theme="dark"] table td {
+  color: #A8B0B8 !important;
+  border-color: var(--border) !important;
+}
+
+[data-theme="dark"] table {
+  border-color: var(--border) !important;
+}
+
+[data-theme="dark"] code {
+  background: var(--code-bg) !important;
+  color: #E07070 !important;
+}
+
+[data-theme="dark"] pre {
+  background: var(--code-block-bg) !important;
+}
+
+[data-theme="dark"] hr {
+  border-color: var(--border) !important;
+}
+
+[data-theme="dark"] .pagination a {
+  background: var(--tertiary) !important;
+  color: #FFFFFF !important;
+  border-color: var(--tertiary) !important;
+}
+
+[data-theme="dark"] .pagination a:hover {
+  background: var(--primary) !important;
+  border-color: var(--primary) !important;
+}
+
+[data-theme="dark"] .footer {
+  background: rgba(7, 90, 168, 0.15) !important;
+  color: #5A6A78 !important;
+}
+
+[data-theme="dark"] .footer a {
+  color: var(--secondary) !important;
+}
+
+[data-theme="dark"] ul li::marker {
+  color: var(--primary) !important;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-track {
+  background: var(--theme) !important;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: var(--secondary) !important;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: var(--primary) !important;
+}
+
+[data-theme="dark"] ::selection {
+  background: rgba(7, 168, 85, 0.2) !important;
+  color: #D5DCE4 !important;
+}
+
+/* ========== MISC ========== */
+
+/* Smooth transitions */
+body, .header, .footer, .post-entry {
+  transition: background 0.3s ease, color 0.3s ease, border-color 0.3s ease !important;
+}
+
+/* Home section borders */
+.home-section {
+  border-bottom-color: var(--border) !important;
+}
+
+/* Social icons */
+.social-icons a {
+  color: var(--primary) !important;
+}
+
+.social-icons a:hover {
+  color: var(--tertiary) !important;
+}
+
+/* Top link */
+.top-link {
+  color: var(--primary) !important;
+}
+
+.top-link:hover {
+  color: var(--tertiary) !important;
+}
+
+/* Nav separator */
+.nav-sep {
+  color: var(--secondary) !important;
+}
+
+/* Search */
+.searchbox .searchbox-input {
+  background: #FFFFFF !important;
+  border-color: var(--border) !important;
+  color: #1A1A2E !important;
+}
+
+.searchbox .searchbox-input:focus {
+  border-color: var(--primary) !important;
+  box-shadow: 0 0 0 3px rgba(7, 168, 85, 0.15) !important;
+}
+
+[data-theme="dark"] .searchbox .searchbox-input {
+  background: var(--entry) !important;
+  border-color: var(--border) !important;
+  color: #D5DCE4 !important;
+}
+
+/* TOC */
+.toc {
+  background: var(--entry) !important;
+  border-color: var(--border) !important;
+}
+
+[data-theme="dark"] .toc {
+  background: var(--entry) !important;
+  border-color: var(--border) !important;
+}
+
+/* Article content */
+.article-content {
+  color: #333340 !important;
+}
+
+[data-theme="dark"] .article-content {
+  color: #A8B0B8 !important;
+}
+
+/* Theme toggle */
+.theme-toggle {
+  color: var(--secondary) !important;
+}
+
+[data-theme="dark"] .theme-toggle {
+  color: var(--primary) !important;
+}
+
+/* Buttons */
+.btn, .button {
+  background: var(--primary) !important;
+  color: #FFFFFF !important;
+  border-color: var(--primary) !important;
+}
+
+.btn:hover, .button:hover {
+  background: #069147 !important;
+  border-color: #069147 !important;
+}
+
+/* Tags */
+.tag, .tag a {
+  color: var(--secondary) !important;
+}
+
+.tag:hover, .tag a:hover {
+  color: var(--primary) !important;
+}
+
+/* List background */
+.list {
+  background: var(--theme) !important;
+}
