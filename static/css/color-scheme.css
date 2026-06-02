@@ -1,57 +1,57 @@
-/* Anne Arundel Guide - Complete Color Scheme Override */
-/* Colors: #07A855 (green), #07A8A5 (teal), #075AA8 (blue) */
+/* Anne Arundel Guide - Warm, Earthy Color Scheme */
+/* Colors: #C47A5A (terracotta), #D4A574 (sand/amber), #7A8C6A (sage) */
 
-/* Override Ananke's Tachyons blue (#357edd) with our green */
+/* Override links with warm terracotta */
 .a,
 .link,
 a {
-  color: #07A855 !important;
+  color: #C47A5A !important;
 }
 
 a:hover {
-  color: #069147 !important;
+  color: #B06A4A !important;
 }
 
 /* Override primary links */
 .link--primary,
 .link-primary {
-  color: #07A855 !important;
+  color: #C47A5A !important;
 }
 
 .link--primary:hover,
 .link-primary:hover {
-  color: #069147 !important;
+  color: #B06A4A !important;
 }
 
-/* Override secondary colors with teal */
+/* Override secondary colors with warm amber */
 .a--secondary,
 .link-secondary {
-  color: #07A8A5 !important;
+  color: #D4A574 !important;
 }
 
 .link-secondary:hover {
-  color: #069191 !important;
+  color: #C09060 !important;
 }
 
-/* Override tertiary colors with blue */
+/* Override tertiary colors with sage green */
 .a--tertiary,
 .link-tertiary {
-  color: #075AA8 !important;
+  color: #7A8C6A !important;
 }
 
 .link-tertiary:hover {
-  color: #064986 !important;
+  color: #6A7C5A !important;
 }
 
-/* Override buttons - make them green */
+/* Override buttons - warm terracotta */
 .btn,
 .button,
 button,
 input[type="submit"],
 input[type="button"] {
-  background-color: #07A855 !important;
+  background-color: #C47A5A !important;
   color: white !important;
-  border-color: #07A855 !important;
+  border-color: #C47A5A !important;
 }
 
 .btn:hover,
@@ -59,100 +59,100 @@ input[type="button"] {
 button:hover,
 input[type="submit"]:hover,
 input[type="button"]:hover {
-  background-color: #069147 !important;
-  border-color: #069147 !important;
+  background-color: #B06A4A !important;
+  border-color: #B06A4A !important;
 }
 
-/* Override heading colors with blue */
+/* Override heading colors with warm brown */
 h1, h2, h3, h4, h5, h6,
 .site-title,
 .title {
-  color: #075AA8 !important;
+  color: #5C4033 !important;
 }
 
-/* Override navigation */
+/* Override navigation with sage */
 .nav-menu a,
 .main-menu a,
 nav a,
 .header a {
-  color: #075AA8 !important;
+  color: #7A8C6A !important;
 }
 
 .nav-menu a:hover,
 .main-menu a:hover {
-  color: #07A855 !important;
+  color: #C47A5A !important;
 }
 
-/* Override header/footer borders with teal */
+/* Override header/footer borders with warm amber */
 .header,
 .site-header,
 .navbar,
 header {
-  border-bottom-color: #07A8A5 !important;
+  border-bottom-color: #D4A574 !important;
 }
 
 .site-footer,
 footer {
-  border-top-color: #07A8A5 !important;
+  border-top-color: #D4A574 !important;
 }
 
-/* Override code blocks with teal background */
+/* Override code blocks with warm sand background */
 pre,
 code,
 code[class*="language-"],
 pre code {
-  background-color: rgba(7, 168, 165, 0.1) !important;
-  border-color: #07A8A5 !important;
+  background-color: rgba(212, 165, 116, 0.1) !important;
+  border-color: #D4A574 !important;
 }
 
-/* Override blockquotes with green border */
+/* Override blockquotes with sage border */
 blockquote,
 .lh-copy blockquote {
-  border-left-color: #07A855 !important;
-  background-color: rgba(7, 168, 85, 0.05) !important;
+  border-left-color: #7A8C6A !important;
+  background-color: rgba(122, 140, 106, 0.05) !important;
 }
 
-/* Override table headers with blue background */
+/* Override table headers with sage background */
 table th,
 table thead th {
-  background-color: rgba(7, 90, 168, 0.15) !important;
-  color: #075AA8 !important;
+  background-color: rgba(122, 140, 106, 0.15) !important;
+  color: #7A8C6A !important;
 }
 
 table td {
   border-color: rgba(0, 0, 0, 0.1) !important;
 }
 
-/* Override tags/labels with teal */
+/* Override tags/labels with warm amber */
 .tag,
 .label,
 .tag--primary,
 .post-tags a,
 .post-tag a {
-  background-color: rgba(7, 168, 165, 0.2) !important;
-  color: #07A8A5 !important;
+  background-color: rgba(212, 165, 116, 0.2) !important;
+  color: #D4A574 !important;
 }
 
 .tag:hover,
 .label:hover,
 .post-tags a:hover {
-  background-color: rgba(7, 168, 165, 0.3) !important;
-  color: #069191 !important;
+  background-color: rgba(212, 165, 116, 0.3) !important;
+  color: #C09060 !important;
 }
 
-/* Override pagination with blue */
+/* Override pagination with sage */
 .pagination .page-link,
 .pagination a {
-  color: #075AA8 !important;
+  color: #7A8C6A !important;
 }
 
 .pagination .page-item.active .page-link,
 .pagination .page-item.active a {
-  background-color: #075AA8 !important;
-  border-color: #075AA8 !important;
+  background-color: #7A8C6A !important;
+  border-color: #7A8C6A !important;
 }
 
-/* Override form inputs - green focus */
+/* Override form inputs - terracotta focus */
 input[type="text"],
 input[type="email"],
 input[type="password"],
@@ -161,78 +161,90 @@ input[type="tel"],
 input[type="url"],
 textarea,
 select {
-  border-color: #ccc !important;
+  border-color: #D4C4B0 !important;
+  background-color: #FDF6F0 !important;
 }
 
 input:focus,
 textarea:focus,
 select:focus {
-  border-color: #07A855 !important;
-  box-shadow: 0 0 0 3px rgba(7, 168, 85, 0.2) !important;
+  border-color: #C47A5A !important;
+  box-shadow: 0 0 0 3px rgba(196, 122, 90, 0.2) !important;
   outline: none !important;
 }
 
-/* Override scrollbars with green */
+/* Override scrollbars with terracotta */
 ::-webkit-scrollbar {
   width: 12px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #f4f4f4 !important;
+  background: #FDF6F0 !important;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #07A855 !important;
+  background: #C47A5A !important;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #069147 !important;
+  background: #B06A4A !important;
 }
 
-/* Override text selection with green */
+/* Override text selection with warm amber */
 ::selection {
-  background-color: rgba(7, 168, 85, 0.3) !important;
-  color: #075AA8 !important;
+  background-color: rgba(212, 165, 116, 0.35) !important;
+  color: #5C4033 !important;
 }
 
 ::-moz-selection {
-  background-color: rgba(7, 168, 85, 0.3) !important;
-  color: #075AA8 !important;
+  background-color: rgba(212, 165, 116, 0.35) !important;
+  color: #5C4033 !important;
 }
 
-/* Override hero/primary section background with gradient */
+/* Override hero/primary section background with warm gradient */
 .hero,
 .hero-section,
 .primary,
 .primary-section {
-  background: linear-gradient(135deg, #07A855 0%, #07A8A5 50%, #075AA8 100%) !important;
+  background: linear-gradient(135deg, #C47A5A 0%, #D4A574 50%, #7A8C6A 100%) !important;
 }
 
-/* Override alert/notices */
+/* Override alert/notices with warm amber */
 .alert,
 .notice,
 .alert-info {
-  background-color: rgba(7, 168, 165, 0.1) !important;
-  border-left: 4px solid #07A8A5 !important;
+  background-color: rgba(212, 165, 116, 0.1) !important;
+  border-left: 4px solid #D4A574 !important;
 }
 
 .alert-success {
-  background-color: rgba(7, 168, 85, 0.1) !important;
-  border-left: 4px solid #07A855 !important;
+  background-color: rgba(122, 140, 106, 0.1) !important;
+  border-left: 4px solid #7A8C6A !important;
 }
 
-/* Override author info with blue */
+/* Override author info with sage */
 .author-info,
 .author-box {
-  border-left: 3px solid #075AA8 !important;
+  border-left: 3px solid #7A8C6A !important;
 }
 
-/* Override icon colors */
+/* Override icon colors with terracotta */
 .icon,
 .icon-link {
-  color: #07A855 !important;
+  color: #C47A5A !important;
 }
 
 .icon-link:hover {
-  color: #069147 !important;
+  color: #B06A4A !important;
+}
+
+/* Warm cream body background */
+body {
+  background-color: #FDF6F0 !important;
+  color: #4A3728 !important;
+}
+
+/* Warm borders */
+hr {
+  border-color: #E8D5C4 !important;
 }

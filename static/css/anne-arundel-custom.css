@@ -1,36 +1,36 @@
 /* Anne Arundel Guide Custom Color Scheme Overrides */
-/* Applied colors: --color-1 (#07A855), --color-2 (#07A8A5), --color-3 (#075AA8) */
+/* Warm, Earthy Palette: Terracotta, Sand, Sage */
 
 :root {
-  /* Primary color (green) - Main branding, buttons, links */
+  /* Primary color (terracotta) - Main branding, buttons, links */
   --color-primary-400: var(--color-1);
   --color-primary-500: var(--color-1);
-  --color-primary-600: #069147; /* Darker shade of color-1 */
-  --color-primary-700: #057839; /* Even darker */
-  --color-primary-50: 234, 255, 240; /* Very light green */
-  --color-primary-100: 184, 255, 213;
-  --color-primary-200: 114, 255, 163;
-  --color-primary-300: 74, 250, 131;
+  --color-primary-600: #B06A4A; /* Darker terracotta */
+  --color-primary-700: #9C5A3A; /* Even darker */
+  --color-primary-50: 253, 246, 240; /* Warm cream */
+  --color-primary-100: 245, 225, 200;
+  --color-primary-200: 235, 195, 160;
+  --color-primary-300: 210, 155, 115;
 
-  /* Secondary color (teal) - Accents, highlights, hover states */
+  /* Secondary color (warm amber/sand) - Accents, highlights, hover states */
   --color-secondary-500: var(--color-2);
-  --color-secondary-600: #069191; /* Darker shade of color-2 */
-  --color-secondary-700: #057878; /* Even darker */
-  --color-secondary-50: 236, 255, 255; /* Very light teal */
-  --color-secondary-100: 207, 250, 254;
-  --color-secondary-200: 165, 243, 252;
-  --color-secondary-300: 103, 232, 249;
-  --color-secondary-400: 34, 211, 238;
+  --color-secondary-600: #C09060; /* Darker amber */
+  --color-secondary-700: #A87D52; /* Even darker */
+  --color-secondary-50: 254, 248, 238; /* Light cream */
+  --color-secondary-100: 250, 235, 210;
+  --color-secondary-200: 235, 210, 170;
+  --color-secondary-300: 210, 180, 130;
+  --color-secondary-400: 190, 150, 100;
 
-  /* Tertiary color (blue) - Special elements, navigation, headers */
+  /* Tertiary color (sage) - Special elements, navigation, headers */
   --color-tertiary-500: var(--color-3);
-  --color-tertiary-600: #064986; /* Darker shade of color-3 */
-  --color-tertiary-700: #053a69; /* Even darker */
-  --color-tertiary-50: 234, 242, 255; /* Very light blue */
-  --color-tertiary-100: 219, 234, 254;
-  --color-tertiary-200: 191, 219, 254;
-  --color-tertiary-300: 147, 197, 253;
-  --color-tertiary-400: 96, 165, 250;
+  --color-tertiary-600: #6A7C5A; /* Darker sage */
+  --color-tertiary-700: #5A6C4A; /* Even darker */
+  --color-tertiary-50: 240, 245, 235; /* Light sage cream */
+  --color-tertiary-100: 220, 230, 210;
+  --color-tertiary-200: 195, 210, 180;
+  --color-tertiary-300: 170, 185, 145;
+  --color-tertiary-400: 140, 160, 110;
 }
 
 /* Primary color usage */
@@ -42,7 +42,7 @@ a:hover {
   color: rgba(var(--color-primary-600), 1);
 }
 
-/* Buttons with color-1 (green) */
+/* Buttons with terracotta */
 .btn,
 button,
 input[type="submit"],
@@ -58,13 +58,13 @@ input[type="button"]:hover {
   background-color: rgba(var(--color-primary-600), 1) !important;
 }
 
-/* Secondary accents with color-2 (teal) */
+/* Secondary accents with warm amber */
 .mark,
 .text-accent {
   background-color: rgba(var(--color-secondary-200), 1) !important;
 }
 
-/* Navigation and headers with color-3 (blue) */
+/* Navigation and headers with sage */
 .site-header,
 header,
 nav,
@@ -80,10 +80,10 @@ code[class*="language-"] {
   background-color: rgba(var(--color-secondary-50), 1) !important;
 }
 
-/* Blockquotes */
+/* Blockquotes with sage */
 blockquote {
-  border-left-color: rgba(var(--color-primary-400), 1) !important;
-  background-color: rgba(var(--color-primary-50), 1) !important;
+  border-left-color: rgba(var(--color-tertiary-500), 1) !important;
+  background-color: rgba(var(--color-tertiary-50), 1) !important;
 }
 
 /* Alert/Warning boxes */
@@ -93,13 +93,13 @@ blockquote {
 }
 
 .alert-success {
-  background-color: rgba(var(--color-primary-50), 1) !important;
-  border-left-color: rgba(var(--color-primary-500), 1) !important;
+  background-color: rgba(var(--color-tertiary-50), 1) !important;
+  border-left-color: rgba(var(--color-tertiary-500), 1) !important;
 }
 
 .alert-warning {
-  background-color: rgba(var(--color-tertiary-50), 1) !important;
-  border-left-color: rgba(var(--color-tertiary-500), 1) !important;
+  background-color: rgba(var(--color-secondary-100), 1) !important;
+  border-left-color: rgba(var(--color-secondary-600), 1) !important;
 }
 
 /* Form elements */
@@ -116,7 +116,7 @@ progress[value] {
   color: rgba(var(--color-primary-500), 1);
 }
 
-/* Table headers */
+/* Table headers with sage */
 th {
   background-color: rgba(var(--color-tertiary-100), 1) !important;
   color: rgba(var(--color-tertiary-700), 1) !important;
@@ -140,9 +140,9 @@ table tbody {
   background: rgba(var(--color-neutral-100), 1) !important;
 }
 
-/* Selection color */
+/* Selection color with warm amber */
 ::selection {
-  background-color: rgba(var(--color-primary-300), 0.4) !important;
+  background-color: rgba(var(--color-secondary-200), 0.5) !important;
   color: rgba(var(--color-primary-700), 1) !important;
 }
 
