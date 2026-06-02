@@ -1,39 +1,50 @@
 :root {
-  /* Custom color scheme for Anne Arundel Guide */
-  --color-1: #07A855;
-  --color-2: #07A8A5;
-  --color-3: #075AA8;
+  /* Warm, Earthy Color Scheme for Anne Arundel Guide */
+  --color-1: #C47A5A; /* Terracotta */
+  --color-2: #D4A574; /* Warm amber */
+  --color-3: #8B5E3C; /* Rich brown */
 
-  --color-neutral-50: 255, 255, 255;
-  --color-neutral-100: 245, 245, 245;
-  --color-neutral-200: 220, 220, 220;
-  --color-neutral-300: 185, 185, 185;
-  --color-neutral-400: 140, 140, 140;
-  --color-neutral-500: 100, 100, 100;
-  --color-neutral-600: 70, 70, 70;
-  --color-neutral-700: 50, 50, 50;
-  --color-neutral-800: 30, 30, 30;
-  --color-neutral-900: 10, 10, 10;
+  --color-neutral-50: 253, 246, 240;
+  --color-neutral-100: 255, 248, 242;
+  --color-neutral-200: 240, 230, 216;
+  --color-neutral-300: 232, 221, 208;
+  --color-neutral-400: 196, 176, 154;
+  --color-neutral-500: 160, 154, 130;
+  --color-neutral-600: 139, 115, 85;
+  --color-neutral-700: 107, 66, 38;
+  --color-neutral-800: 92, 61, 46;
+  --color-neutral-900: 61, 50, 41;
 
-  --color-primary-50: 234, 255, 238;
-  --color-primary-100: 184, 255, 213;
-  --color-primary-200: 114, 255, 163;
-  --color-primary-300: 74, 250, 131;
-  --color-primary-400: 14, 210, 71;
-  --color-primary-500: 34, 230, 91;
-  --color-primary-600: 29, 195, 78;
-  --color-primary-700: 25, 160, 65;
-  --color-primary-800: 20, 125, 50;
-  --color-primary-900: 15, 90, 35;
+  --color-primary-50: 255, 248, 242;
+  --color-primary-100: 240, 230, 216;
+  --color-primary-200: 232, 221, 208;
+  --color-primary-300: 198, 123, 92;
+  --color-primary-400: 196, 122, 90;
+  --color-primary-500: 166, 112, 79;
+  --color-primary-600: 168, 99, 74;
+  --color-primary-700: 139, 94, 60;
+  --color-primary-800: 107, 66, 38;
+  --color-primary-900: 92, 61, 46;
 
-  --color-secondary-50: 255, 234, 255;
-  --color-secondary-100: 255, 194, 255;
-  --color-secondary-200: 238, 148, 255;
-  --color-secondary-300: 198, 108, 255;
-  --color-secondary-400: 158, 68, 210;
-  --color-secondary-500: 148, 34, 230;
-  --color-secondary-600: 128, 29, 200;
-  --color-secondary-700: 108, 24, 170;
-  --color-secondary-800: 88, 20, 140;
-  --color-secondary-900: 68, 15, 110;
+  --color-secondary-50: 255, 250, 245;
+  --color-secondary-100: 240, 230, 216;
+  --color-secondary-200: 232, 221, 208;
+  --color-secondary-300: 212, 165, 116;
+  --color-secondary-400: 200, 150, 100;
+  --color-secondary-500: 166, 112, 79;
+  --color-secondary-600: 150, 100, 65;
+  --color-secondary-700: 120, 80, 52;
+  --color-secondary-800: 100, 65, 43;
+  --color-secondary-900: 80, 52, 35;
+
+  --color-tertiary-50: 250, 240, 232;
+  --color-tertiary-100: 240, 224, 212;
+  --color-tertiary-200: 224, 208, 196;
+  --color-tertiary-300: 184, 172, 154;
+  --color-tertiary-400: 139, 115, 85;
+  --color-tertiary-500: 107, 66, 38;
+  --color-tertiary-600: 92, 57, 32;
+  --color-tertiary-700: 74, 45, 26;
+  --color-tertiary-800: 60, 36, 21;
+  --color-tertiary-900: 48, 29, 17;
 }

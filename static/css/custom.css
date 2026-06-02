@@ -1,27 +1,60 @@
-/* Override page background */
+/* Override page background - Warm, Earthy Palette */
 .bg-near-white {
-  background-color: #f0f4f8 !important;
+  background-color: #FDF6F0 !important;
 }
 
 /* Override text color */
 .mid-gray,
 .dark-gray,
 .black-80 {
-  color: #1e293b !important;
+  color: #3D3229 !important;
 }
 
-/* Header area */
+/* Header area - Warm brown gradient */
 .bg-black {
-  background-color: #1e3a8a !important;
+  background-color: #5C3D2E !important;
 }
 
-/* Links */
+/* Links - Warm terracotta */
 a {
-  color: #2563eb !important;
+  color: #A6704F !important;
 }
 
-/* Buttons / links styled as buttons */
-.pa3.bg-black {
-  background-color: #2563eb !important;
+a:hover {
+  color: #C67B5C !important;
 }
-``
+
+/* Buttons / links styled as buttons - Terracotta */
+.pa3.bg-black {
+  background-color: #C47A5A !important;
+}
+
+/* Headings - Rich brown */
+h1, h2, h3, h4, h5, h6 {
+  color: #6B4226 !important;
+}
+
+/* Cards - Warm cream */
+.post-entry,
+.card {
+  background: #FFF8F2 !important;
+  border-color: #E8DDD0 !important;
+}
+
+/* Tables - Warm tones */
+table th {
+  background: #F0E6D8 !important;
+  color: #6B4226 !important;
+}
+
+table td {
+  color: #3D3229 !important;
+  border-color: #E8DDD0 !important;
+}
+
+/* Footer - Rich brown */
+.footer,
+.site-footer {
+  background: #5C3D2E !important;
+  color: #B09A82 !important;
+}
