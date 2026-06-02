@@ -435,38 +435,50 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
   const data = townData[town];
   const monthlyPaymentText = townNames[town];
   
-  // Calculate mortgage payment (simplified)
-  const interestRate = 0.065;
-  const loanTerm = 30;
-  const loanAmount = monthlyPayment * 1000 * 0.7;
-  const downPaymentPercent = downPayment / (monthlyPayment * 1000);
-  
+  // Mortgage math: reverse-calculate loan amount from monthly payment budget
+  const interestRate = 0.065;  // 6.5% annual rate
+  const loanTerm = 30;  // years
   const monthlyRate = interestRate / 12;
   const numberOfPayments = loanTerm * 12;
-  const mortgagePayment = loanAmount * (monthlyRate * Math.pow(1 + monthlyRate, numberOfPayments)) / (Math.pow(1 + monthlyRate, numberOfPayments) - 1);
-  
-  const propertyTax = (loanAmount * 0.011) / 12;
+
+  // Estimate property tax + insurance as portion of monthly budget
+  // ~22% for taxes (1.1%/yr ÷ 12 ≈ 0.092%) + ~$120 insurance
+  const taxRate = 0.011 / 12;  // monthly property tax rate
   const insurance = 120;
-  const totalPayment = mortgagePayment + propertyTax + insurance;
-  
+
+  // Solve: payment = P*[r(1+r)^n / ((1+r)^n - 1)] + homePrice*taxRate + insurance
+  // So: payment - insurance = homePrice * (mortgageFactor + taxRate)
+  // homePrice = (payment - insurance) / (mortgageFactor + taxRate)
+  const mortgageFactor = (monthlyRate * Math.pow(1 + monthlyRate, numberOfPayments)) / (Math.pow(1 + monthlyRate, numberOfPayments) - 1);
+  const affordableHomePrice = Math.round((monthlyPayment - insurance) / (mortgageFactor + taxRate));
+
+  // Actual monthly breakdown for that home price
+  const actualLoanAmount = affordableHomePrice - downPayment;
+  const actualMortgagePayment = actualLoanAmount * mortgageFactor;
+  const actualPropertyTax = (affordableHomePrice * taxRate);
+  const actualTotalPayment = actualMortgagePayment + actualPropertyTax + insurance;
+
+  // Down payment needed (20% conventional)
+  const downPaymentNeeded = Math.round(affordableHomePrice * 0.20);
+
   document.getElementById('result-town').textContent = monthlyPaymentText;
-  document.getElementById('affordable-home').textContent = Math.round(mortgagePayment * 1000 / 0.7).toLocaleString();
-  document.getElementById('affordable-home-high').textContent = Math.round(mortgagePayment * 1000 / 0.6).toLocaleString();
-  document.getElementById('monthly-payment-estimate').textContent = Math.round(totalPayment).toLocaleString();
-  document.getElementById('down-payment-needed').textContent = Math.round(loanAmount * 0.05).toLocaleString();
+  document.getElementById('affordable-home').textContent = Math.round(affordableHomePrice * 0.95).toLocaleString();
+  document.getElementById('affordable-home-high').textContent = Math.round(affordableHomePrice * 1.05).toLocaleString();
+  document.getElementById('monthly-payment-estimate').textContent = Math.round(actualTotalPayment).toLocaleString();
+  document.getElementById('down-payment-needed').textContent = downPaymentNeeded.toLocaleString();
   document.getElementById('avg-rent-2bed').textContent = data.avgRent.toLocaleString();
-  document.getElementById('rent-within-budget').textContent = '33+';
-  document.getElementById('rent-neighborhoods').textContent = 'Available in most areas';
-  document.getElementById('primary-payment').textContent = Math.round(mortgagePayment).toLocaleString();
-  document.getElementById('property-tax').textContent = Math.round(propertyTax).toLocaleString();
+  document.getElementById('rent-within-budget').textContent = monthlyPayment >= data.avgRent ? 'Many' : 'Limited';
+  document.getElementById('rent-neighborhoods').textContent = 'Check Zillow & Apartments.com';
+  document.getElementById('primary-payment').textContent = Math.round(actualMortgagePayment).toLocaleString();
+  document.getElementById('property-tax').textContent = Math.round(actualPropertyTax).toLocaleString();
   document.getElementById('insurance').textContent = insurance.toLocaleString();
-  document.getElementById('total-monthly').textContent = Math.round(totalPayment).toLocaleString();
+  document.getElementById('total-monthly').textContent = Math.round(actualTotalPayment).toLocaleString();
   document.getElementById('area-avg-price').textContent = '$' + data.avgPrice.toLocaleString();
   document.getElementById('price-per-sqft').textContent = data.pricePerSqft;
-  
-  if (loanAmount < data.avgPrice * 0.7) {
+
+  if (affordableHomePrice < data.avgPrice * 0.7) {
     document.getElementById('budget-vs-market').innerHTML = '<span style="color: green;">Below average</span> - Good entry-level option';
-  } else if (loanAmount > data.avgPrice * 0.9) {
+  } else if (affordableHomePrice > data.avgPrice * 1.2) {
     document.getElementById('budget-vs-market').innerHTML = '<span style="color: #d68f18;">Above average</span> - Luxury market';
   } else {
     document.getElementById('budget-vs-market').innerHTML = 'At market average';
