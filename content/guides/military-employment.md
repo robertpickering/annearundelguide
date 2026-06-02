@@ -1,4 +1,6 @@
 ---
+
+slug: "military-employment"
 title: "Military Employment & Career Resources"
 description: "Employment resources for military families in Anne Arundel County - job search, spouse employment, career transition, and veteran hiring"
 date: 2026-05-18
@@ -365,9 +367,9 @@ Military families in Anne Arundel County have unique employment challenges and o
 ---
 
 For more military info:
-- [Veterans & Military Resources](/topics/veterans-military-resources/)
-- [Military Education](/topics/military-education/)
-- [VA Benefits Guide](/topics/va-benefits-guide/)
+- [Veterans & Military Resources](/veterans-military/)
+- [Military Education](/military-education/)
+- [VA Benefits Guide](/veterans-military/)
 
 
 ## Official Military Resources

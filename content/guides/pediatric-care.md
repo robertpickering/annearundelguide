@@ -1,4 +1,6 @@
 ---
+
+slug: "pediatric-care"
 title: "Pediatric Care in Anne Arundel County"
 description: "Complete guide to pediatric healthcare, doctors, and children's medical services in Anne Arundel County"
 date: 2026-05-18
@@ -451,8 +453,8 @@ Finding good pediatric care is crucial for your child's health and development. 
 ---
 
 For more pediatric info:
-- [Healthcare Navigation](/topics/healthcare-navigation/)
-- [Hospitals Guide](/topics/hospitals-guide/)
+- [Healthcare Navigation](/healthcare/)
+- [Hospitals Guide](/healthcare/)
 
 
 ## Official Government Resources

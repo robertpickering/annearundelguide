@@ -1,5 +1,7 @@
 ---
 
+slug: "transportation"
+
 title: "Commuting & Transportation in Anne Arundel County"
 description: "Complete guide to commuting, public transit, ferry services, parking, and transportation options in Anne Arundel County, MD"
 date: 2026-05-18

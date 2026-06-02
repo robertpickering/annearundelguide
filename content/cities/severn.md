@@ -10,7 +10,7 @@ draft: false
 
 Severn is a census-designated place (CDP) in Anne Arundel County, Maryland. Located between Annapolis and Baltimore, Severn offers convenient access to BWI Airport, Severn River waterfront access, and a mix of residential neighborhoods with strong community amenities.
 
-[![Severn waterfront](/images/severn-waterfront.jpg)](/images/severn-waterfront.jpg)
+[](/images/severn-waterfront.jpg)
 
 ## Quick Facts
 
@@ -351,7 +351,7 @@ Severn's cost of living is above county average, reflecting desirability and ame
 - **Transportation:** 10% above average (commuting costs)
 - **Healthcare:** 5% above average
 
-**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/topics/budgeting-cost-living/)
+**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/budgeting-cost-of-living/)
 
 ### Tax Information
 

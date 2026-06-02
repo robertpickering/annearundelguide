@@ -10,7 +10,7 @@ draft: false
 
 Crofton is a census-designated place (CDP) in Anne Arundel County, Maryland. As one of the largest and most populous communities in South County, Crofton serves as a major residential and commercial hub with diverse neighborhoods, excellent amenities, and a strong sense of community.
 
-[![Crofton community center](/images/crofton-community.jpg)](/images/crofton-community.jpg)
+[](/images/crofton-community.jpg)
 
 ## Quick Facts
 
@@ -335,7 +335,7 @@ Crofton's cost of living is above county average, reflecting desirability and am
 - **Transportation:** 10% above average (commuting costs)
 - **Healthcare:** 5% above average
 
-**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/topics/budgeting-cost-living/)
+**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/budgeting-cost-of-living/)
 
 ### Tax Information
 

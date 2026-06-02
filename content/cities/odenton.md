@@ -10,7 +10,7 @@ draft: false
 
 Odenton is a census-designated place (CDP) in Anne Arundel County, Maryland. Known for its proximity to Fort Meade and Joint Base Andrews, excellent schools, and convenient MARC train access, Odenton is a popular choice for military families, government employees, and commuters to Washington, D.C.
 
-[![Odenton community](/images/odenton-community.jpg)](/images/odenton-community.jpg)
+[](/images/odenton-community.jpg)
 
 ## Quick Facts
 
@@ -361,7 +361,7 @@ Odenton's cost of living is above national average but below Annapolis and Sever
 - **Transportation:** 10% above average (commuting costs)
 - **Healthcare:** 5% above average
 
-**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/topics/budgeting-cost-living/)
+**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/budgeting-cost-of-living/)
 
 ### Tax Information
 

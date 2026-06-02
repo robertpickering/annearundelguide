@@ -10,7 +10,7 @@ draft: false
 
 Gambrills is a census-designated place (CDP) in Anne Arundel County, Maryland. Known primarily as a major commercial and retail center, Gambrills serves as a hub for shopping, dining, and business services with excellent highway access and convenient location near Annapolis and Baltimore.
 
-[![Gambrills shopping area](/images/gambrills-shopping.jpg)](/images/gambrills-shopping.jpg)
+[](/images/gambrills-shopping.jpg)
 
 ## Quick Facts
 
@@ -311,7 +311,7 @@ Gambrills' cost of living is moderate compared to Anne Arundel County:
 - **Transportation:** 10% above average (commuting costs)
 - **Healthcare:** 5% above average
 
-**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/topics/budgeting-cost-living/)
+**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/budgeting-cost-of-living/)
 
 ### Tax Information
 

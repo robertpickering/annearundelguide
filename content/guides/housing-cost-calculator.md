@@ -1,4 +1,6 @@
 ---
+
+slug: "housing-cost-calculator"
 title: "Anne Arundel County Housing Cost Calculator - Find Your Budget"
 description: "Interactive housing cost calculator for Anne Arundel County MD. Estimate home prices, rent, mortgage payments by town including Annapolis, Severna Park, Odenton, Crofton, Pasadena and more."
 date: 2026-05-20
@@ -270,7 +272,7 @@ Use our interactive calculator to estimate home prices, rent, mortgage payments,
 <h3>Explore All 19 Anne Arundel County Towns</h3>
 <p>Complete neighborhood and relocation data for every town in the county.</p>
 <ul>
-<li><a href="/topics/commuting-transportation/" class="btn">Anne Arundel County Neighborhood & Relocation Guide</a></li>
+<li><a href="/transportation/" class="btn">Anne Arundel County Neighborhood & Relocation Guide</a></li>
 <li><a href="/topics/housing/" class="btn btn-secondary">View Full Housing Guide</a></li>
 </ul>
 </div>
@@ -328,7 +330,7 @@ Use our interactive calculator to estimate home prices, rent, mortgage payments,
 <div class="resources-section">
 <h3>Budgeting Resources</h3>
 <ul>
-<li><a href="/topics/budgeting-cost-living/" class="btn">Anne Arundel County Budgeting & Cost of Living Guide</a></li>
+<li><a href="/budgeting-cost-of-living/" class="btn">Anne Arundel County Budgeting & Cost of Living Guide</a></li>
 <li><a href="https://www.zillow.com/home-values/3152/anne-arundel-county-md/" target="_blank" rel="noopener">Zillow Market Trends</a></li>
 <li><a href="https://www.realtor.com/local/market/maryland/anne-arundel-county" target="_blank" rel="noopener">Realtor.com Data</a></li>
 </ul>
@@ -367,7 +369,7 @@ Use our interactive calculator to estimate home prices, rent, mortgage payments,
 <div class="resources-section">
 <h3>Additional Resources</h3>
 <ul>
-<li><a href="/topics/veterans-military-resources/" class="btn">VA Benefits & Military Resources</a></li>
+<li><a href="/veterans-military/" class="btn">VA Benefits & Military Resources</a></li>
 <li><a href="https://www.mhfa.org/" target="_blank" rel="noopener">Maryland Housing Finance Authority</a></li>
 <li><a href="https://www.hud.gov/" target="_blank" rel="noopener">HUD Homebuyer Education</a></li>
 </ul>
@@ -477,8 +479,8 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
     } else if (loanAmount > data.avgPrice * 0.8) {
       recommendations.push('<p>💡 Your budget can access <strong>premium waterfront properties</strong> in Annapolis, Arnold, or Edgewater.</p>');
     }
-    recommendations.push('<p>💡 Check <a href="/topics/veterans-military-resources/">VA benefits</a> if eligible - may reduce or eliminate down payment requirements.</p>');
-    recommendations.push('<p>💡 Explore <a href="/topics/budgeting-cost-living/">first-time buyer programs</a> for down payment assistance.</p>');
+    recommendations.push('<p>💡 Check <a href="/veterans-military/">VA benefits</a> if eligible - may reduce or eliminate down payment requirements.</p>');
+    recommendations.push('<p>💡 Explore <a href="/budgeting-cost-of-living/">first-time buyer programs</a> for down payment assistance.</p>');
   } else {
     if (monthlyPayment < data.avgRent) {
       recommendations.push('<p>💡 Your budget is below average rent - consider <strong>sharing housing</strong> or looking at <strong>Glen Burnie or Crofton</strong> for more options.</p>');

@@ -1,5 +1,7 @@
 ---
 
+slug: "veterans-military"
+
 title: "Veterans & Military Resources in Anne Arundel County"
 description: "Complete guide for military families and veterans living in Anne Arundel County, including VA benefits, local resources, schools, and community support"
 date: 2026-05-18

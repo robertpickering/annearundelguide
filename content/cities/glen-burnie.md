@@ -10,7 +10,7 @@ draft: false
 
 Glen Burnie is a census-designated place (CDP) in Anne Arundel County, Maryland. As the county's most populous area with approximately 72,000 residents, Glen Burnie serves as a major commercial and residential hub with excellent highway access, diverse neighborhoods, and convenient amenities.
 
-[![Glen Burnie shopping area](/images/glen-burnie-shopping.jpg)](/images/glen-burnie-shopping.jpg)
+[](/images/glen-burnie-shopping.jpg)
 
 ## Quick Facts
 
@@ -303,7 +303,7 @@ Glen Burnie's cost of living is moderate compared to Anne Arundel County:
 - **Transportation:** 10% above average (commuting costs)
 - **Healthcare:** 5% above average
 
-**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/topics/budgeting-cost-living/)
+**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/budgeting-cost-of-living/)
 
 ### Tax Information
 

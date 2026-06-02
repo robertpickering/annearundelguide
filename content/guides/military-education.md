@@ -1,4 +1,6 @@
 ---
+
+slug: "military-education"
 title: "Military Education & Training Opportunities"
 description: "Education resources for military families in Anne Arundel County - from military schools to civilian education benefits"
 date: 2026-05-18
@@ -382,9 +384,9 @@ Military families in Anne Arundel County have unique education options. From mil
 ---
 
 For more military info:
-- [Veterans & Military Resources](/topics/veterans-military-resources/)
-- [VA Benefits Guide](/topics/va-benefits-guide/)
-- [Schools & Education Overview](/topics/schools-education-pathways/)
+- [Veterans & Military Resources](/veterans-military/)
+- [VA Benefits Guide](/veterans-military/)
+- [Schools & Education Overview](/schools-education/)
 
 
 ## Official Military Resources

@@ -1,4 +1,6 @@
 ---
+
+slug: "tax-guide"
 title: "Anne Arundel County Tax Guide"
 description: "Complete guide to taxes in Anne Arundel County - property taxes, income taxes, sales taxes, and tax resources"
 date: 2026-05-18
@@ -433,8 +435,8 @@ Understanding taxes in Anne Arundel County is essential for budgeting and financ
 ---
 
 For more budgeting info:
-- [Budgeting & Cost of Living](/topics/budgeting-cost-living/)
-- [Utility Costs](/topics/utility-costs/)
+- [Budgeting & Cost of Living](/budgeting-cost-of-living/)
+- [Utility Costs](/utility-costs/)
 
 ## Official Government Tax Resources
 

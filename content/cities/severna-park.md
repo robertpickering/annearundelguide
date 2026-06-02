@@ -10,7 +10,7 @@ draft: false
 
 Severna Park is a census-designated place (CDP) in Anne Arundel County, Maryland. Famous for having some of Maryland's highest-performing public schools, Severna Park is one of the most sought-after communities in the state for families seeking excellent education in a friendly, suburban environment.
 
-[![Severna Park community](/images/severna-park-community.jpg)](/images/severna-park-community.jpg)
+[](/images/severna-park-community.jpg)
 
 ## Quick Facts
 
@@ -341,7 +341,7 @@ Severna Park's cost of living is among the highest in Anne Arundel County due to
 - **Transportation:** 10% above average (commuting costs)
 - **Healthcare:** 5% above average
 
-**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/topics/budgeting-cost-living/)
+**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/budgeting-cost-of-living/)
 
 ### School Premium Value
 

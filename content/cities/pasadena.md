@@ -10,7 +10,7 @@ draft: false
 
 Pasadena is a census-designated place (CDP) in Anne Arundel County, Maryland. Located on the western shore of the Chesapeake Bay, Pasadena is renowned for its waterfront properties, boating access, and close-knit community atmosphere. The area offers a unique blend of suburban living with exceptional water access.
 
-[![Pasadena waterfront](/images/pasadena-waterfront.jpg)](/images/pasadena-waterfront.jpg)
+[](/images/pasadena-waterfront.jpg)
 
 ## Quick Facts
 
@@ -341,7 +341,7 @@ Pasadena's cost of living is above county average due to waterfront premium:
 - **Transportation:** 10% above average
 - **Healthcare:** 5% above average
 
-**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/topics/budgeting-cost-living/)
+**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/budgeting-cost-of-living/)
 
 ### Waterfront Property Costs
 

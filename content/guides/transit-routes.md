@@ -1,4 +1,6 @@
 ---
+
+slug: "transit-routes"
 title: "Anne Arundel County Transit Routes"
 description: "Complete guide to public transit routes in Anne Arundel County - MTA buses, MARC train, and connecting services"
 date: 2026-05-18
@@ -334,9 +336,9 @@ Current schedules and info: [marylandtransit.com/marc](https://www.marylandtrans
 ---
 
 For more transportation info:
-- [Commuting Guide](/topics/commuting-transportation/)
-- [Parking Guide](/topics/parking-guide/)
-- [BWI Airport Guide](/topics/bwi-guide/)
+- [Commuting Guide](/transportation/)
+- [Parking Guide](/parking-guide/)
+- [BWI Airport Guide](/bwi-airport/)
 
 
 ## Official Government Resources

@@ -20,42 +20,42 @@
 
 [[main]]
   name = "Settling In"
-  pageRef = "/guides/settling-in/"
+  pageRef = "/settling-in/"
   parent = "Guides"
   weight = 1
 
 [[main]]
   name = "Schools & Education"
-  pageRef = "/guides/schools-education/"
+  pageRef = "/schools-education/"
   parent = "Guides"
   weight = 2
 
 [[main]]
   name = "Healthcare"
-  pageRef = "/guides/healthcare/"
+  pageRef = "/healthcare/"
   parent = "Guides"
   weight = 3
 
 [[main]]
   name = "Transportation"
-  pageRef = "/guides/transportation/"
+  pageRef = "/transportation/"
   parent = "Guides"
   weight = 4
 
 [[main]]
   name = "Budgeting"
-  pageRef = "/guides/budgeting-cost-of-living/"
+  pageRef = "/budgeting-cost-of-living/"
   parent = "Guides"
   weight = 5
 
 [[main]]
   name = "Veterans & Military"
-  pageRef = "/guides/veterans-military/"
+  pageRef = "/veterans-military/"
   parent = "Guides"
   weight = 6
 
 [[main]]
   name = "Housing"
-  pageRef = "/guides/housing-guide/"
+  pageRef = "/housing-guide/"
   parent = "Guides"
   weight = 7

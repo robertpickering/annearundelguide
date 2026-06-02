@@ -10,7 +10,7 @@ draft: false
 
 Annapolis serves as the capital city of Maryland and is one of America's most historically significant communities. Founded as Maryland's capital in 1695, it served as the first capital of the United States from 1783 to 1784, where the Treaty of Paris was ratified and George Washington resigned his commission as Commander-in-Chief. With a population of 40,812 (2020 Census), Annapolis combines colonial heritage, maritime culture, and world-class dining in a walkable downtown setting.
 
-[![Annapolis waterfront and harbor](/images/annapolis-waterfront.jpg)](/images/annapolis-waterfront.jpg)
+[](/images/annapolis-waterfront.jpg)
 
 ## Quick Facts
 

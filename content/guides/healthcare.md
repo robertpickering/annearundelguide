@@ -1,5 +1,7 @@
 ---
 
+slug: "healthcare"
+
 title: "Anne Arundel County Healthcare Navigation Guide"
 description: "Complete guide to healthcare in Anne Arundel County - hospitals, doctors, insurance, and medical services."
 date: 2026-05-20
@@ -10,14 +12,13 @@ aliases: ["healthcare-navigation", "hospitals-guide"]
 
 ---
 
-
 # Anne Arundel County Healthcare Navigation Guide
 
 ## Complete Guide to Medical Care in Anne Arundel County
 
 Anne Arundel County has excellent healthcare resources, including major hospitals, specialized medical centers, and comprehensive primary care networks. This guide helps you navigate the county's healthcare system, from finding doctors to understanding insurance coverage.
 
-[![Anne Arundel Medical Center](/images/ann-arundel-medical-center.jpg)](/images/ann-arundel-medical-center.jpg)
+[](/images/ann-arundel-medical-center.jpg)
 
 ## Quick Facts
 

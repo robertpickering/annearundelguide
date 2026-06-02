@@ -1,5 +1,7 @@
 ---
 
+slug: "bwi-airport"
+
 title: "BWI Airport Complete Guide"
 description: "Complete guide to BWI Thurgood Marshall Airport - terminals, airlines, parking, dining, and services."
 date: 2026-05-20
@@ -10,14 +12,13 @@ aliases: ["bwi-guide"]
 
 ---
 
-
 # BWI Thurgood Marshall Airport
 
 ## Complete Guide to Baltimore-Washington International Airport
 
 BWI Thurgood Marshall Airport serves Anne Arundel County and the greater Baltimore-Washington metropolitan area. This comprehensive guide covers everything travelers need to know about BWI, from terminals and airlines to parking, dining, and ground transportation.
 
-[![BWI Airport](/images/bwi-airport.jpg)](/images/bwi-airport.jpg)
+[](/images/bwi-airport.jpg)
 
 ## Quick Facts
 

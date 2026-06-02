@@ -49,30 +49,30 @@ Anne Arundel County offers 15+ major attractions including state parks, trails, 
 In-depth resources for living in Anne Arundel County:
 
 ### Moving & Settling In
-- [Settling In Guide](/guides/settling-in/) - Your first 30 days checklist
-- [Transportation & Commuting](/guides/transportation/) - I-95, MARC, MTA, ferries, and parking
-- [BWI Airport Guide](/guides/bwi-airport/) - Complete airport access and parking guide
+- [Settling In Guide](/settling-in/) - Your first 30 days checklist
+- [Transportation & Commuting](/transportation/) - I-95, MARC, MTA, ferries, and parking
+- [BWI Airport Guide](/bwi-airport/) - Complete airport access and parking guide
 
 ### Housing & Budgeting
-- [Housing Guide](/guides/housing-guide/) - Home values, rental market, and neighborhoods
-- [Housing Cost Calculator](/guides/housing-cost-calculator/) - Estimate your housing budget by town
-- [Cost of Living](/guides/budgeting-cost-of-living/) - Detailed budgeting breakdown
-- [Tax Guide](/guides/tax-guide/) - Property, income, and sales taxes
-- [Utility Costs](/guides/utility-costs/) - Electric, water, gas, and internet costs
+- [Housing Guide](/housing-guide/) - Home values, rental market, and neighborhoods
+- [Housing Cost Calculator](/housing-cost-calculator/) - Estimate your housing budget by town
+- [Cost of Living](/budgeting-cost-of-living/) - Detailed budgeting breakdown
+- [Tax Guide](/tax-guide/) - Property, income, and sales taxes
+- [Utility Costs](/utility-costs/) - Electric, water, gas, and internet costs
 
 ### Schools & Education
-- [Schools & Education](/guides/schools-education/) - Complete AACPS guide with ratings
-- [School Enrollment Guide](/guides/enrollment-guide/) - Step-by-step enrollment process
-- [Military Education](/guides/military-education/) - DoDEA, GI Bill, and military benefits
+- [Schools & Education](/schools-education/) - Complete AACPS guide with ratings
+- [School Enrollment Guide](/enrollment-guide/) - Step-by-step enrollment process
+- [Military Education](/military-education/) - DoDEA, GI Bill, and military benefits
 
 ### Healthcare
-- [Healthcare Guide](/guides/healthcare/) - Hospitals, doctors, and insurance
-- [Pediatric Care](/guides/pediatric-care/) - Finding pediatricians for your children
-- [Tricare Guide](/guides/tricare-guide/) - Health insurance for military families
+- [Healthcare Guide](/healthcare/) - Hospitals, doctors, and insurance
+- [Pediatric Care](/pediatric-care/) - Finding pediatricians for your children
+- [Tricare Guide](/tricare-guide/) - Health insurance for military families
 
 ### Veterans & Military
-- [Veterans & Military Resources](/guides/veterans-military/) - Fort Meade resources, VA benefits, and family services
-- [Military Employment](/guides/military-employment/) - Job search and career transition
+- [Veterans & Military Resources](/veterans-military/) - Fort Meade resources, VA benefits, and family services
+- [Military Employment](/military-employment/) - Job search and career transition
 
 ## About This Guide
 

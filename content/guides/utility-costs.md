@@ -1,4 +1,6 @@
 ---
+
+slug: "utility-costs"
 title: "Anne Arundel County Utility Costs"
 description: "Complete guide to utility costs in Anne Arundel County - electricity, water, gas, internet, and other essential services"
 date: 2026-05-18
@@ -533,8 +535,8 @@ Understanding utility costs in Anne Arundel County is essential for budgeting. T
 ---
 
 For more budgeting info:
-- [Budgeting & Cost of Living](/topics/budgeting-cost-living/)
-- [Tax Guide](/topics/tax-guide/)
+- [Budgeting & Cost of Living](/budgeting-cost-of-living/)
+- [Tax Guide](/tax-guide/)
 
 
 ## Official Utility Resources

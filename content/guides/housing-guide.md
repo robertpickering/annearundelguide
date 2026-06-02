@@ -1,4 +1,6 @@
 ---
+
+slug: "housing-guide"
 title: "Housing Guide - Anne Arundel County, Maryland"
 description: "Complete guide to housing in Anne Arundel County including home values, rental market, neighborhoods, and real estate resources for buyers, renters, and residents."
 date: 2026-05-20

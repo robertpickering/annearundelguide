@@ -1,5 +1,7 @@
 ---
 
+slug: "settling-in"
+
 title: "Settling In: Your First 30 Days in Anne Arundel County"
 description: "A comprehensive guide for new residents covering vehicle registration, utilities, schools, healthcare, and essential services for your first month in Anne Arundel County, MD"
 date: 2026-05-18

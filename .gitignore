@@ -1,0 +1,10 @@
+# Hugo generated output
+/public/
+# IDE
+.vscode/
+.idea/
+# OS
+.DS_Store
+Thumbs.db
+# Hugo cache
+/resources/

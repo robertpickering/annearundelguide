@@ -10,7 +10,7 @@ draft: false
 
 Davidsonville is a census-designated place (CDP) in Anne Arundel County, Maryland. One of Maryland's oldest settlements, Davidsonville offers historic charm, waterfront properties, and a unique blend of colonial heritage and modern waterfront living on the scenic Chesapeake Bay.
 
-[![Davidsonville historic waterfront](/images/davidsonville-waterfront.jpg)](/images/davidsonville-waterfront.jpg)
+[](/images/davidsonville-waterfront.jpg)
 
 ## Quick Facts
 
@@ -342,7 +342,7 @@ Davidsonville's cost of living is among the highest due to historic waterfront p
 - **Transportation:** 10% above average (commuting costs)
 - **Healthcare:** 5% above average
 
-**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/topics/budgeting-cost-living/)
+**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/budgeting-cost-of-living/)
 
 ### Historic Property Costs
 

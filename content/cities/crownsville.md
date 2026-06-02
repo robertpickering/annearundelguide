@@ -10,7 +10,7 @@ draft: false
 
 Crownsville is a census-designated place (CDP) in Anne Arundel County, Maryland. Located on the western shore of the Chesapeake Bay, Crownsville offers a unique blend of rural charm and waterfront living with historic character, waterfront properties, and a close-knit community atmosphere.
 
-[![Crownsville waterfront](/images/crownsville-waterfront.jpg)](/images/crownsville-waterfront.jpg)
+[](/images/crownsville-waterfront.jpg)
 
 ## Quick Facts
 
@@ -338,7 +338,7 @@ Crownsville's cost of living is above county average due to waterfront premium:
 - **Transportation:** 10% above average (commuting costs)
 - **Healthcare:** 5% above average
 
-**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/topics/budgeting-cost-living/)
+**Detailed Budget Guide:** [Cost of Living in Anne Arundel County](/budgeting-cost-of-living/)
 
 ### Waterfront Property Costs
 

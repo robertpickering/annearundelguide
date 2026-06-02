@@ -1,4 +1,6 @@
 ---
+
+slug: "housing-calculator"
 title: "Anne Arundel County Housing Calculator"
 description: "Estimate housing costs in Anne Arundel County - mortgage calculations, rent estimates, and affordability analysis"
 date: 2026-05-18
@@ -470,8 +472,8 @@ Understanding housing costs in Anne Arundel County is crucial for budgeting. Thi
 ---
 
 For more budgeting info:
-- [Budgeting & Cost of Living](/topics/budgeting-cost-living/)
-- [Utility Costs](/topics/utility-costs/)
+- [Budgeting & Cost of Living](/budgeting-cost-of-living/)
+- [Utility Costs](/utility-costs/)
 
 ## Official Government Housing Resources
 
@@ -521,4 +523,4 @@ For more budgeting info:
 ---
 
 *Last updated: May 2026*
-- [Tax Guide](/topics/tax-guide/)
+- [Tax Guide](/tax-guide/)

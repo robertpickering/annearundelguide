@@ -1,4 +1,6 @@
 ---
+
+slug: "enrollment-guide"
 title: "AACPS Enrollment Guide"
 description: "Step-by-step guide to enrolling children in Anne Arundel County Public Schools - requirements, process, and timelines"
 date: 2026-05-18
@@ -415,7 +417,7 @@ You must prove you live in Anne Arundel County. Acceptable documents include:
 ---
 
 For more education info:
-- [Schools & Education Overview](/topics/schools-education-pathways/)
+- [Schools & Education Overview](/schools-education/)
 
 ## Official Education Resources
 

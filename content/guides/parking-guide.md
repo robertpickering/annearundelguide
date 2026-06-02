@@ -1,4 +1,6 @@
 ---
+
+slug: "parking-guide"
 title: "Anne Arundel County Parking Guide"
 description: "Complete parking information for Anne Arundel County - street parking, paid lots, permits, rates, and restrictions"
 date: 2026-05-18
@@ -107,7 +109,7 @@ These southern county areas are fully suburban with abundant free parking.
 
 ## BWI Airport Parking
 
-BWI has multiple parking options with different price points. See [BWI Airport Guide](/topics/bwi-guide/) for complete details.
+BWI has multiple parking options with different price points. See [BWI Airport Guide](/bwi-airport/) for complete details.
 
 **Quick reminder:**
 - Economy: $8-10/day
@@ -243,8 +245,8 @@ BWI has multiple parking options with different price points. See [BWI Airport G
 ---
 
 For more transportation info:
-- [Commuting Guide](/topics/commuting-transportation/)
-- [BWI Airport Guide](/topics/bwi-guide/)
+- [Commuting Guide](/transportation/)
+- [BWI Airport Guide](/bwi-airport/)
 
 
 ## Official Transportation Resources
