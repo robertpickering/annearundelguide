@@ -18,9 +18,9 @@ weight: 4
 
 Use our interactive calculator to estimate home prices, rent, mortgage payments, and total housing costs across Anne Arundel County. Get personalized budget estimates for Annapolis, Severna Park, Odenton, Crofton, Pasadena, Glen Burnie, and all 19 towns.
 
-    <a href="#calculator" class="btn">Use Calculator</a>
-    <a href="#town-breakdown" class="btn">Town Breakdown</a>
-    <a href="/topics/" class="btn">View All Guides</a>
+<a href="#calculator" class="btn">Use Calculator</a>
+<a href="#town-breakdown" class="btn">Town Breakdown</a>
+<a href="/topics/" class="btn">View All Guides</a>
 </div>
 
 <!-- INTERACTIVE CALCULATOR SECTION -->
