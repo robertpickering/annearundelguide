@@ -486,9 +486,9 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
   
   const recommendations = [];
   if (housingType === 'buy') {
-    if (loanAmount < data.avgPrice * 0.6) {
+    if (affordableHomePrice < data.avgPrice * 0.6) {
       recommendations.push('<p>💡 Consider looking at <strong>Crofton, Odenton, or Crownsville</strong> for better value and more options within budget.</p>');
-    } else if (loanAmount > data.avgPrice * 0.8) {
+    } else if (affordableHomePrice > data.avgPrice * 0.8) {
       recommendations.push('<p>💡 Your budget can access <strong>premium waterfront properties</strong> in Annapolis, Arnold, or Edgewater.</p>');
     }
     recommendations.push('<p>💡 Check <a href="/veterans-military/">VA benefits</a> if eligible - may reduce or eliminate down payment requirements.</p>');
