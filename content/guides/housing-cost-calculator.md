@@ -414,9 +414,18 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
     'pasadena': { avgPrice: 525000, avgRent: 1950, pricePerSqft: 265 },
     'glen-burnie': { avgPrice: 385000, avgRent: 1600, pricePerSqft: 220 },
     'arnold': { avgPrice: 650000, avgRent: 2300, pricePerSqft: 295 },
+    'brookland': { avgPrice: 475000, avgRent: 1800, pricePerSqft: 245 },
+    'davidsonville': { avgPrice: 425000, avgRent: 1650, pricePerSqft: 230 },
     'edgewater': { avgPrice: 595000, avgRent: 2200, pricePerSqft: 280 },
-    'crownsville': { avgPrice: 445000, avgRent: 1700, pricePerSqft: 235 },
-    'gambrills': { avgPrice: 515000, avgRent: 1900, pricePerSqft: 260 }
+    'gambrills': { avgPrice: 515000, avgRent: 1900, pricePerSqft: 260 },
+    'hanover': { avgPrice: 455000, avgRent: 1700, pricePerSqft: 238 },
+    'hampton': { avgPrice: 435000, avgRent: 1680, pricePerSqft: 228 },
+    'mildmay': { avgPrice: 465000, avgRent: 1750, pricePerSqft: 242 },
+    'millersville': { avgPrice: 375000, avgRent: 1550, pricePerSqft: 215 },
+    'severn': { avgPrice: 565000, avgRent: 2050, pricePerSqft: 282 },
+    'sunnydale': { avgPrice: 445000, avgRent: 1680, pricePerSqft: 232 },
+    'crothersville': { avgPrice: 415000, avgRent: 1600, pricePerSqft: 225 },
+    'crownsville': { avgPrice: 445000, avgRent: 1700, pricePerSqft: 235 }
   };
   
   const townNames = {
@@ -427,13 +436,22 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
     'pasadena': 'Pasadena',
     'glen-burnie': 'Glen Burnie',
     'arnold': 'Arnold',
+    'brookland': 'Brookland',
+    'davidsonville': 'Davidsonville',
     'edgewater': 'Edgewater',
-    'crownsville': 'Crownsville',
-    'gambrills': 'Gambrills'
+    'gambrills': 'Gambrills',
+    'hanover': 'Hanover',
+    'hampton': 'Hampton',
+    'mildmay': 'Mildmay',
+    'millersville': 'Millersville',
+    'severn': 'Severn',
+    'sunnydale': 'Sunnydale',
+    'crothersville': 'Crothersville',
+    'crownsville': 'Crownsville'
   };
   
-  const data = townData[town];
-  const monthlyPaymentText = townNames[town];
+  const data = townData[town] || { avgPrice: 470000, avgRent: 1750, pricePerSqft: 238 };
+  const townName = townNames[town] || town.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
   
   // Mortgage math: reverse-calculate loan amount from monthly payment budget
   const interestRate = 0.065;  // 6.5% annual rate
@@ -461,18 +479,24 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
   // Down payment needed (20% conventional)
   const downPaymentNeeded = Math.round(affordableHomePrice * 0.20);
 
-  document.getElementById('result-town').textContent = monthlyPaymentText;
+  // Show standard 20% down payment breakdown (not user's input, which may be unrealistic)
+  const standardLoanAmount = affordableHomePrice - downPaymentNeeded;
+  const standardMortgagePayment = standardLoanAmount * mortgageFactor;
+  const standardPropertyTax = affordableHomePrice * taxRate;
+  const standardTotalPayment = standardMortgagePayment + standardPropertyTax + insurance;
+
+  document.getElementById('result-town').textContent = townName;
   document.getElementById('affordable-home').textContent = Math.round(affordableHomePrice * 0.95).toLocaleString();
   document.getElementById('affordable-home-high').textContent = Math.round(affordableHomePrice * 1.05).toLocaleString();
-  document.getElementById('monthly-payment-estimate').textContent = Math.round(actualTotalPayment).toLocaleString();
+  document.getElementById('monthly-payment-estimate').textContent = monthlyPayment.toLocaleString();
   document.getElementById('down-payment-needed').textContent = downPaymentNeeded.toLocaleString();
   document.getElementById('avg-rent-2bed').textContent = data.avgRent.toLocaleString();
   document.getElementById('rent-within-budget').textContent = monthlyPayment >= data.avgRent ? 'Many' : 'Limited';
   document.getElementById('rent-neighborhoods').textContent = 'Check Zillow & Apartments.com';
-  document.getElementById('primary-payment').textContent = Math.round(actualMortgagePayment).toLocaleString();
-  document.getElementById('property-tax').textContent = Math.round(actualPropertyTax).toLocaleString();
+  document.getElementById('primary-payment').textContent = Math.round(standardMortgagePayment).toLocaleString();
+  document.getElementById('property-tax').textContent = Math.round(standardPropertyTax).toLocaleString();
   document.getElementById('insurance').textContent = insurance.toLocaleString();
-  document.getElementById('total-monthly').textContent = Math.round(actualTotalPayment).toLocaleString();
+  document.getElementById('total-monthly').textContent = Math.round(standardTotalPayment).toLocaleString();
   document.getElementById('area-avg-price').textContent = '$' + data.avgPrice.toLocaleString();
   document.getElementById('price-per-sqft').textContent = data.pricePerSqft;
 
