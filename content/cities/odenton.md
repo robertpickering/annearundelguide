@@ -52,7 +52,7 @@ Odenton developed primarily in the mid-20th century, with significant growth fol
 
 This proximity makes Odenton particularly attractive to military families and federal employees.
 
-**Fort Meade Info:** [www.army.mil/Installation/101/](https://www.army.mil/Installation/101/)
+**Fort Meade Info:** [home.army.mil/meade](https://home.army.mil/meade/index.php)
 
 ## Demographics
 
@@ -137,8 +137,8 @@ Many residents receive housing allowances or assistance through military service
 - **Military Discounts:** Some local businesses offer discounts
 
 **Housing Resources:**
-- [Fort Meade Housing Office](https://www.army.mil/Installation/101/)
-- [Anne Arundel County Housing](https://www.aacounty.org/departments/housing-and-community-development)
+- [Fort Meade Housing Office](https://home.army.mil/meade/index.php)
+- [Anne Arundel County Housing](https://www.aacounty.org/services/community-family-support)
 
 ### Rental Market
 
@@ -335,7 +335,7 @@ Odenton's **BWI Rail Station** is a key transportation asset:
 **Fort Meade Access:**
 - **Main Gate:** 13160 Ridge Road, Laurel, MD 20723
 - **Visitor Center:** (410) 803-6600
-- **Website:** [army.mil/Installation/101](https://www.army.mil/Installation/101/)
+- **Website:** [home.army.mil/meade](https://home.army.mil/meade/index.php)
 
 **Google Maps:** [Fort Meade](https://www.google.com/maps/dir//Fort+Meade,+Laurel,+MD)
 
@@ -371,7 +371,7 @@ Odenton's cost of living is above national average but below Annapolis and Sever
 
 **Tax Resources:**
 - [Maryland Comptroller](https://marylandtaxes.gov/)
-- [AACounty Tax Info](https://www.aacounty.org/departments/assessing-and-taxation)
+- [AACounty Tax Info](https://www.aacounty.org/services/bill-payment-taxes)
 
 ## Living in Odenton
 
@@ -424,7 +424,7 @@ Odenton attracts:
 - [Anne Arundel County Public Schools](https://www.aacps.org)
 - [MTA Maryland Transit](https://www.mta.maryland.gov/)
 - [MARC Train Schedule](https://www.mta.maryland.gov/commuter-rail/marc/)
-- [Fort Meade](https://www.army.mil/Installation/101/)
+- [Fort Meade](https://home.army.mil/meade/index.php)
 - [BWI Airport](https://www.bwiairport.com/)
 
 ---
@@ -435,7 +435,7 @@ Odenton attracts:
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
 4. **MARC Train:** [mta.maryland.gov/commuter-rail/marc](https://www.mta.maryland.gov/commuter-rail/marc/)
-5. **Fort Meade:** [army.mil/Installation/101](https://www.army.mil/Installation/101/)
+5. **Fort Meade:** [home.army.mil/meade](https://home.army.mil/meade/index.php)
 6. **MTA Maryland:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 7. **BWI Airport:** [bwiairport.com](https://www.bwiairport.com/)
 8. **CVPH Odenton:** [cvph.org](https://www.cvph.org/)
