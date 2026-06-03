@@ -158,7 +158,7 @@ Crofton residents attend **Anne Arundel County Public Schools (AACPS)**, with sc
 - **Address:** 1500 Crofton Boulevard, Crofton, MD 21114
 - **Grades:** K-5
 - **Rating:** Above average to highly rated
-- **Website:** [aacounty.org/crofton](https://www.aacps.org/schools)
+- **Website:** [aacps.org/o/crofton](https://www.aacps.org/o/crofton)
 
 **Google Maps:** [Crofton Elementary](https://www.google.com/maps/dir//Crofton+Elementary+School,+Crofton,+MD)
 
@@ -182,7 +182,7 @@ Crofton residents attend **Anne Arundel County Public Schools (AACPS)**, with sc
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
 - **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/schools/crofton-high-school)
+- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/o/croftonhs)
 
 **Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
 
@@ -217,7 +217,7 @@ Crofton residents attend **Anne Arundel County Public Schools (AACPS)**, with sc
 - **Route 28:** Local service within South County
 - **Route 9:** Regional connections
 
-**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
+**Schedule Info:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 
 ### Air Travel
 
@@ -345,7 +345,7 @@ Crofton's cost of living is above county average, reflecting desirability and am
 
 **Tax Resources:**
 - [Maryland Comptroller](https://marylandtaxes.gov/)
-- [AACounty Tax Info](https://www.aacounty.org/services/real-estate-tax)
+- [AACounty Tax Info](https://www.aacounty.org/services/bill-payment-taxes)
 
 ## Living in Crofton
 
@@ -413,7 +413,7 @@ Crofton attracts:
 ### Useful Links
 
 - [Anne Arundel County Public Schools](https://www.aacps.org)
-- [MTA Maryland Transit](https://www.marylandtransit.com/)
+- [MTA Maryland Transit](https://www.mta.maryland.gov/)
 - [BWI Airport](https://www.bwiairport.com/)
 - [Anne Arundel County Parks](https://www.aacounty.org/departments/parks-recreation)
 - [Anne Arundel County Government](https://www.aacounty.org/)
@@ -425,7 +425,7 @@ Crofton attracts:
 1. **U.S. Census Bureau:** [census.gov](https://www.census.gov/)
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
-4. **MTA Maryland:** [mtamaryland.com](https://www.marylandtransit.com/)
+4. **MTA Maryland:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 5. **BWI Airport:** [bwiairport.com](https://www.bwiairport.com/)
 6. **CVPH Crofton:** [cvph.org](https://www.cvph.org/)
 

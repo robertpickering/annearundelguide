@@ -554,8 +554,8 @@ Choosing the right transportation option for your Anne Arundel County commute de
 ### Maryland Transit Administration (MTA)
 
 **Public Transit Information**  
-- MTA Bus Info: [marylandtransit.com](https://www.marylandtransit.com)  
-- MARC Train Info: [marylandtransit.com/marc](https://www.marylandtransit.com/marc)  
+- MTA Bus Info: [mta.maryland.gov](https://www.mta.maryland.gov)  
+- MARC Train Info: [mta.maryland.gov/commuter-rail/marc](https://www.mta.maryland.gov/commuter-rail/marc)  
 - MTA Customer Service: 410-768-7000
 
 ### Anne Arundel County
@@ -575,7 +575,7 @@ Choosing the right transportation option for your Anne Arundel County commute de
 **BWI Airport Official Site**  
 - Airport Website: [bwiairport.com](https://www.bwiairport.com/)  
 - Parking Info: [bwiairport.com/parking](https://www.bwiairport.com/parking)  
-- MTA Airport Line: [marylandtransit.com/airport](https://www.marylandtransit.comairport)
+- MTA Airport Line: [mta.maryland.gov/airport](https://www.mta.maryland.gov/airport)
 
 ---
 

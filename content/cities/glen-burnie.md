@@ -148,7 +148,7 @@ Glen Burnie residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Address:** 1001 Crain Highway, Glen Burnie, MD 21061
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/glenburnie](https://www.aacps.org/schools)
+- **Website:** [aacps.org/o/glenburnie](https://www.aacps.org/o/glenburnie)
 
 **Google Maps:** [Glen Burnie Elementary](https://www.google.com/maps/dir//Glen+Burnie+Elementary+School,+Glen+Burnie,+MD)
 
@@ -173,7 +173,7 @@ Glen Burnie residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Bulldogs
-- **Website:** [aacounty.org/glenburniehs](https://www.aacps.org/schools/glen-burnie-high-school)
+- **Website:** [aacounty.org/glenburniehs](https://www.aacps.org/o/glenburniehs)
 
 **Google Maps:** [Glen Burnie High](https://www.google.com/maps/dir//Glen+Burnie+High+School,+Glen+Burnie,+MD)
 
@@ -208,7 +208,7 @@ Glen Burnie residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Route 4:** Service to BWI and Baltimore
 - **Route 9:** Local service
 
-**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
+**Schedule Info:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 
 ### Air Travel
 
@@ -313,7 +313,7 @@ Glen Burnie's cost of living is moderate compared to Anne Arundel County:
 
 **Tax Resources:**
 - [Maryland Comptroller](https://marylandtaxes.gov/)
-- [AACounty Tax Info](https://www.aacounty.org/services/real-estate-tax)
+- [AACounty Tax Info](https://www.aacounty.org/services/bill-payment-taxes)
 
 ## Living in Glen Burnie
 
@@ -364,7 +364,7 @@ Glen Burnie attracts:
 ### Useful Links
 
 - [Anne Arundel County Public Schools](https://www.aacps.org)
-- [MTA Maryland Transit](https://www.marylandtransit.com/)
+- [MTA Maryland Transit](https://www.mta.maryland.gov/)
 - [BWI Airport](https://www.bwiairport.com/)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
@@ -375,7 +375,7 @@ Glen Burnie attracts:
 1. **U.S. Census Bureau:** [census.gov](https://www.census.gov/)
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
-4. **MTA Maryland:** [mtamaryland.com](https://www.marylandtransit.com/)
+4. **MTA Maryland:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 5. **BWI Airport:** [bwiairport.com](https://www.bwiairport.com/)
 6. **CVPH Glen Burnie:** [cvph.org](https://www.cvph.org/)
 

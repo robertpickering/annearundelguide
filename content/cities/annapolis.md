@@ -214,7 +214,7 @@ Annapolis residents attend **Anne Arundel County Public Schools (AACPS)**, one o
 - **Route 4:** Service to Baltimore via Glen Burnie
 - **Local Routes:** Multiple intra-city routes within Annapolis
 
-**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
+**Schedule Info:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 
 ### Water Transportation
 
@@ -331,7 +331,7 @@ Annapolis has a higher cost of living compared to national averages, driven prim
 
 **Tax Resources:**
 - [Maryland Comptroller](https://marylandtaxes.gov/)
-- [AACounty Tax Info](https://www.aacounty.org/services/real-estate-tax)
+- [AACounty Tax Info](https://www.aacounty.org/services/bill-payment-taxes)
 
 ## Living in Annapolis
 
@@ -392,7 +392,7 @@ Annapolis attracts:
 - [Anne Arundel County Public Schools](https://www.aacps.org)
 - [U.S. Naval Academy](https://www.usna.edu/)
 - [St. John's College](https://www.stjohns.edu/)
-- [MTA Maryland Transit](https://www.marylandtransit.com/)
+- [MTA Maryland Transit](https://www.mta.maryland.gov/)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
 ---
@@ -406,7 +406,7 @@ Annapolis attracts:
 5. **U.S. Naval Academy:** Official information — [usna.edu](https://www.usna.edu)
 6. **St. John's College:** Educational information — [stjohns.edu](https://www.stjohns.edu)
 7. **Anne Arundel County Public Schools:** School information — [aacps.org](https://www.aacps.org)
-8. **MTA Maryland:** Transit information — [mtamaryland.com](https://www.marylandtransit.com/)
+8. **MTA Maryland:** Transit information — [mta.maryland.gov](https://www.mta.maryland.gov/)
 9. **Anne Arundel County Government:** County services — [aacounty.org](https://www.aacounty.org/)
 
 ---

@@ -155,7 +155,7 @@ Pasadena residents attend **Anne Arundel County Public Schools (AACPS)**, which 
 - **Address:** 402 Crain Highway, Pasadena, MD 21122
 - **Grades:** K-5
 - **Rating:** Above average to highly rated
-- **Website:** [aacounty.org/pasadena](https://www.aacps.org/schools)
+- **Website:** [aacps.org/o/pasadena](https://www.aacps.org/o/pasadena)
 
 **Google Maps:** [Pasadena Elementary](https://www.google.com/maps/dir//Pasadena+Elementary+School,+Pasadena,+MD)
 
@@ -180,7 +180,7 @@ Pasadena residents attend **Anne Arundel County Public Schools (AACPS)**, which 
 - **Grades:** 9-12
 - **Rating:** Among Maryland's top schools (consistently top 10%)
 - **Mascot:** Rams
-- **Website:** [aacounty.org/severnaparkhs](https://www.aacps.org/schools/severna-park-high-school)
+- **Website:** [aacounty.org/severnaparkhs](https://www.aacps.org/o/severnaparkhs)
 
 **Google Maps:** [Severna Park High](https://www.google.com/maps/dir//Severna+Park+High+School,+Severna+Park,+MD)
 
@@ -214,7 +214,7 @@ Pasadena residents attend **Anne Arundel County Public Schools (AACPS)**, which 
 - **Route 3:** Pasadena to Annapolis and Baltimore
 - **Route 7:** Local service within Anne Arundel County
 
-**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
+**Schedule Info:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 
 ### Boating Access
 

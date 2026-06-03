@@ -159,7 +159,7 @@ Davidsonville residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Address:** 400 South County Road, Crownsville, MD 21032
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/southcounty](https://www.aacps.org/schools)
+- **Website:** [aacps.org/o/southcounty](https://www.aacps.org/o/southcounty)
 
 **Google Maps:** [South County Elementary](https://www.google.com/maps/dir//South+County+Elementary+School,+Crownsville,+MD)
 
@@ -183,7 +183,7 @@ Davidsonville residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
 - **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/schools/crofton-high-school)
+- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/o/croftonhs)
 
 **Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
 
@@ -217,7 +217,7 @@ Davidsonville residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Route 7:** Davidsonville to Annapolis and Baltimore
 - **Limited weekend service**
 
-**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
+**Schedule Info:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 
 ### Boating Access
 

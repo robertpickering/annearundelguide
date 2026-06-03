@@ -259,8 +259,8 @@ The trade-offs are typical for suburban development: no traditional town center,
 ### Maryland Department of Transportation (MDOT MTA)
 
 **Official Website**
-- Transit Routes: https://www.marylandtransit.com
-- Route Planning: https://www.marylandtransit.com/routes-schedules
+- Transit Routes: https://www.mta.maryland.gov
+- Route Planning: https://www.mta.maryland.gov
 
 **Contact**
 - Phone: 1-877-968-6368

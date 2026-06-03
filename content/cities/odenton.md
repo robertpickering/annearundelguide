@@ -182,14 +182,14 @@ Odenton residents attend **Anne Arundel County Public Schools (AACPS)**, which i
 
 #### **High School**
 
-**Odenton High School:**
+**Arundel High School (serves Odenton):**
 - **Address:** 8601 Robinson Road, Odenton, MD 21113
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Raiders
-- **Website:** [aacounty.org/odentonhs](https://www.aacps.org/o/odentonhs)
+- **Website:** [arundelhigh.org](https://www.arundelhigh.org)
 
-**Google Maps:** [Odenton High School](https://www.google.com/maps/dir//Odenton+High+School,+Odenton,+MD)
+**Google Maps:** [Arundel High School](https://www.google.com/maps/dir//Arundel+High+School,+Odenton,+MD)
 
 **School Performance:**
 - AACPS schools consistently rank in Maryland's top tier
@@ -344,7 +344,7 @@ Odenton's **BWI Rail Station** is a key transportation asset:
 **Joint Base Andrews:**
 - **Address:** 3900 South Crain Highway, Andrews AFB, MD 20762
 - **Services:** Military installations, government facilities
-- **Website:** [jba.af.mil](https://www.jba.af.mil/)
+- **Website:** [jba.af.mil](https://www.jointbaseandrews.com)
 
 **Google Maps:** [Joint Base Andrews](https://www.google.com/maps/dir//Joint+Base+Andrews,+MD)
 

@@ -173,7 +173,7 @@ Severn residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Address:** 3200 Severn Station Road, Severn, MD 21144
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/severn](https://www.aacps.org/schools)
+- **Website:** [aacps.org/o/severn](https://www.aacps.org/o/severn)
 
 **Google Maps:** [Severn Elementary](https://www.google.com/maps/dir//Severn+Elementary+School,+Severn,+MD)
 
@@ -197,7 +197,7 @@ Severn residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Vikings
-- **Website:** [aacounty.org/severnhs](https://www.aacps.org/schools/severn-high-school)
+- **Website:** [aacounty.org/severnhs](https://www.aacps.org/o/severnhs)
 
 **Google Maps:** [Severn High](https://www.google.com/maps/dir//Severn+High+School,+Severn,+MD)
 
@@ -232,7 +232,7 @@ Severn residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Route 28:** Local service within South County
 - **BWITRAN:** Airport shuttle service
 
-**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
+**Schedule Info:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 
 ### Air Travel
 
@@ -361,7 +361,7 @@ Severn's cost of living is above county average, reflecting desirability and ame
 
 **Tax Resources:**
 - [Maryland Comptroller](https://marylandtaxes.gov/)
-- [AACounty Tax Info](https://www.aacounty.org/services/real-estate-tax)
+- [AACounty Tax Info](https://www.aacounty.org/services/bill-payment-taxes)
 
 ## Living in Severn
 
@@ -442,7 +442,7 @@ Severn attracts:
 
 - [Anne Arundel County Public Schools](https://www.aacps.org)
 - [BWI Airport](https://www.bwiairport.com/)
-- [MTA Maryland Transit](https://www.marylandtransit.com/)
+- [MTA Maryland Transit](https://www.mta.maryland.gov/)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
 ---
@@ -453,7 +453,7 @@ Severn attracts:
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
 4. **BWI Airport:** [bwiairport.com](https://www.bwiairport.com/)
-5. **MTA Maryland:** [mtamaryland.com](https://www.marylandtransit.com/)
+5. **MTA Maryland:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 6. **CVPH Severn:** [cvph.org](https://www.cvph.org/)
 
 ---

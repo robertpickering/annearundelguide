@@ -90,7 +90,7 @@ Fort Meade residents (both on-post and off-post) attend Anne Arundel County Publ
 **Schools serving the Fort Meade area:**
 - **Elementary:** Multiple AACPS elementary schools in the Fort Meade/Odenton zone
 - **Middle:** Odenton Middle School or nearby options
-- **High:** Odenton High School (serves the Fort Meade area)
+- **High:** Arundel High School (serves the Fort Meade/Odenton area)
 
 The AACPS system is the same for all Fort Meade residents. From what I've seen in military family forums, the schools are accustomed to military transients and have systems in place to handle frequent moves and relocations.
 
@@ -337,8 +337,8 @@ The trade-offs involve military life considerations—deployments, frequent move
 ### Maryland Department of Transportation (MDOT MTA)
 
 **Official Website**
-- Transit Routes: https://www.marylandtransit.com
-- Route Planning: https://www.marylandtransit.com/routes-schedules
+- Transit Routes: https://www.mta.maryland.gov
+- Route Planning: https://www.mta.maryland.gov
 
 **Contact**
 - Phone: 1-877-968-6368

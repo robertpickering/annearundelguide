@@ -427,7 +427,7 @@ For more education info:
 - AACPS Main Site: [www.aacps.org](https://www.aacps.org)  
 - Enrollment Information: [www.aacps.org/registration](https://www.aacps.org/registration)  
 - Student Information System: [www.aacps.org/sis](https://www.aacps.org/sis)  
-- School Finder: [www.aacps.org/schools](https://www.aacps.org/schools)  
+- School Finder: [www.aacps.org/schools](https://www.aacps.org/schools/findyourschool)  
 - Main Office: 1655 West Street, Annapolis, MD 21401 | Phone: 410-222-4500
 
 ### Maryland State Department of Education

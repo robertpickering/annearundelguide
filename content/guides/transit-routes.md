@@ -40,7 +40,7 @@ The Maryland Transit Administration runs commuter buses from Anne Arundel to Bal
 - Single ride: $2.00 cash, $1.50 with CharmCard
 - Monthly pass: Around $75-95 for unlimited
 
-**Website:** Check current schedules at [mtamaryland.com](https://www.marylandtransit.com)
+**Website:** Check current schedules at [mta.maryland.gov](https://www.mta.maryland.gov)
 
 ### Route 7 - Annapolis to Baltimore
 
@@ -193,7 +193,7 @@ The MARC Penn Line runs from BWI Rail Station to Baltimore and DC.
 
 ### MARC Website
 
-Current schedules and info: [marylandtransit.com/marc](https://www.marylandtransit.com/marc)
+Current schedules and info: [mta.maryland.gov/commuter-rail/marc](https://www.mta.maryland.gov/commuter-rail/marc)
 
 ## Local Shuttle Services
 
