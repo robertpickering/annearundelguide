@@ -51,17 +51,12 @@ Use our interactive calculator to estimate home prices, rent, mortgage payments,
 <option value="pasadena">Pasadena</option>
 <option value="glen-burnie">Glen Burnie</option>
 <option value="arnold">Arnold</option>
-<option value="brookland">Brookland</option>
 <option value="davidsonville">Davidsonville</option>
 <option value="edgewater">Edgewater</option>
 <option value="gambrills">Gambrills</option>
 <option value="hanover">Hanover</option>
-<option value="hampton">Hampton</option>
-<option value="mildmay">Mildmay</option>
 <option value="millersville">Millersville</option>
 <option value="severn">Severn</option>
-<option value="sunnydale">Sunnydale</option>
-<option value="crothersville">Crothersville</option>
 <option value="crownsville">Crownsville</option>
 </select>
 </div>
@@ -414,17 +409,12 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
     'pasadena': { avgPrice: 525000, avgRent: 1950, pricePerSqft: 265 },
     'glen-burnie': { avgPrice: 385000, avgRent: 1600, pricePerSqft: 220 },
     'arnold': { avgPrice: 650000, avgRent: 2300, pricePerSqft: 295 },
-    'brookland': { avgPrice: 475000, avgRent: 1800, pricePerSqft: 245 },
     'davidsonville': { avgPrice: 425000, avgRent: 1650, pricePerSqft: 230 },
     'edgewater': { avgPrice: 595000, avgRent: 2200, pricePerSqft: 280 },
     'gambrills': { avgPrice: 515000, avgRent: 1900, pricePerSqft: 260 },
     'hanover': { avgPrice: 455000, avgRent: 1700, pricePerSqft: 238 },
-    'hampton': { avgPrice: 435000, avgRent: 1680, pricePerSqft: 228 },
-    'mildmay': { avgPrice: 465000, avgRent: 1750, pricePerSqft: 242 },
     'millersville': { avgPrice: 375000, avgRent: 1550, pricePerSqft: 215 },
     'severn': { avgPrice: 565000, avgRent: 2050, pricePerSqft: 282 },
-    'sunnydale': { avgPrice: 445000, avgRent: 1680, pricePerSqft: 232 },
-    'crothersville': { avgPrice: 415000, avgRent: 1600, pricePerSqft: 225 },
     'crownsville': { avgPrice: 445000, avgRent: 1700, pricePerSqft: 235 }
   };
   
@@ -436,17 +426,12 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
     'pasadena': 'Pasadena',
     'glen-burnie': 'Glen Burnie',
     'arnold': 'Arnold',
-    'brookland': 'Brookland',
     'davidsonville': 'Davidsonville',
     'edgewater': 'Edgewater',
     'gambrills': 'Gambrills',
     'hanover': 'Hanover',
-    'hampton': 'Hampton',
-    'mildmay': 'Mildmay',
     'millersville': 'Millersville',
     'severn': 'Severn',
-    'sunnydale': 'Sunnydale',
-    'crothersville': 'Crothersville',
     'crownsville': 'Crownsville'
   };
   

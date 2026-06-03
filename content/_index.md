@@ -28,7 +28,6 @@ Discover detailed guides for every community in Anne Arundel County:
 - [Pasadena](/pasadena/) - Waterfront community with Chesapeake Bay views and marinas
 - [Severna Park](/severna-park/) - Top-rated schools and walkable downtown
 - [Severn](/severn/) - Suburban community along the Severn River near Annapolis
-- [Sunnydale](/sunnydale/) - Quiet residential community in eastern Anne Arundel County
 
 ## Things to Do
 
