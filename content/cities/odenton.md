@@ -52,7 +52,7 @@ Odenton developed primarily in the mid-20th century, with significant growth fol
 
 This proximity makes Odenton particularly attractive to military families and federal employees.
 
-**Fort Meade Info:** [www.usarcent.army.mil/FortMeade](https://www.usarcent.army.mil/FortMeade)
+**Fort Meade Info:** [www.army.mil/Installation/101/](https://www.army.mil/Installation/101/)
 
 ## Demographics
 
@@ -137,8 +137,8 @@ Many residents receive housing allowances or assistance through military service
 - **Military Discounts:** Some local businesses offer discounts
 
 **Housing Resources:**
-- [Fort Meade Housing Office](https://www.army.mil/eod/fortmeade/housing/)
-- [Anne Arundel County Housing](https://www.aacounty.org/services/housing)
+- [Fort Meade Housing Office](https://www.army.mil/Installation/101/)
+- [Anne Arundel County Housing](https://www.aacounty.org/departments/housing-and-community-development)
 
 ### Rental Market
 
@@ -161,7 +161,7 @@ Odenton residents attend **Anne Arundel County Public Schools (AACPS)**, which i
 - **Address:** 6501 Ritchie Highway, Linthicum, MD 21090
 - **Grades:** K-5
 - **Rating:** Highly rated
-- **Website:** [aacounty.org/linthicum](https://www.aacps.org/schools)
+- **Website:** [aacounty.org/linthicumes](https://www.aacps.org/o/linthicumes)
 
 **Google Maps:** [Linthicum Elementary](https://www.google.com/maps/dir//Linthicum+Elementary+School,+Linthicum,+MD)
 
@@ -169,7 +169,7 @@ Odenton residents attend **Anne Arundel County Public Schools (AACPS)**, which i
 - **Address:** 10800 Curtis Crest Drive, Odenton, MD 21113
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/curtiscrest](https://www.aacps.org/schools)
+- **Website:** [aacounty.org/curtiscrestms](https://www.aacps.org/o/curtiscrestms)
 
 **Google Maps:** [Curtis Crest Elementary](https://www.google.com/maps/dir//Curtis+Crest+Elementary+School,+Odenton,+MD)
 
@@ -187,7 +187,7 @@ Odenton residents attend **Anne Arundel County Public Schools (AACPS)**, which i
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Raiders
-- **Website:** [aacounty.org/odentonhs](https://www.aacps.org/schools/odenton-high-school)
+- **Website:** [aacounty.org/odentonhs](https://www.aacps.org/o/odentonhs)
 
 **Google Maps:** [Odenton High School](https://www.google.com/maps/dir//Odenton+High+School,+Odenton,+MD)
 
@@ -217,7 +217,7 @@ Odenton's **BWI Rail Station** is a key transportation asset:
 - **Parking:** $8/day (fills early on weekdays, arrive before 7 AM)
 - **Schedule:** Weekday commuter service (no weekend service)
 
-**MARC Schedule:** [marc.mta.info](https://www.marc.mta.info/)
+**MARC Schedule:** [mta.maryland.gov/commuter-rail/marc](https://www.mta.maryland.gov/commuter-rail/marc/)
 
 **Google Maps:** [BWI Rail Station to Odenton](https://www.google.com/maps/dir//BWI+MARC+Station,+Baltimore,+MD+to+Odenton,+MD)
 
@@ -240,7 +240,7 @@ Odenton's **BWI Rail Station** is a key transportation asset:
 - **Route 4:** Connects Odenton to Baltimore and BWI
 - **Route 10:** Local service within Anne Arundel County
 
-**Schedule Info:** [mtamaryland.com](https://www.marylandtransit.com/)
+**Schedule Info:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 
 ### Air Travel
 
@@ -335,7 +335,7 @@ Odenton's **BWI Rail Station** is a key transportation asset:
 **Fort Meade Access:**
 - **Main Gate:** 13160 Ridge Road, Laurel, MD 20723
 - **Visitor Center:** (410) 803-6600
-- **Website:** [www.army.mil/fortmeade](https://www.army.mil/fortmeade)
+- **Website:** [army.mil/Installation/101](https://www.army.mil/Installation/101/)
 
 **Google Maps:** [Fort Meade](https://www.google.com/maps/dir//Fort+Meade,+Laurel,+MD)
 
@@ -344,7 +344,7 @@ Odenton's **BWI Rail Station** is a key transportation asset:
 **Joint Base Andrews:**
 - **Address:** 3900 South Crain Highway, Andrews AFB, MD 20762
 - **Services:** Military installations, government facilities
-- **Website:** [www.ande Andrews.af.mil](https://www.ande Andrews.af.mil/)
+- **Website:** [jba.af.mil](https://www.jba.af.mil/)
 
 **Google Maps:** [Joint Base Andrews](https://www.google.com/maps/dir//Joint+Base+Andrews,+MD)
 
@@ -371,7 +371,7 @@ Odenton's cost of living is above national average but below Annapolis and Sever
 
 **Tax Resources:**
 - [Maryland Comptroller](https://marylandtaxes.gov/)
-- [AACounty Tax Info](https://www.aacounty.org/services/real-estate-tax)
+- [AACounty Tax Info](https://www.aacounty.org/departments/assessing-and-taxation)
 
 ## Living in Odenton
 
@@ -422,9 +422,9 @@ Odenton attracts:
 ### Useful Links
 
 - [Anne Arundel County Public Schools](https://www.aacps.org)
-- [MTA Maryland Transit](https://www.marylandtransit.com/)
-- [MARC Train Schedule](https://www.marc.mta.info/)
-- [Fort Meade](https://www.army.mil/fortmeade)
+- [MTA Maryland Transit](https://www.mta.maryland.gov/)
+- [MARC Train Schedule](https://www.mta.maryland.gov/commuter-rail/marc/)
+- [Fort Meade](https://www.army.mil/Installation/101/)
 - [BWI Airport](https://www.bwiairport.com/)
 
 ---
@@ -434,9 +434,9 @@ Odenton attracts:
 1. **U.S. Census Bureau QuickFacts:** [census.gov/quickfacts/fact/table/odentoncensusdesignatedplaceannearundelcountymaryland/PST045224](https://www.census.gov/quickfacts/fact/table/odentoncensusdesignatedplaceannearundelcountymaryland/PST045224)
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
-4. **MARC Train:** [marc.mta.info](https://www.marc.mta.info/)
-5. **Fort Meade:** [army.mil/fortmeade](https://www.army.mil/fortmeade)
-6. **MTA Maryland:** [mtamaryland.com](https://www.marylandtransit.com/)
+4. **MARC Train:** [mta.maryland.gov/commuter-rail/marc](https://www.mta.maryland.gov/commuter-rail/marc/)
+5. **Fort Meade:** [army.mil/Installation/101](https://www.army.mil/Installation/101/)
+6. **MTA Maryland:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 7. **BWI Airport:** [bwiairport.com](https://www.bwiairport.com/)
 8. **CVPH Odenton:** [cvph.org](https://www.cvph.org/)
 
