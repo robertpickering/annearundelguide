@@ -1,3 +1,69 @@
 # Hide git commit author info from page footers
 hideAuthorName = true
 hideAuthorEmail = true
+
+# PaperMod SEO & Theme Configuration
+env = "production"
+description = "The authoritative guide to Anne Arundel County, MD - comprehensive resources for Annapolis, Glen Burnie, Severna Park, Crofton & more. Cost of living, schools, healthcare, transportation, and local living tips."
+author = "Anne Arundel Guide"
+defaultTheme = "auto"
+dateFormat = "January 2, 2006"
+
+# Show breadcrumbs for better navigation and SEO
+ShowBreadCrumb = true
+
+# Social sharing
+ShowShareButtons = true
+ShareButtons = ["twitter", "facebook", "reddit", "whatsapp"]
+
+# Post navigation for keeping readers on site
+ShowPostNavLinks = true
+
+# Reading time helps users decide to click
+ShowReadingTime = true
+ShowWordCount = true
+
+# RSS feed
+ShowRssButton = true
+RSSButton = "/index.xml"
+
+# Locale for international SEO
+locale = "en-us"
+
+# Default images for social sharing (add actual images later)
+images = []
+
+# PaperMod profile mode (not used - we use list mode)
+
+# Footer customization
+[footer]
+  version = true
+
+# Label (favicon area)
+[label]
+  text = "AAG"
+  icon = "/favicon.svg"
+  iconHeight = 35
+
+# Profile mode settings (unused but defined for completeness)
+[profile-mode]
+  enabled = false
+
+# Home info enabled for homepage hero section
+[home-info]
+  enabled = true
+  title = "Anne Arundel County, Maryland — Your Complete Local Guide"
+  content = "Comprehensive guides for every community in Anne Arundel County. Cities, attractions, schools, healthcare, military resources, cost of living, and relocation guides."
+
+# App icon for mobile
+[app]
+  openGraphEnable = true
+  twitterSummaryCard = true
+
+# Analytics - ready for Google Analytics
+# [analytics.google]
+#   ID = "G-XXXXXXXXXX"
+
+# Cache settings for performance
+[cache]
+  disable = false
