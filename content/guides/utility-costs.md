@@ -16,16 +16,16 @@ Understanding utility costs in Anne Arundel County is essential for budgeting. T
 
 ## Electric Service
 
-### AEP Maryland
+### BGE (Baltimore Gas and Electric)
 
 **Service Area:**
-- Most of Anne Arundel County
+- All of Anne Arundel County
 - Primary electric provider
-- Generation and distribution
+- Also provides natural gas in many areas
 
 **Contact:**
-- Phone: 410-486-1234
-- Website: www.aepmaryland.com
+- Customer Service: 1-800-335-5520
+- Website: www.bge.com
 - Outages: 410-486-1234
 
 ### Electric Rates
@@ -555,13 +555,11 @@ For more budgeting info:
 
 ### Local Utility Providers
 
-**BGE (Baltimore Gas & Electric)**  
-- Official BGE Site: [bge.com](https://www.bge.com/)  
-- Energy Efficiency Programs: [bge.com/efficiency](https://www.bge.com/efficiency)  
-- Customer Service: 1-800-685-0123
-
-**Potomac Electric Power Company (PECO)**  
-- Official PECO Site: [peco.com](https://www.peco.com/)
+**BGE (Baltimore Gas & Electric)**
+- Official BGE Site: [bge.com](https://www.bge.com/)
+- Energy Efficiency Programs: [bge.com/efficiency](https://www.bge.com/efficiency)
+- Customer Service: 1-800-335-5520
+- Outage Reporting: 410-486-1234
 
 ### Water and Sewer
 
