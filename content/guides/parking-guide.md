@@ -49,7 +49,7 @@ Downtown Annapolis has the most restrictive parking in the county. This is histo
 **Address:** 100 George Street, Annapolis, MD 21401  
 **Phone:** 410-267-7800  
 **Hours:** Monday-Friday 8:30 AM - 4:30 PM  
-**Website:** www.annapolismd.gov/parking
+**Website:** www.annapolis.gov/parking
 
 ## Glen Burnie Parking
 
@@ -211,7 +211,7 @@ BWI has multiple parking options with different price points. See [BWI Airport G
 - Disabled spot violations: $500+
 
 **Paying Tickets:**
-- Online: www.aacounty.org/parking-tickets
+- Online: www.aacounty.org (Police Central Records, parking citations)
 - Mail: Address on ticket
 - In person: County cashier offices
 

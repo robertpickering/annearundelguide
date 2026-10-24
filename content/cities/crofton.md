@@ -10,8 +10,6 @@ draft: false
 
 Crofton is a census-designated place (CDP) in Anne Arundel County, Maryland. As one of the largest and most populous communities in South County, Crofton serves as a major residential and commercial hub with diverse neighborhoods, excellent amenities, and a strong sense of community.
 
-[](/images/crofton-community.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -155,21 +153,21 @@ Crofton residents attend **Anne Arundel County Public Schools (AACPS)**, with sc
 #### **Elementary Schools**
 
 **Crofton Elementary School:**
-- **Address:** 1500 Crofton Boulevard, Crofton, MD 21114
+- **Address:** 1405 Duke of Kent Drive, Crofton, MD 21114
 - **Grades:** K-5
 - **Rating:** Above average to highly rated
-- **Website:** [aacps.org/o/crofton](https://www.aacps.org/o/crofton)
+- **Website:** [aacps.org/o/croftones](https://www.aacps.org/o/croftones)
 
 **Google Maps:** [Crofton Elementary](https://www.google.com/maps/dir//Crofton+Elementary+School,+Crofton,+MD)
 
 **Other Elementary Options:**
 - **Severna Park Elementary:** Some Crofton areas zoned to top-rated Severna Park schools
-- **West County Elementary:** Nearby option
+- **Crofton Meadows Elementary:** Nearby option
 
 #### **Middle School**
 
 **Crofton Middle School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+- **Address:** 2301 Davidsonville Road, Gambrills, MD 21054
 - **Grades:** 6-8
 - **Rating:** Above average
 
@@ -178,11 +176,11 @@ Crofton residents attend **Anne Arundel County Public Schools (AACPS)**, with sc
 #### **High School**
 
 **Crofton High School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+- **Address:** 2291 Davidsonville Road, Gambrills, MD 21054
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
 - **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/o/croftonhs)
+- **Website:** [aacps.org/o/croftonhs](https://www.aacps.org/o/croftonhs)
 
 **Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
 
@@ -415,7 +413,7 @@ Crofton attracts:
 - [Anne Arundel County Public Schools](https://www.aacps.org)
 - [MTA Maryland Transit](https://www.mta.maryland.gov/)
 - [BWI Airport](https://www.bwiairport.com/)
-- [Anne Arundel County Parks](https://www.aacounty.org/departments/parks-recreation)
+- [Anne Arundel County Parks](https://www.aacounty.org/recreation-parks)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
 ---

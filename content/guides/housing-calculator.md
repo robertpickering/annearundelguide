@@ -480,9 +480,9 @@ For more budgeting info:
 ### Anne Arundel County Property Assessment
 
 **County Property Assessment Official Site**  
-- Property Assessment Info: [www.aacounty.org/assessor](https://www.aacounty.org/assessors-office)  
-- Property Search Tool: [www.aacounty.org/assessor/propertysearch](https://www.aacounty.org/assessors-office/propertysearch)  
-- Property Records: [www.aacounty.org/assessor/records](https://www.aacounty.org/assessors-office/records)  
+- Property Assessment Info: [dat.maryland.gov/realproperty](https://dat.maryland.gov/realproperty/Pages/default.aspx)  
+- Property Search Tool: [dat.maryland.gov/realproperty](https://dat.maryland.gov/realproperty/Pages/default.aspx)  
+- Property Records: [dat.maryland.gov/realproperty](https://dat.maryland.gov/realproperty/Pages/default.aspx)  
 - Contact: 410-222-3140 | Email: assessor@aacounty.org
 
 ### Maryland Housing Resources
@@ -490,29 +490,29 @@ For more budgeting info:
 **Maryland Department of Housing and Community Development**  
 - State Housing Site: [dhcd.maryland.gov](https://dhcd.maryland.gov/)  
 - Housing Programs: [dhcd.maryland.gov/programs](https://dhcd.maryland.gov/programs)  
-- First-Time Homebuyer Info: [dhcd.maryland.gov/housing/first-time-home-buyers](https://dhcd.maryland.gov/housing/first-time-home-buyers)
+- First-Time Homebuyer Info: [mmp.maryland.gov](https://mmp.maryland.gov/)
 
 ### Federal Housing Resources
 
 **Department of Housing and Urban Development (HUD)**  
 - Official HUD Site: [hud.gov](https://www.hud.gov/)  
-- Homebuyer Programs: [hud.gov/program_offices/housing_sm](https://www.hud.gov/program_offices/housing_sm)  
+- Homebuyer Programs: [hud.gov/single-family](https://www.hud.gov/hud-partners/single-family-about-housing-counseling)  
 - Fair Housing Info: [hud.gov/fairhousing](https://www.hud.gov/fairhousing)  
-- Housing Counseling: [hud.gov/housing Counseling](https://www.hud.gov/housing counseling)
+- Housing Counseling: [hud.gov/counseling](https://www.hud.gov/counseling)
 
 ### State Tax and Property Resources
 
 **Maryland Department of Assessments and Taxation**  
-- Property Records: [dat.maryland.gov/property](https://dat.maryland.gov/property)  
-- Business Records: [dat.maryland.gov/business](https://dat.maryland.gov/business)  
-- Property Search: [dat.maryland.gov/property/search](https://dat.maryland.gov/property/search)
+- Property Records: [dat.maryland.gov/realproperty](https://dat.maryland.gov/realproperty/Pages/default.aspx)  
+- Business Records: [egov.maryland.gov/BusinessExpress/EntitySearch](https://egov.maryland.gov/BusinessExpress/EntitySearch)  
+- Property Search: [dat.maryland.gov/realproperty](https://dat.maryland.gov/realproperty/Pages/default.aspx)
 
 ### Mortgage and Lending Resources
 
 **Consumer Financial Protection Bureau (CFPB)**  
-- Home Buying Guide: [consumerfinance.gov/learnabout/mortgages](https://www.consumerfinance.gov/learnabout/mortgages)  
+- Home Buying Guide: [consumerfinance.gov/mortgages](https://www.consumerfinance.gov/consumer-tools/mortgages/)  
 - Mortgage Help: [consumerfinance.gov/mortgages](https://www.consumerfinance.gov/mortgages)  
-- Loan Estimates: [consumerfinance.gov/loanestimates](https://www.consumerfinance.gov/loanestimates)
+- Loan Estimates: [consumerfinance.gov/mortgages](https://www.consumerfinance.gov/consumer-tools/mortgages/)
 
 ### Real Estate Commission
 

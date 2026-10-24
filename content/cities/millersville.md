@@ -234,7 +234,7 @@ The trade-offs are typical for Maryland suburbs: drive for most things, suburban
 - Main Site: https://www.aacounty.org
 - Recreation & Parks: https://www.aacounty.org/recreation-parks
 - Kinder Farm Park: https://www.aacounty.org/recreation-parks/parks/kinder-farm-park
-- Millersville Park Development: https://www.aacounty.org/recreation-parks/parks/millersville-park
+- Millersville Park Development: https://www.aacounty.org/recreation-parks/capital-projects/millersville-park
 
 **Contact**
 - Phone: 410-222-3000
@@ -244,8 +244,8 @@ The trade-offs are typical for Maryland suburbs: drive for most things, suburban
 
 **Official Website**
 - Main Site: https://www.aacps.org
-- School Directory: https://www.aacps.org/school-directory
-- Millersville Elementary: https://www.aacps.org/millersville
+- School Directory: https://www.aacps.org/locateyourschool
+- Millersville Elementary: https://www.aacps.org/o/millersvillees
 - Enrollment Information: https://www.aacps.org/enrollment
 - Military Family Liaison: Contact district office
 

@@ -186,11 +186,11 @@ The trade-offs are typical for Maryland waterfront communities: higher prices fo
 
 **Official Website**
 - Main Site: https://www.aacps.org
-- School Directory: https://www.aacps.org/school-directory
+- School Directory: https://www.aacps.org/locateyourschool
 - Enrollment Information: https://www.aacps.org/enrollment
-- South Beach Elementary: https://www.aacps.org/southbeach
-- Deale Middle School: https://www.aacps.org/dealemiddle
-- Deale High School: https://www.aacps.org/dealehigh
+- Deale Elementary: https://www.aacps.org/o/dealees
+- Southern Middle School: https://www.aacps.org/o/southernms
+- Southern High School: https://www.aacps.org/o/southernhs
 
 **Contact**
 - Phone: 410-263-8000
@@ -199,8 +199,8 @@ The trade-offs are typical for Maryland waterfront communities: higher prices fo
 ### Maryland Department of Natural Resources
 
 **Official Website**
-- State Parks: https://www.maryland.gov/parks
-- Franklin Point State Park: https://www.maryland.gov/parks/franklin-point
+- State Parks: https://dnr.maryland.gov/publiclands/
+- Franklin Point State Park: https://dnr.maryland.gov/publiclands/Pages/southern/FranklinPoint.aspx
 - Fishing Information: https://www.dnr.maryland.gov/fisheries/
 
 **Contact**

@@ -327,7 +327,7 @@ The trade-offs involve military life considerations—deployments, frequent move
 
 **Official Website**
 - Main Site: https://www.aacps.org
-- School Directory: https://www.aacps.org/school-directory
+- School Directory: https://www.aacps.org/locateyourschool
 - Military Family Liaison: Contact AACPS district office
 
 **Contact**

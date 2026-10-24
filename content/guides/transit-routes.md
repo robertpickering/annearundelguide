@@ -268,7 +268,7 @@ Current schedules and info: [mta.maryland.gov/commuter-rail/marc](https://www.mt
 
 ### MTA Trip Planner
 
-**Website:** mtamaryland.com has trip planning tool
+**Website:** www.mta.maryland.gov has trip planning tool
 
 **What it provides:**
 - Route options
@@ -331,7 +331,7 @@ Current schedules and info: [mta.maryland.gov/commuter-rail/marc](https://www.mt
 **MTA Customer Service:** 1-888-968-7282  
 **MARC Train Info:** 1-877-687-6272  
 **CharmCard Support:** 410-768-3600  
-**MTA Website:** www.mtamaryland.com
+**MTA Website:** www.mta.maryland.gov
 
 ---
 
@@ -348,13 +348,13 @@ For more transportation info:
 **Official County Website**  
 - Main County Site: [www.aacounty.org](https://www.aacounty.org)  
 - County Services: [www.aacounty.org/departments](https://www.aacounty.org/departments)  
-- OpenData Portal: [data.aacounty.org](https://data.aacounty.org)
+- OpenData Portal: [opendata.aacounty.org](https://opendata.aacounty.org)
 
 ### Maryland State Government
 
 **Official State Portal**  
 - MD.gov: [maryland.gov](https://maryland.gov/)  
-- State Departments: [maryland.gov/agencies](https://maryland.gov/agencies)  
+- State Departments: [maryland.gov/state-agencies](https://www.maryland.gov/your-government/state-agencies-and-departments)  
 - State Services: [maryland.gov/services](https://maryland.gov/services)
 
 ---

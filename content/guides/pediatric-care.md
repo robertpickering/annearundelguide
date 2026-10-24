@@ -464,13 +464,13 @@ For more pediatric info:
 **Official County Website**  
 - Main County Site: [www.aacounty.org](https://www.aacounty.org)  
 - County Services: [www.aacounty.org/departments](https://www.aacounty.org/departments)  
-- OpenData Portal: [data.aacounty.org](https://data.aacounty.org)
+- OpenData Portal: [opendata.aacounty.org](https://opendata.aacounty.org)
 
 ### Maryland State Government
 
 **Official State Portal**  
 - MD.gov: [maryland.gov](https://maryland.gov/)  
-- State Departments: [maryland.gov/agencies](https://maryland.gov/agencies)  
+- State Departments: [maryland.gov/state-agencies](https://www.maryland.gov/your-government/state-agencies-and-departments)  
 - State Services: [maryland.gov/services](https://maryland.gov/services)
 
 ---

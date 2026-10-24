@@ -10,8 +10,6 @@ draft: false
 
 Davidsonville is a census-designated place (CDP) in Anne Arundel County, Maryland. One of Maryland's oldest settlements, Davidsonville offers historic charm, waterfront properties, and a unique blend of colonial heritage and modern waterfront living on the scenic Chesapeake Bay.
 
-[](/images/davidsonville-waterfront.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -155,13 +153,13 @@ Davidsonville residents attend **Anne Arundel County Public Schools (AACPS)**.
 
 #### **Elementary Schools**
 
-**South County Elementary School:**
-- **Address:** 400 South County Road, Crownsville, MD 21032
+**Davidsonville Elementary School:**
+- **Address:** 962 West Central Avenue, Davidsonville, MD 21035
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacps.org/o/southcounty](https://www.aacps.org/o/southcounty)
+- **Website:** [aacps.org/o/davidsonvillees](https://www.aacps.org/o/davidsonvillees)
 
-**Google Maps:** [South County Elementary](https://www.google.com/maps/dir//South+County+Elementary+School,+Crownsville,+MD)
+**Google Maps:** [Davidsonville Elementary](https://www.google.com/maps/dir//Davidsonville+Elementary+School,+Davidsonville,+MD)
 
 **Other Options:**
 - **Crofton Elementary:** Some Davidsonville areas zoned to Crofton schools
@@ -169,25 +167,25 @@ Davidsonville residents attend **Anne Arundel County Public Schools (AACPS)**.
 
 #### **Middle School**
 
-**Crofton Middle School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+**Central Middle School:**
+- **Address:** 221 Central Avenue East, Edgewater, MD 21037
 - **Grades:** 6-8
 - **Rating:** Above average
 
-**Google Maps:** [Crofton Middle](https://www.google.com/maps/dir//Crofton+Middle+School,+Crofton,+MD)
+**Google Maps:** [Central Middle](https://www.google.com/maps/dir//Central+Middle+School,+Edgewater,+MD)
 
 #### **High School**
 
-**Crofton High School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+**South River High School:**
+- **Address:** 201 Central Avenue East, Edgewater, MD 21037
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
-- **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/o/croftonhs)
+- **Mascot:** Ravens
+- **Website:** [aacps.org/o/southriverhs](https://www.aacps.org/o/southriverhs)
 
-**Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
+**Google Maps:** [South River High](https://www.google.com/maps/dir//South+River+High+School,+Edgewater,+MD)
 
-**School Performance:** Davidsonville students benefit from Crofton School system's solid academic programs
+**School Performance:** Davidsonville students benefit from South River cluster schools' solid academic programs
 
 ### Private Schools
 
@@ -231,7 +229,7 @@ Davidsonville residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Annapolis Marinas:** Short distance from Davidsonville
 - **Private Club Marinas:** Several waterfront yacht clubs
 
-**Boating Info:** [Maryland DNR Boating](https://www.maryland.gov/dnr/boating/)
+**Boating Info:** [Maryland DNR Boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 
 ### Air Travel
 
@@ -284,7 +282,7 @@ Several restaurants offer bay views and fresh seafood:
 - **Fishing:** Excellent pier fishing, shore fishing, charter boats
 - **Kayaking/Canoeing:** Calm tidal creeks
 
-**Fishing Info:** [Maryland DNR Fishing](https://www.maryland.gov/dnr/fishing/)
+**Fishing Info:** [Maryland DNR Fishing](https://dnr.maryland.gov/fisheries/Pages/default.aspx)
 
 ### Parks & Facilities
 
@@ -421,7 +419,7 @@ Davidsonville attracts:
 ### Useful Links
 
 - [Anne Arundel County Public Schools](https://www.aacps.org)
-- [Maryland DNR Boating](https://www.maryland.gov/dnr/boating/)
+- [Maryland DNR Boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 - [Maryland Historical Trust](https://mht.maryland.gov/)
 - [Historic Annapolis Commission](https://www.annapolis.gov/148/Historic-Preservation-Commission)
 - [Anne Arundel County Government](https://www.aacounty.org/)
@@ -435,7 +433,7 @@ Davidsonville attracts:
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
 4. **Maryland Historical Trust:** [mht.maryland.gov](https://mht.maryland.gov/)
 5. **Historic Annapolis Commission:** [annapolis.gov](https://www.annapolis.gov/148/Historic-Preservation-Commission)
-6. **Maryland DNR Boating:** [maryland.gov/dnr/boating](https://www.maryland.gov/dnr/boating/)
+6. **Maryland DNR Boating:** [dnr.maryland.gov/boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 7. **CVPH Davidsonville:** [cvph.org](https://www.cvph.org/)
 
 ---

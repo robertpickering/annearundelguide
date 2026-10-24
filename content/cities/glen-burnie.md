@@ -10,8 +10,6 @@ draft: false
 
 Glen Burnie is a census-designated place (CDP) in Anne Arundel County, Maryland. As the county's most populous area with approximately 72,000 residents, Glen Burnie serves as a major commercial and residential hub with excellent highway access, diverse neighborhoods, and convenient amenities.
 
-[](/images/glen-burnie-shopping.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -144,36 +142,36 @@ Glen Burnie residents attend **Anne Arundel County Public Schools (AACPS)**.
 
 #### **Elementary Schools**
 
-**Glen Burnie Elementary School:**
-- **Address:** 1001 Crain Highway, Glen Burnie, MD 21061
+**Glen Burnie Park Elementary School:**
+- **Address:** 500 Marlboro Road, Glen Burnie, MD 21061
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacps.org/o/glenburnie](https://www.aacps.org/o/glenburnie)
+- **Website:** [aacps.org/o/glenburnieparkes](https://www.aacps.org/o/glenburnieparkes)
 
-**Google Maps:** [Glen Burnie Elementary](https://www.google.com/maps/dir//Glen+Burnie+Elementary+School,+Glen+Burnie,+MD)
+**Google Maps:** [Glen Burnie Park Elementary](https://www.google.com/maps/dir//Glen+Burnie+Park+Elementary+School,+Glen+Burnie,+MD)
 
 **Other Elementary Schools in Area:**
 - **Severna Park Elementary:** Portions of Glen Burnie zoned to Severna Park schools
-- **Parkdale Elementary:** 1500 Parkdale Road, Glen Burnie, MD 21061
+- **Freetown Elementary:** 7904 Freetown Road, Glen Burnie, MD 21060
 - **Crofton Elementary:** Nearby option for south Glen Burnie
 
 #### **Middle School**
 
-**Glen Burnie Middle School:**
-- **Address:** 1350 Ritchie Highway, Glen Burnie, MD 21061
+**Marley Middle School:**
+- **Address:** 10 Davis Court, Glen Burnie, MD 21060
 - **Grades:** 6-8
 - **Rating:** Above average
 
-**Google Maps:** [Glen Burnie Middle](https://www.google.com/maps/dir//Glen+Burnie+Middle+School,+Glen+Burnie,+MD)
+**Google Maps:** [Marley Middle](https://www.google.com/maps/dir//Marley+Middle+School,+Glen+Burnie,+MD)
 
 #### **High School**
 
 **Glen Burnie High School:**
-- **Address:** 1001 Crain Highway, Glen Burnie, MD 21061
+- **Address:** 7550 Baltimore Annapolis Boulevard, Glen Burnie, MD 21060
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Bulldogs
-- **Website:** [aacounty.org/glenburniehs](https://www.aacps.org/o/glenburniehs)
+- **Website:** [aacps.org/o/glenburniehs](https://www.aacps.org/o/glenburniehs)
 
 **Google Maps:** [Glen Burnie High](https://www.google.com/maps/dir//Glen+Burnie+High+School,+Glen+Burnie,+MD)
 

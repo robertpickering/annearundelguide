@@ -10,7 +10,7 @@ weight: 4
 
 <!-- HERO SECTION -->
 <div class="alert alert-info">
-<img src="/housing-calculator-hero.jpg" alt="Anne Arundel County Housing Calculator" class="img-fluid">
+<img src="/img/anne-arundel-hero.svg" alt="Anne Arundel County Housing Calculator" class="img-fluid">
 
 ## Anne Arundel County Housing Cost Calculator
 
@@ -20,7 +20,7 @@ Use our interactive calculator to estimate home prices, rent, mortgage payments,
 
 <a href="#calculator" class="btn">Use Calculator</a>
 <a href="#town-breakdown" class="btn">Town Breakdown</a>
-<a href="/topics/" class="btn">View All Guides</a>
+<a href="/guides/" class="btn">View All Guides</a>
 </div>
 
 <!-- INTERACTIVE CALCULATOR SECTION -->
@@ -268,7 +268,7 @@ Use our interactive calculator to estimate home prices, rent, mortgage payments,
 <p>Complete neighborhood and relocation data for every town in the county.</p>
 <ul>
 <li><a href="/transportation/" class="btn">Anne Arundel County Neighborhood & Relocation Guide</a></li>
-<li><a href="/topics/housing/" class="btn btn-secondary">View Full Housing Guide</a></li>
+<li><a href="/housing-guide/" class="btn btn-secondary">View Full Housing Guide</a></li>
 </ul>
 </div>
 </div>
@@ -636,11 +636,7 @@ document.getElementById('calculate-btn').addEventListener('click', function() {
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "Anne Arundel County Housing Cost Calculator - Find Your Budget",
-  "image": [
-    "https://www.annearundelguide.com/images/housing-calculator-hero.jpg",
-    "https://www.annearundelguide.com/images/annapolis-housing.jpg",
-    "https://www.annearundelguide.com/images/crofton-housing.jpg"
-  ],
+  "image": "https://www.annearundelguide.com/img/anne-arundel-hero.svg",
   "datePublished": "2026-05-20T08:00:00-04:00",
   "dateModified": "2026-05-20T10:30:00-04:00",
   "author": {

@@ -55,12 +55,12 @@ Getting your out-of-state vehicle registered in Maryland is one of your first le
 
 Getting utilities connected is critical before or immediately upon moving in.
 
-**Electric Service - AEP Maryland:**
-- **Service Area:** Most of Anne Arundel County
-- **Phone:** 410-486-1234
-- **Website:** [www.aepmaryland.com](https://www.aepmaryland.com)
+**Electric Service - BGE (Baltimore Gas and Electric):**
+- **Service Area:** All of Anne Arundel County
+- **Phone:** 1-800-335-5520
+- **Website:** [www.bge.com](https://www.bge.com)
 - **Hours:** Monday-Friday 8:30 AM - 5:00 PM
-- **Outage Reporting:** Call 410-486-1234 or report online
+- **Outage Reporting:** Call 1-877-778-2222 or report online
 - **New Service:** Call at least 3 days before move-in date
 - **Initial Deposit:** $100-$300 (may be waived with good credit)
 
@@ -152,7 +152,7 @@ Having a local bank can be convenient for checks, ATMs, and customer service.
 **Major Banks with Anne Arundel Locations:**
 
 **M&T Bank** - 20+ locations
-- Website: [www.mtbank.com](https://www.mtbank.com)
+- Website: [www.mtb.com](https://www.mtb.com)
 - Features: Full service, mobile banking, ATM network
 
 **PNC Bank** - 15+ locations
@@ -170,13 +170,6 @@ Having a local bank can be convenient for checks, ATMs, and customer service.
 - Website: [www.navyfed.org](https://www.navyfed.org)
 - Excellent for military families
 - Phone: 1-888-747-9287
-
-**Annapolis Federal Credit Union**
-- Website: [www.annapoliscu.com](https://www.annapoliscu.com)
-- Local focus, competitive rates
-
-**Maryland Credit Union**
-- Website: [www.marylandcu.org](https://www.marylandcu.org)
 
 ### Finding Healthcare Providers
 
@@ -404,7 +397,7 @@ Having a local bank can be convenient for checks, ATMs, and customer service.
 - **Fire (Non-Emergency):** 410-222-3000
 - **Animal Control:** 410-222-7387
 - **Poison Control:** 1-800-222-1222
-- **Power Outages (AEP):** 410-486-1234
+- **Power Outages (BGE):** 1-877-778-2222
 - **Water Emergency:** 410-222-3258
 - **County Government:** 410-222-3000
 
@@ -443,7 +436,7 @@ Having a local bank can be convenient for checks, ATMs, and customer service.
 ### Week 1
 - [ ] Register vehicle with MD MVA
 - [ ] Get Maryland insurance
-- [ ] Set up electric (AEP)
+- [ ] Set up electric (BGE)
 - [ ] Set up water/sewer (if not included in rent/mortgage)
 - [ ] Set up internet/cable
 - [ ] Locate nearest grocery store
@@ -497,10 +490,10 @@ Having a local bank can be convenient for checks, ATMs, and customer service.
 - Phone: 410-222-3100
 - 9 branch locations throughout county
 
-**AEP Maryland (Electric):**
-- Website: www.aepmaryland.com
-- Phone: 410-486-1234
-- Outages: 410-486-1234
+**BGE (Baltimore Gas and Electric):**
+- Website: www.bge.com
+- Customer Service: 1-800-335-5520
+- Outages: 1-877-778-2222
 
 **Anne Arundel Medical Center:**
 - Website: www.aamc.org
@@ -525,13 +518,13 @@ Remember: Anne Arundel County residents are known for being friendly and helpful
 **Official County Website**  
 - Main County Site: [www.aacounty.org](https://www.aacounty.org)  
 - County Services: [www.aacounty.org/departments](https://www.aacounty.org/departments)  
-- OpenData Portal: [data.aacounty.org](https://data.aacounty.org)
+- OpenData Portal: [opendata.aacounty.org](https://opendata.aacounty.org)
 
 ### Maryland State Government
 
 **Official State Portal**  
 - MD.gov: [maryland.gov](https://maryland.gov/)  
-- State Departments: [maryland.gov/agencies](https://maryland.gov/agencies)  
+- State Departments: [maryland.gov/state-agencies](https://www.maryland.gov/your-government/state-agencies-and-departments)  
 - State Services: [maryland.gov/services](https://maryland.gov/services)
 
 ---

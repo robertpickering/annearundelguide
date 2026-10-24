@@ -88,7 +88,7 @@ When evaluating schools, consider these key metrics:
 ### Where to Find School Data
 
 **Official Sources:**
-1. **AACPS School Profiles:** www.aacps.org/schools
+1. **AACPS School Profiles:** www.aacps.org/locateyourschool
 2. **Maryland State Department of Education:**marylandpublicschools.org
 3. **GreatSchools.org:** greatschools.org - School ratings and reviews
 4. **Niche.com:** niche.com - School rankings and parent reviews
@@ -114,7 +114,7 @@ When evaluating schools, consider these key metrics:
 - **Enrollment:** ~850 students
 - **Ratings:** Strong academics, arts programs
 - **Notable:** Small school feel, strong college prep
-- **Website:** www.aacps.org/annapolishigh
+- **Website:** www.aacps.org/o/annapolishs
 
 #### **Arnold High School**
 - **Address:** 100 School Lane, Arnold, MD 21012
@@ -188,7 +188,7 @@ AACPS operates 13 middle schools (grades 6-8):
 
 40+ elementary schools (K-5) throughout the county. Assignment based on specific address zone.
 
-**Research your zone:** www.aacps.org/schools/findyourschool
+**Research your zone:** www.aacps.org/locateyourschool
 
 ---
 
@@ -267,7 +267,7 @@ AACPS provides comprehensive special education services:
 
 **Contact:** AACPS Special Education Division
 - Phone: 410-222-4500
-- Website: www.aacps.org/specialed
+- Website: www.aacps.org/page/special-education
 
 ### Advanced Placement & Honors
 
@@ -296,7 +296,7 @@ AACPS provides comprehensive special education services:
 - All-boys Catholic high school
 - Strong academics, athletics
 - College prep focus
-- Website: www.dmatha.org
+- Website: www.dematha.org
 
 **St. Mary's Ryken High School** (Leonardtown, nearby)
 - Grades 9-12
@@ -352,7 +352,7 @@ AACPS provides comprehensive special education services:
 **Resources for Anne Arundel Homeschoolers:**
 
 **Anne Arundel County Public Schools - Homeschool Office:**
-- Website: www.aacps.org/homeschool
+- Website: www.aacps.org/page/home-instruction
 - Phone: 410-222-4500
 - Provides guidance on legal requirements
 
@@ -391,7 +391,7 @@ AACPS provides comprehensive special education services:
 - Verify boundaries before purchasing/renting
 
 **Resources:**
-- www.aacps.org/schools/findyourschool
+- www.aacps.org/locateyourschool
 - Contact school district directly
 - Check with real estate agent familiar with school zones
 
@@ -515,7 +515,7 @@ AACPS provides comprehensive special education services:
 
 **Contact:** AACPS Transportation Division
 - Phone: 410-222-4500
-- Website: www.aacps.org/transportation
+- Website: www.aacps.org/page/bus-information
 
 ### Parent Carpooling
 

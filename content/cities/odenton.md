@@ -10,8 +10,6 @@ draft: false
 
 Odenton is a census-designated place (CDP) in Anne Arundel County, Maryland. Known for its proximity to Fort Meade and Joint Base Andrews, excellent schools, and convenient MARC train access, Odenton is a popular choice for military families, government employees, and commuters to Washington, D.C.
 
-[](/images/odenton-community.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -157,33 +155,33 @@ Odenton residents attend **Anne Arundel County Public Schools (AACPS)**, which i
 
 #### **Elementary Schools**
 
-**Linthicum Elementary School:**
-- **Address:** 6501 Ritchie Highway, Linthicum, MD 21090
+**Odenton Elementary School:**
+- **Address:** 1290 Odenton Road, Odenton, MD 21113
 - **Grades:** K-5
 - **Rating:** Highly rated
-- **Website:** [aacounty.org/linthicumes](https://www.aacps.org/o/linthicumes)
+- **Website:** [aacps.org/o/odentones](https://www.aacps.org/o/odentones)
 
-**Google Maps:** [Linthicum Elementary](https://www.google.com/maps/dir//Linthicum+Elementary+School,+Linthicum,+MD)
+**Google Maps:** [Odenton Elementary](https://www.google.com/maps/dir//Odenton+Elementary+School,+Odenton,+MD)
 
-**Curtis Crest Elementary:**
-- **Address:** 10800 Curtis Crest Drive, Odenton, MD 21113
+**Piney Orchard Elementary School:**
+- **Address:** 2641 Strawberry Lake Way, Odenton, MD 21113
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacounty.org/curtiscrestms](https://www.aacps.org/o/curtiscrestms)
+- **Website:** [aacps.org/o/pineyorchardes](https://www.aacps.org/o/pineyorchardes)
 
-**Google Maps:** [Curtis Crest Elementary](https://www.google.com/maps/dir//Curtis+Crest+Elementary+School,+Odenton,+MD)
+**Google Maps:** [Piney Orchard Elementary](https://www.google.com/maps/dir//Piney+Orchard+Elementary+School,+Odenton,+MD)
 
 #### **Middle School**
 
-**Quince Orchard Middle School (nearby):**
-- **Address:** 7000 Quince Orchard Road, Gaithersburg, MD 20877
+**Arundel Middle School:**
+- **Address:** 1179 Hammond Lane, Odenton, MD 21113
 - **Grades:** 6-8
 - **Rating:** Highly rated
 
 #### **High School**
 
 **Arundel High School (serves Odenton):**
-- **Address:** 8601 Robinson Road, Odenton, MD 21113
+- **Address:** 1001 Annapolis Road, Gambrills, MD 21054
 - **Grades:** 9-12
 - **Rating:** Above average
 - **Mascot:** Raiders

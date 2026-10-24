@@ -10,8 +10,6 @@ draft: false
 
 Gambrills is a census-designated place (CDP) in Anne Arundel County, Maryland. Known primarily as a major commercial and retail center, Gambrills serves as a hub for shopping, dining, and business services with excellent highway access and convenient location near Annapolis and Baltimore.
 
-[](/images/gambrills-shopping.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -145,22 +143,22 @@ Gambrills residents attend **Anne Arundel County Public Schools (AACPS)**.
 
 #### **Elementary Schools**
 
-**Crofton Elementary School:**
-- **Address:** 1500 Crofton Boulevard, Crofton, MD 21114
+**Four Seasons Elementary School:**
+- **Address:** 979 Waugh Chapel Road, Gambrills, MD 21054
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacps.org/o/crofton](https://www.aacps.org/o/crofton)
+- **Website:** [aacps.org/o/fourseasonses](https://www.aacps.org/o/fourseasonses)
 
-**Google Maps:** [Crofton Elementary](https://www.google.com/maps/dir//Crofton+Elementary+School,+Crofton,+MD)
+**Google Maps:** [Four Seasons Elementary](https://www.google.com/maps/dir//Four+Seasons+Elementary+School,+Gambrills,+MD)
 
 **Other Options:**
-- **Linthicum Elementary:** Nearby option
+- **Waugh Chapel Elementary:** Some Gambrills areas
 - **Severna Park Elementary:** Some areas zoned to top-rated schools
 
 #### **Middle School**
 
 **Crofton Middle School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+- **Address:** 2301 Davidsonville Road, Gambrills, MD 21054
 - **Grades:** 6-8
 - **Rating:** Above average
 
@@ -169,11 +167,11 @@ Gambrills residents attend **Anne Arundel County Public Schools (AACPS)**.
 #### **High School**
 
 **Crofton High School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+- **Address:** 2291 Davidsonville Road, Gambrills, MD 21054
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
 - **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/o/croftonhs)
+- **Website:** [aacps.org/o/croftonhs](https://www.aacps.org/o/croftonhs)
 
 **Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
 
