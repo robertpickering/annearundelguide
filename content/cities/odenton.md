@@ -10,8 +10,6 @@ draft: false
 
 Odenton is a census-designated place (CDP) in Anne Arundel County, Maryland. Known for its proximity to Fort Meade and Joint Base Andrews, excellent schools, and convenient MARC train access, Odenton is a popular choice for military families, government employees, and commuters to Washington, D.C.
 
-[](/images/odenton-community.jpg)
-
 ## Quick Facts
 
 | Category | Information |

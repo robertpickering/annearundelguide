@@ -10,8 +10,6 @@ draft: false
 
 Gambrills is a census-designated place (CDP) in Anne Arundel County, Maryland. Known primarily as a major commercial and retail center, Gambrills serves as a hub for shopping, dining, and business services with excellent highway access and convenient location near Annapolis and Baltimore.
 
-[](/images/gambrills-shopping.jpg)
-
 ## Quick Facts
 
 | Category | Information |

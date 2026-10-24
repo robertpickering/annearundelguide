@@ -58,7 +58,7 @@ Getting utilities connected is critical before or immediately upon moving in.
 **Electric Service - AEP Maryland:**
 - **Service Area:** Most of Anne Arundel County
 - **Phone:** 410-486-1234
-- **Website:** [www.aepmaryland.com](https://www.aepmaryland.com)
+- **Website:** [www.aep.com](https://www.aep.com)
 - **Hours:** Monday-Friday 8:30 AM - 5:00 PM
 - **Outage Reporting:** Call 410-486-1234 or report online
 - **New Service:** Call at least 3 days before move-in date
@@ -152,7 +152,7 @@ Having a local bank can be convenient for checks, ATMs, and customer service.
 **Major Banks with Anne Arundel Locations:**
 
 **M&T Bank** - 20+ locations
-- Website: [www.mtbank.com](https://www.mtbank.com)
+- Website: [www.mtb.com](https://www.mtb.com)
 - Features: Full service, mobile banking, ATM network
 
 **PNC Bank** - 15+ locations
@@ -170,13 +170,6 @@ Having a local bank can be convenient for checks, ATMs, and customer service.
 - Website: [www.navyfed.org](https://www.navyfed.org)
 - Excellent for military families
 - Phone: 1-888-747-9287
-
-**Annapolis Federal Credit Union**
-- Website: [www.annapoliscu.com](https://www.annapoliscu.com)
-- Local focus, competitive rates
-
-**Maryland Credit Union**
-- Website: [www.marylandcu.org](https://www.marylandcu.org)
 
 ### Finding Healthcare Providers
 
@@ -498,7 +491,7 @@ Having a local bank can be convenient for checks, ATMs, and customer service.
 - 9 branch locations throughout county
 
 **AEP Maryland (Electric):**
-- Website: www.aepmaryland.com
+- Website: www.aep.com
 - Phone: 410-486-1234
 - Outages: 410-486-1234
 
@@ -525,13 +518,13 @@ Remember: Anne Arundel County residents are known for being friendly and helpful
 **Official County Website**  
 - Main County Site: [www.aacounty.org](https://www.aacounty.org)  
 - County Services: [www.aacounty.org/departments](https://www.aacounty.org/departments)  
-- OpenData Portal: [data.aacounty.org](https://data.aacounty.org)
+- OpenData Portal: [opendata.aacounty.org](https://opendata.aacounty.org)
 
 ### Maryland State Government
 
 **Official State Portal**  
 - MD.gov: [maryland.gov](https://maryland.gov/)  
-- State Departments: [maryland.gov/agencies](https://maryland.gov/agencies)  
+- State Departments: [maryland.gov/state-agencies](https://www.maryland.gov/your-government/state-agencies-and-departments)  
 - State Services: [maryland.gov/services](https://maryland.gov/services)
 
 ---

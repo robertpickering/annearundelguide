@@ -10,8 +10,6 @@ draft: false
 
 Severn is a census-designated place (CDP) in Anne Arundel County, Maryland. Located between Annapolis and Baltimore, Severn offers convenient access to BWI Airport, Severn River waterfront access, and a mix of residential neighborhoods with strong community amenities.
 
-[](/images/severn-waterfront.jpg)
-
 ## Quick Facts
 
 | Category | Information |

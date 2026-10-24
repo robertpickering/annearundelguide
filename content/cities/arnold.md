@@ -186,7 +186,7 @@ The trade-offs are typical for Maryland suburbs: traffic on Route 2 during rush 
 ### Sandy Point State Park (Maryland Department of Natural Resources)
 
 **Official Website**
-- Park Information: https://www.maryland.gov/parks/sandy-point
+- Park Information: https://dnr.maryland.gov/publiclands/Pages/southern/SandyPoint.aspx
 
 **Contact**
 - Phone: 410-267-3474

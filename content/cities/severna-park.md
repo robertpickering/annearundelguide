@@ -10,8 +10,6 @@ draft: false
 
 Severna Park is a census-designated place (CDP) in Anne Arundel County, Maryland. Famous for having some of Maryland's highest-performing public schools, Severna Park is one of the most sought-after communities in the state for families seeking excellent education in a friendly, suburban environment.
 
-[](/images/severna-park-community.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -304,7 +302,7 @@ Severna Park residents attend the **Severna Park** schools within AACPS, some of
 - Fitness classes at community center
 - Tennis programs
 
-**Severna Park Recreation Department:** [aacounty.org/recreation](https://www.aacounty.org/departments/parks-recreation)
+**Severna Park Recreation Department:** [aacounty.org/recreation-parks](https://www.aacounty.org/recreation-parks)
 
 ## Healthcare
 
@@ -435,7 +433,7 @@ Severna Park attracts:
 - [Anne Arundel County Public Schools](https://www.aacps.org)
 - [Severna Park High School](https://www.aacps.org/o/severnaparkhs)
 - [MTA Maryland Transit](https://www.mta.maryland.gov/)
-- [Sandy Point State Park](https://www.marylandparks.com/state-parks/sandy-point/)
+- [Sandy Point State Park](https://dnr.maryland.gov/publiclands/Pages/southern/SandyPoint.aspx)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
 ---
@@ -445,7 +443,7 @@ Severna Park attracts:
 1. **U.S. Census Bureau QuickFacts:** [census.gov/quickfacts/fact/table/severnaparkcensusdesignatedplaceannearundelcountymaryland/PST045224](https://www.census.gov/quickfacts/fact/table/severnaparkcensusdesignatedplaceannearundelcountymaryland/PST045224)
 2. **Anne Arundel County Public Schools:** [aacounty.org/aacps](https://www.aacps.org)
 3. **Severna Park High School:** [aacounty.org/severnaparkhs](https://www.aacps.org/o/severnaparkhs)
-4. **Maryland State Parks:** [marylandparks.com](https://www.marylandparks.com/)
+4. **Maryland State Parks:** [dnr.maryland.gov/publiclands](https://dnr.maryland.gov/publiclands/)
 5. **MTA Maryland:** [mta.maryland.gov](https://www.mta.maryland.gov/)
 6. **CVPH Severna Park:** [cvph.org](https://www.cvph.org/)
 

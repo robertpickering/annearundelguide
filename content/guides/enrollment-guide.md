@@ -434,8 +434,8 @@ For more education info:
 
 **State Education Resources**  
 - MD Public Schools: [marylandpublicschools.org](https://marylandpublicschools.org)  
-- School Performance Data: [marylandpublicschools.org/about/indicators](https://marylandpublicschools.org/about/indicators)  
-- Enrollment Guidelines: [marylandpublicschools.org/parents/family-resources](https://marylandpublicschools.org/parents/family-resources)  
+- School Performance Data: [reportcard.msde.maryland.gov](https://reportcard.msde.maryland.gov/)  
+- Enrollment Guidelines: [marylandpublicschools.org/parents](https://marylandpublicschools.org/parents/)  
 - MD Department of Education: [marylandpublicschools.org/about](https://marylandpublicschools.org/about)
 
 ### Federal Education Resources

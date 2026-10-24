@@ -296,7 +296,7 @@ AACPS provides comprehensive special education services:
 - All-boys Catholic high school
 - Strong academics, athletics
 - College prep focus
-- Website: www.dmatha.org
+- Website: www.dematha.org
 
 **St. Mary's Ryken High School** (Leonardtown, nearby)
 - Grades 9-12

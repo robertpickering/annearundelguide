@@ -18,8 +18,6 @@ aliases: ["bwi-guide"]
 
 BWI Thurgood Marshall Airport serves Anne Arundel County and the greater Baltimore-Washington metropolitan area. This comprehensive guide covers everything travelers need to know about BWI, from terminals and airlines to parking, dining, and ground transportation.
 
-[](/images/bwi-airport.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -636,7 +634,7 @@ BWI Thurgood Marshall Airport serves Anne Arundel County and the greater Baltimo
 - **Phone:** (410) 859-7300
 - **Location:** Security office
 - **Hours:** 5 AM - 11 PM
-- **Online:** [bwiairport.com/lost-found](https://www.bwiairport.com/travel-info/lost-and-found)
+- **Online:** [bwiairport.com/lost-found](https://www.bwiairport.com/lost-found)
 
 ## Emergency & Medical
 

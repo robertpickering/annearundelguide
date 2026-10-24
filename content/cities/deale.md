@@ -199,8 +199,8 @@ The trade-offs are typical for Maryland waterfront communities: higher prices fo
 ### Maryland Department of Natural Resources
 
 **Official Website**
-- State Parks: https://www.maryland.gov/parks
-- Franklin Point State Park: https://www.maryland.gov/parks/franklin-point
+- State Parks: https://dnr.maryland.gov/publiclands/
+- Franklin Point State Park: https://dnr.maryland.gov/publiclands/Pages/southern/FranklinPoint.aspx
 - Fishing Information: https://www.dnr.maryland.gov/fisheries/
 
 **Contact**

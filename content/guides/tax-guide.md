@@ -264,7 +264,7 @@ Understanding taxes in Anne Arundel County is essential for budgeting and financ
 **Office:** Anne Arundel County Treasurer  
 **Address:** County administrative buildings  
 **Phone:** 410-222-3140  
-**Website:** [www.aacounty.org/taxes](https://www.aacounty.org/bill-payment)  
+**Website:** [www.aacounty.org/finance/bills-payments](https://www.aacounty.org/finance/bills-payments)  
 **Email:** taxes@aacounty.org
 
 **Services:**
@@ -274,7 +274,7 @@ Understanding taxes in Anne Arundel County is essential for budgeting and financ
 - Payment plans
 
 **Official County Property Tax Portal:**
-- [www.aacounty.org/taxes](https://www.aacounty.org/bill-payment)
+- [www.aacounty.org/finance/bills-payments](https://www.aacounty.org/finance/bills-payments)
 - Property assessment information
 - Tax billing and payment
 
@@ -453,9 +453,9 @@ For more budgeting info:
 ### Anne Arundel County Tax Collector
 
 **County Treasurer Official Site**  
-- Property Tax Portal: [www.aacounty.org/taxes](https://www.aacounty.org/bill-payment)  
-- Payment Portal: [www.aacounty.org/taxes/payment](https://www.aacounty.org/bill-payment/payment)  
-- Property Assessment Info: [www.aacounty.org/taxes/assessment](https://www.aacounty.org/bill-payment/assessment)  
+- Property Tax Portal: [www.aacounty.org/finance/bills-payments](https://www.aacounty.org/finance/bills-payments)  
+- Payment Portal: [aacounty.munisselfservice.com](https://aacounty.munisselfservice.com/citizens/default.aspx)  
+- Property Assessment Info: [www.aacounty.org/central-services/real-estate](https://www.aacounty.org/central-services/real-estate)  
 - Email: taxes@aacounty.org  
 - Phone: 410-222-3140
 
@@ -472,17 +472,17 @@ For more budgeting info:
 
 **Property and Business Tax**  
 - DAT Website: [dat.maryland.gov](https://dat.maryland.gov/)  
-- Property Search: [dat.maryland.gov/property](https://dat.maryland.gov/property)  
-- Business Search: [dat.maryland.gov/business](https://dat.maryland.gov/business)
+- Property Search: [dat.maryland.gov/realproperty](https://dat.maryland.gov/realproperty/Pages/default.aspx)  
+- Business Search: [sdat.dat.maryland.gov/BusinessEntity](https://sdat.dat.maryland.gov/BusinessEntity)
 
 ### Free Tax Assistance
 
 **VITA (Volunteer Income Tax Assistance)**  
-- Free tax prep for low-income: [irs.gov/vita](https://www.irs.gov/vita)  
-- Find a site: [irs.gov/vita/local/vita-locator](https://www.irs.gov/vita/local/vita-locator)
+- Free tax prep for low-income: [irs.gov/free-tax-help](https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers)  
+- Find a site: [irs.gov/free-tax-prep-locator](https://www.irs.gov/individuals/find-a-location-for-free-tax-prep)
 
 **AARP Tax-Aide**  
-- Seniors and others: [aarp.org/taxaide](https://www.aarp.org/money/taxes/free-tax-help/aarp-tax-aide/)
+- Seniors and others: [aarp.org/taxaide](https://www.aarp.org/money/taxes/aarp-taxaide/locations/)
 
 ---
 

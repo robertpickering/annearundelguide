@@ -247,7 +247,7 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 - **Variable rates** based on market
 - **Time-of-use plans** available (cheaper off-peak)
 - **Budget billing** available (even monthly payments)
-- **Website:** www.aepmaryland.com
+- **Website:** www.aep.com
 - **Phone:** 410-486-1234
 
 **Energy Efficiency Tips:**
@@ -291,7 +291,7 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 
 **Delmarva Power:**
 - **Service area:** Some parts of AAC
-- **Website:** www.delmarvapower.com
+- **Website:** www.delmarva.com
 - **Phone:** 1-800-662-4500
 
 **Average Monthly Gas Bills:**
@@ -504,7 +504,7 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 - **Locations:** 20+ throughout county
 - **Services:** Full-service banking
 - **Online:** Excellent mobile app
-- **Website:** www.mtbank.com
+- **Website:** www.mtb.com
 
 **PNC Bank:**
 - **Locations:** 15+ locations
@@ -530,18 +530,6 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 - **Benefits:** Low rates, high savings rates
 - **Website:** www.navyfed.org
 - **Phone:** 1-888-747-9287
-
-**Annapolis Federal Credit Union:**
-- **Local focus**
-- **Personalized service**
-- **Competitive rates**
-- **Website:** www.annapoliscu.com
-
-**Maryland Credit Union:**
-- **Multiple branches**
-- **Statewide membership**
-- **Full service**
-- **Website:** www.marylandcu.org
 
 ### Banking Tips
 
@@ -629,7 +617,7 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 - **ENERGY STAR appliances:** Rebates available
 - **Solar panels:** State tax credits
 - **Energy audits:** Discounted assessments
-- **Website:** www.marylandenergyoffice.org
+- **Website:** www.energy.maryland.gov
 
 **County Programs:**
 - **Recycling rebates:** Some items accepted for credit
@@ -814,7 +802,7 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 - **Website:** www.aacounty.org
 
 **Maryland Department of Labor:**
-- **Website:** www.marylandjobsmaryland.gov
+- **Website:** www.labor.maryland.gov
 - **Phone:** 410-767-1400
 
 **Internal Revenue Service:**
@@ -824,7 +812,7 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 ### Financial Institutions
 
 **Local Banks:**
-- **M&T Bank:** www.mtbank.com
+- **M&T Bank:** www.mtb.com
 - **PNC Bank:** www.pnc.com
 - **Navy Federal:** www.navyfed.org
 
@@ -840,7 +828,7 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 - **County resources:** AAC financial literacy programs
 
 **Maryland Energy Office:**
-- **Website:** www.marylandenergyoffice.org
+- **Website:** www.energy.maryland.gov
 - **Rebates:** Energy efficiency programs
 
 ---
@@ -868,13 +856,13 @@ Your financial success in Anne Arundel County is absolutely achievable with the 
 **Official County Website**  
 - Main County Site: [www.aacounty.org](https://www.aacounty.org)  
 - County Services: [www.aacounty.org/departments](https://www.aacounty.org/departments)  
-- OpenData Portal: [data.aacounty.org](https://data.aacounty.org)
+- OpenData Portal: [opendata.aacounty.org](https://opendata.aacounty.org)
 
 ### Maryland State Government
 
 **Official State Portal**  
 - MD.gov: [maryland.gov](https://maryland.gov/)  
-- State Departments: [maryland.gov/agencies](https://maryland.gov/agencies)  
+- State Departments: [maryland.gov/state-agencies](https://www.maryland.gov/your-government/state-agencies-and-departments)  
 - State Services: [maryland.gov/services](https://maryland.gov/services)
 
 ---

@@ -10,8 +10,6 @@ draft: false
 
 Crofton is a census-designated place (CDP) in Anne Arundel County, Maryland. As one of the largest and most populous communities in South County, Crofton serves as a major residential and commercial hub with diverse neighborhoods, excellent amenities, and a strong sense of community.
 
-[](/images/crofton-community.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -415,7 +413,7 @@ Crofton attracts:
 - [Anne Arundel County Public Schools](https://www.aacps.org)
 - [MTA Maryland Transit](https://www.mta.maryland.gov/)
 - [BWI Airport](https://www.bwiairport.com/)
-- [Anne Arundel County Parks](https://www.aacounty.org/departments/parks-recreation)
+- [Anne Arundel County Parks](https://www.aacounty.org/recreation-parks)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
 ---

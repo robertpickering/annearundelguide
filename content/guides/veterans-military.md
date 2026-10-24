@@ -50,7 +50,7 @@ aliases: ["/veterans-military-resources/", "/va-benefits-guide/", "/va-benefits-
 **Basic Facts:**
 - **Location:** 1020 West Road, Fort Meade, MD 20755
 - **Phone:** 410-604-1000
-- **Website:** www.army.mil/emeade
+- **Website:** www.army.mil/meade
 - **Population:** ~20,000+ military and civilian
 - **Major tenants:** NSA, US Army Criminal Investigation Command
 
@@ -78,7 +78,7 @@ aliases: ["/veterans-military-resources/", "/va-benefits-guide/", "/va-benefits-
 **Naval Air Station Patuxent River:**
 - **Location:** Patuxent River, MD (nearby)
 - **Phone:** 410-342-1000
-- **Website:** www.naspatuxent.navy.mil
+- **Website:** www.ndw.cnic.navy.mil/Installations/NAS-Patuxent-River
 
 ### Military Housing Options
 
@@ -215,7 +215,7 @@ aliases: ["/veterans-military-resources/", "/va-benefits-guide/", "/va-benefits-
 **Maryland VA Healthcare System:**
 - **Location:** Baltimore (serves Anne Arundel)
 - **Phone:** 410-597-6400
-- **Website:** www.md.vahealthcare.org
+- **Website:** www.va.gov/maryland-health-care
 
 **Services:**
 - Primary care
@@ -230,7 +230,7 @@ aliases: ["/veterans-military-resources/", "/va-benefits-guide/", "/va-benefits-
 - Income may affect eligibility
 
 **Enrollment:**
-- Apply online: www.va.gov/health-care/apply
+- Apply online: www.va.gov/health-care
 - Call: 1-877-222-8387
 - In-person: Local VA facility
 - Mail: Application form
@@ -303,7 +303,7 @@ aliases: ["/veterans-military-resources/", "/va-benefits-guide/", "/va-benefits-
 - Consider service-connected disabilities
 
 **Step 2: Apply**
-- Online: www.va.gov/health-care/apply
+- Online: www.va.gov/health-care
 - Mail: VA Form 10-10EZ
 - In-person: Local VA facility
 
@@ -367,7 +367,7 @@ aliases: ["/veterans-military-resources/", "/va-benefits-guide/", "/va-benefits-
 
 **Contact VA Loan Specialists:**
 - **Local lenders:** Research VA experience
-- **VA website:** www.va.gov/housing_assistance/home-loans
+- **VA website:** www.va.gov/housing-assistance/home-loans
 - **Phone:** 1-877-829-9712
 
 ### Disability Compensation
@@ -425,7 +425,7 @@ aliases: ["/veterans-military-resources/", "/va-benefits-guide/", "/va-benefits-
 - **Location:** Multiple in county
 - **Discounts:** Reduced rates for military
 - **Programs:** Childcare, youth activities
-- **Website:** www.ymcaanne.org
+- **Website:** www.ymaryland.org
 
 **Boys & Girls Club:**
 - **Military families:** Welcome and support
@@ -755,7 +755,7 @@ aliases: ["/veterans-military-resources/", "/va-benefits-guide/", "/va-benefits-
 
 **Fort Meade:**
 - **Main:** 410-604-1000
-- **Website:** www.army.mil/emeade
+- **Website:** www.army.mil/meade
 - **Address:** 1020 West Road, Fort Meade, MD 20755
 
 **Joint Base Andrews:**
@@ -767,7 +767,7 @@ aliases: ["/veterans-military-resources/", "/va-benefits-guide/", "/va-benefits-
 
 **Maryland VA Healthcare System:**
 - **Phone:** 410-597-6400
-- **Website:** www.md.vahealthcare.org
+- **Website:** www.va.gov/maryland-health-care
 - **Address:** Baltimore facility
 
 **VA Benefits:**
@@ -828,19 +828,19 @@ Welcome to Anne Arundel County, and thank you for your service!
 
 **State VA Resources**  
 - State VA Office: [marylandveterans.org](https://www.marylandveterans.org)  
-- Maryland VA Services: [maryland.gov/veterans](https://maryland.gov/veterans)  
+- Maryland VA Services: [veterans.maryland.gov](https://veterans.maryland.gov/)  
 - State VA Contact: 410-974-3810
 
 ### Defense Manpower Data Center
 
 **DEERS and ID Cards**  
-- DEERS Registration: [dmdc.osd.mil](https://www.dmdc.osd.mil/appspop/deers/registrationSearch.jsp)
+- DEERS Registration: [milconnect.dmdc.osd.mil](https://www.milconnect.dmdc.osd.mil/)
 
 ### U.S. Department of Defense
 
 **Official DOD Site**  
 - Main DOD Website: [dod.gov](https://www.dod.gov/)  
-- Military Installations: [dod.mil/locations](https://www.dod.mil/locations)
+- Military Installations: [militaryinstallations.dod.gov](https://www.militaryinstallations.dod.gov/)
 
 ### Tricare
 

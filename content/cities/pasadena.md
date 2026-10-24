@@ -10,8 +10,6 @@ draft: false
 
 Pasadena is a census-designated place (CDP) in Anne Arundel County, Maryland. Located on the western shore of the Chesapeake Bay, Pasadena is renowned for its waterfront properties, boating access, and close-knit community atmosphere. The area offers a unique blend of suburban living with exceptional water access.
 
-[](/images/pasadena-waterfront.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -228,7 +226,7 @@ Pasadena residents attend **Anne Arundel County Public Schools (AACPS)**, which 
 - **Severna Park Marina:** Public and private slips available
 - **Annapolis Marinas:** Short distance from Pasadena
 
-**Boating Info:** [Maryland DNR Boating](https://www.maryland.gov/dnr/boating/)
+**Boating Info:** [Maryland DNR Boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 
 ### Air Travel
 
@@ -284,7 +282,7 @@ Several restaurants offer bay views and fresh seafood:
 - **Sailboat Rentals:** Available through Annapolis clubs
 - **Kayak Rentals:** Local shops offer rentals
 
-**Fishing Info:** [Maryland DNR Fishing](https://www.maryland.gov/dnr/fishing/)
+**Fishing Info:** [Maryland DNR Fishing](https://dnr.maryland.gov/fisheries/Pages/default.aspx)
 
 ### Parks & Facilities
 
@@ -402,7 +400,7 @@ Pasadena attracts:
 
 **Resources:**
 - [FEMA Flood Maps](https://msc.fema.gov/portal/advancedsearch)
-- [Maryland DNR Waterfront](https://www.maryland.gov/dnr/waterfront/)
+- [Maryland DNR Waterfront](https://dnr.maryland.gov/waters/Pages/default.aspx)
 
 ## Contact & Resources
 
@@ -418,8 +416,8 @@ Pasadena attracts:
 ### Useful Links
 
 - [Anne Arundel County Public Schools](https://www.aacps.org)
-- [Maryland DNR Boating](https://www.maryland.gov/dnr/boating/)
-- [Maryland DNR Fishing](https://www.maryland.gov/dnr/fishing/)
+- [Maryland DNR Boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
+- [Maryland DNR Fishing](https://dnr.maryland.gov/fisheries/Pages/default.aspx)
 - [FEMA Flood Maps](https://msc.fema.gov/portal/advancedsearch)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
@@ -430,8 +428,8 @@ Pasadena attracts:
 1. **U.S. Census Bureau QuickFacts:** [census.gov/quickfacts/fact/table/pasadenacensusdesignatedplaceannearundelcountymaryland/PST045224](https://www.census.gov/quickfacts/fact/table/pasadenacensusdesignatedplaceannearundelcountymaryland/PST045224)
 2. **Anne Arundel County Government:** [aacounty.org](https://www.aacounty.org/)
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
-4. **Maryland DNR Boating:** [maryland.gov/dnr/boating](https://www.maryland.gov/dnr/boating/)
-5. **Maryland DNR Fishing:** [maryland.gov/dnr/fishing](https://www.maryland.gov/dnr/fishing/)
+4. **Maryland DNR Boating:** [dnr.maryland.gov/boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
+5. **Maryland DNR Fishing:** [dnr.maryland.gov/fishing](https://dnr.maryland.gov/fisheries/Pages/default.aspx)
 6. **FEMA Flood Maps:** [msc.fema.gov](https://msc.fema.gov/portal/advancedsearch)
 7. **CVPH Pasadena:** [cvph.org](https://www.cvph.org/)
 

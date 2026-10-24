@@ -211,7 +211,7 @@ BWI has multiple parking options with different price points. See [BWI Airport G
 - Disabled spot violations: $500+
 
 **Paying Tickets:**
-- Online: www.aacounty.org/parking-tickets
+- Online: www.aacounty.org (Police Central Records, parking citations)
 - Mail: Address on ticket
 - In person: County cashier offices
 

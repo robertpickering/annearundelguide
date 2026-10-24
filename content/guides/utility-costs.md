@@ -25,7 +25,7 @@ Understanding utility costs in Anne Arundel County is essential for budgeting. T
 
 **Contact:**
 - Phone: 410-486-1234
-- Website: www.aepmaryland.com
+- Website: www.aep.com
 - Outages: 410-486-1234
 
 ### Electric Rates
@@ -545,13 +545,13 @@ For more budgeting info:
 
 **MD PSC (Public Service Commission)**  
 - Utility Regulation: [psc.maryland.gov](https://psc.maryland.gov/)  
-- Consumer Information: [psc.maryland.gov/consumer](https://psc.maryland.gov/consumer)  
-- Complaints: [psc.maryland.gov/consumer/complaints](https://psc.maryland.gov/consumer/complaints)
+- Consumer Information: [psc.maryland.gov/get-help](https://psc.maryland.gov/get-help)  
+- Complaints: [psc.maryland.gov/file-a-complaint](https://psc.maryland.gov/online-services/file-a-complaint)
 
 **Maryland Energy Administration**  
-- Energy Programs: [marylandenergyadmin.gov](https://marylandenergyadmin.gov/)  
-- Energy Efficiency: [marylandenergyadmin.gov/efficiency](https://marylandenergyadmin.gov/efficiency)  
-- Consumer Resources: [marylandenergyadmin.gov/consumers](https://marylandenergyadmin.gov/consumers)
+- Energy Programs: [energy.maryland.gov](https://energy.maryland.gov/)  
+- Energy Efficiency: [energy.maryland.gov](https://energy.maryland.gov/)  
+- Consumer Resources: [energy.maryland.gov](https://energy.maryland.gov/)
 
 ### Local Utility Providers
 
@@ -566,8 +566,8 @@ For more budgeting info:
 ### Water and Sewer
 
 **Anne Arundel County Water Resources**  
-- Official County Water: [www.aacounty.org/department-water-resources](https://www.aacounty.org/department-water-resources)  
-- Water Bill Info: [www.aacounty.org/department-water-resources/bill](https://www.aacounty.org/department-water-resources/bill)
+- Official County Water: [www.aacounty.org/public-works/utilities](https://www.aacounty.org/public-works/utilities)  
+- Water Bill Info: [www.aacounty.org/utility-billing](https://aacounty.org/finance/bills-payments/watersewer-forms-faqs)
 
 **Annapolis Water System**  
 - Annapolis Water: [annapolismd.gov/water](https://www.annapolismd.gov/water)

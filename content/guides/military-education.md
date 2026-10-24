@@ -403,19 +403,19 @@ For more military info:
 
 **State VA Resources**  
 - State VA Office: [marylandveterans.org](https://www.marylandveterans.org)  
-- Maryland VA Services: [maryland.gov/veterans](https://maryland.gov/veterans)  
+- Maryland VA Services: [veterans.maryland.gov](https://veterans.maryland.gov/)  
 - State VA Contact: 410-974-3810
 
 ### Defense Manpower Data Center
 
 **DEERS and ID Cards**  
-- DEERS Registration: [dmdc.osd.mil](https://www.dmdc.osd.mil/appspop/deers/registrationSearch.jsp)
+- DEERS Registration: [milconnect.dmdc.osd.mil](https://www.milconnect.dmdc.osd.mil/)
 
 ### U.S. Department of Defense
 
 **Official DOD Site**  
 - Main DOD Website: [dod.gov](https://www.dod.gov/)  
-- Military Installations: [dod.mil/locations](https://www.dod.mil/locations)
+- Military Installations: [militaryinstallations.dod.gov](https://www.militaryinstallations.dod.gov/)
 
 ### Tricare
 

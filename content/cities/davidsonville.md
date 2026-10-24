@@ -10,8 +10,6 @@ draft: false
 
 Davidsonville is a census-designated place (CDP) in Anne Arundel County, Maryland. One of Maryland's oldest settlements, Davidsonville offers historic charm, waterfront properties, and a unique blend of colonial heritage and modern waterfront living on the scenic Chesapeake Bay.
 
-[](/images/davidsonville-waterfront.jpg)
-
 ## Quick Facts
 
 | Category | Information |
@@ -231,7 +229,7 @@ Davidsonville residents attend **Anne Arundel County Public Schools (AACPS)**.
 - **Annapolis Marinas:** Short distance from Davidsonville
 - **Private Club Marinas:** Several waterfront yacht clubs
 
-**Boating Info:** [Maryland DNR Boating](https://www.maryland.gov/dnr/boating/)
+**Boating Info:** [Maryland DNR Boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 
 ### Air Travel
 
@@ -284,7 +282,7 @@ Several restaurants offer bay views and fresh seafood:
 - **Fishing:** Excellent pier fishing, shore fishing, charter boats
 - **Kayaking/Canoeing:** Calm tidal creeks
 
-**Fishing Info:** [Maryland DNR Fishing](https://www.maryland.gov/dnr/fishing/)
+**Fishing Info:** [Maryland DNR Fishing](https://dnr.maryland.gov/fisheries/Pages/default.aspx)
 
 ### Parks & Facilities
 
@@ -421,7 +419,7 @@ Davidsonville attracts:
 ### Useful Links
 
 - [Anne Arundel County Public Schools](https://www.aacps.org)
-- [Maryland DNR Boating](https://www.maryland.gov/dnr/boating/)
+- [Maryland DNR Boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 - [Maryland Historical Trust](https://mht.maryland.gov/)
 - [Historic Annapolis Commission](https://www.annapolis.gov/148/Historic-Preservation-Commission)
 - [Anne Arundel County Government](https://www.aacounty.org/)
@@ -435,7 +433,7 @@ Davidsonville attracts:
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
 4. **Maryland Historical Trust:** [mht.maryland.gov](https://mht.maryland.gov/)
 5. **Historic Annapolis Commission:** [annapolis.gov](https://www.annapolis.gov/148/Historic-Preservation-Commission)
-6. **Maryland DNR Boating:** [maryland.gov/dnr/boating](https://www.maryland.gov/dnr/boating/)
+6. **Maryland DNR Boating:** [dnr.maryland.gov/boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 7. **CVPH Davidsonville:** [cvph.org](https://www.cvph.org/)
 
 ---
