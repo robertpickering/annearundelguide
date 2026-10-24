@@ -166,9 +166,9 @@ The trade-offs are typical for Maryland suburbs: traffic on Route 2 during rush 
 
 **Official Website**
 - Main Site: https://www.aacps.org
-- Broadneck High School: https://www.aacps.org/broadneck
+- Broadneck High School: https://www.aacps.org/o/broadneckhs
 - Enrollment Information: https://www.aacps.org/enrollment
-- School Directory: https://www.aacps.org/school-directory
+- School Directory: https://www.aacps.org/locateyourschool
 
 **Contact**
 - Phone: 410-263-8000

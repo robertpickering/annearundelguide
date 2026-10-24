@@ -446,7 +446,7 @@ For more budgeting info:
 - Main Tax Website: [marylandtaxes.gov](https://www.marylandtaxes.gov/)  
 - File Maryland Taxes: [marylandtaxes.gov/individuals](https://www.marylandtaxes.gov/individuals/)  
 - Business Tax Services: [marylandtaxes.gov/businesses](https://www.marylandtaxes.gov/businesses/)  
-- Tax Forms Library: [marylandtaxes.gov/forms](https://www.marylandtaxes.gov/forms)  
+- Tax Forms Library: [Comptroller Individual Tax Forms](https://services.marylandcomptroller.gov/taxes/en/individual-tax-forms-and-instructions?id=kb_article_view&sysparm_article=KB0010016)  
 - Office Address: 1100 State Circle, Annapolis, MD 21401  
 - Phone: 410-767-6300
 
@@ -473,7 +473,7 @@ For more budgeting info:
 **Property and Business Tax**  
 - DAT Website: [dat.maryland.gov](https://dat.maryland.gov/)  
 - Property Search: [dat.maryland.gov/realproperty](https://dat.maryland.gov/realproperty/Pages/default.aspx)  
-- Business Search: [sdat.dat.maryland.gov/BusinessEntity](https://sdat.dat.maryland.gov/BusinessEntity)
+- Business Search: [egov.maryland.gov/BusinessExpress/EntitySearch](https://egov.maryland.gov/BusinessExpress/EntitySearch)
 
 ### Free Tax Assistance
 

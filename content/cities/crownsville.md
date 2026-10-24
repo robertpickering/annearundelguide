@@ -151,13 +151,13 @@ Crownsville residents attend **Anne Arundel County Public Schools (AACPS)**.
 
 #### **Elementary Schools**
 
-**South County Elementary School:**
-- **Address:** 400 South County Road, Crownsville, MD 21032
+**South Shore Elementary School:**
+- **Address:** 1376 Fairfield Loop Road, Crownsville, MD 21032
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacps.org/o/southcounty](https://www.aacps.org/o/southcounty)
+- **Website:** [aacps.org/o/southshorees](https://www.aacps.org/o/southshorees)
 
-**Google Maps:** [South County Elementary](https://www.google.com/maps/dir//South+County+Elementary+School,+Crownsville,+MD)
+**Google Maps:** [South Shore Elementary](https://www.google.com/maps/dir//South+Shore+Elementary+School,+Crownsville,+MD)
 
 **Other Options:**
 - **Crofton Elementary:** Some Crownsville areas zoned to Crofton schools
@@ -166,7 +166,7 @@ Crownsville residents attend **Anne Arundel County Public Schools (AACPS)**.
 #### **Middle School**
 
 **Crofton Middle School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+- **Address:** 2301 Davidsonville Road, Gambrills, MD 21054
 - **Grades:** 6-8
 - **Rating:** Above average
 - **Note:** Many Crownsville students attend Crofton Middle
@@ -176,11 +176,11 @@ Crownsville residents attend **Anne Arundel County Public Schools (AACPS)**.
 #### **High School**
 
 **Crofton High School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+- **Address:** 2291 Davidsonville Road, Gambrills, MD 21054
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
 - **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/o/croftonhs)
+- **Website:** [aacps.org/o/croftonhs](https://www.aacps.org/o/croftonhs)
 
 **Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
 
@@ -396,7 +396,7 @@ Crownsville attracts:
 6. **Noise:** Consider proximity to boat traffic and marinas
 
 **Resources:**
-- [FEMA Flood Maps](https://msc.fema.gov/portal/advancedsearch)
+- [FEMA Flood Maps](https://www.fema.gov/flood-maps)
 - [Maryland DNR Waterfront](https://dnr.maryland.gov/waters/Pages/default.aspx)
 
 ## Contact & Resources
@@ -415,7 +415,7 @@ Crownsville attracts:
 - [Anne Arundel County Public Schools](https://www.aacps.org)
 - [Maryland DNR Boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 - [Maryland DNR Fishing](https://dnr.maryland.gov/fisheries/Pages/default.aspx)
-- [FEMA Flood Maps](https://msc.fema.gov/portal/advancedsearch)
+- [FEMA Flood Maps](https://www.fema.gov/flood-maps)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
 ---
@@ -427,7 +427,7 @@ Crownsville attracts:
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
 4. **Maryland DNR Boating:** [dnr.maryland.gov/boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 5. **Maryland DNR Fishing:** [dnr.maryland.gov/fishing](https://dnr.maryland.gov/fisheries/Pages/default.aspx)
-6. **FEMA Flood Maps:** [msc.fema.gov](https://msc.fema.gov/portal/advancedsearch)
+6. **FEMA Flood Maps:** [fema.gov/flood-maps](https://www.fema.gov/flood-maps)
 7. **CVPH Crownsville:** [cvph.org](https://www.cvph.org/)
 
 ---

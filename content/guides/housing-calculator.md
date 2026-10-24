@@ -504,7 +504,7 @@ For more budgeting info:
 
 **Maryland Department of Assessments and Taxation**  
 - Property Records: [dat.maryland.gov/realproperty](https://dat.maryland.gov/realproperty/Pages/default.aspx)  
-- Business Records: [sdat.dat.maryland.gov/BusinessEntity](https://sdat.dat.maryland.gov/BusinessEntity)  
+- Business Records: [egov.maryland.gov/BusinessExpress/EntitySearch](https://egov.maryland.gov/BusinessExpress/EntitySearch)  
 - Property Search: [dat.maryland.gov/realproperty](https://dat.maryland.gov/realproperty/Pages/default.aspx)
 
 ### Mortgage and Lending Resources

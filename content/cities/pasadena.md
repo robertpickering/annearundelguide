@@ -178,7 +178,7 @@ Pasadena residents attend **Anne Arundel County Public Schools (AACPS)**, which 
 - **Grades:** 9-12
 - **Rating:** Among Maryland's top schools (consistently top 10%)
 - **Mascot:** Rams
-- **Website:** [aacounty.org/severnaparkhs](https://www.aacps.org/o/severnaparkhs)
+- **Website:** [aacps.org/o/severnaparkhs](https://www.aacps.org/o/severnaparkhs)
 
 **Google Maps:** [Severna Park High](https://www.google.com/maps/dir//Severna+Park+High+School,+Severna+Park,+MD)
 
@@ -399,7 +399,7 @@ Pasadena attracts:
 6. **Noise:** Consider proximity to boat traffic and marinas
 
 **Resources:**
-- [FEMA Flood Maps](https://msc.fema.gov/portal/advancedsearch)
+- [FEMA Flood Maps](https://www.fema.gov/flood-maps)
 - [Maryland DNR Waterfront](https://dnr.maryland.gov/waters/Pages/default.aspx)
 
 ## Contact & Resources
@@ -418,7 +418,7 @@ Pasadena attracts:
 - [Anne Arundel County Public Schools](https://www.aacps.org)
 - [Maryland DNR Boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 - [Maryland DNR Fishing](https://dnr.maryland.gov/fisheries/Pages/default.aspx)
-- [FEMA Flood Maps](https://msc.fema.gov/portal/advancedsearch)
+- [FEMA Flood Maps](https://www.fema.gov/flood-maps)
 - [Anne Arundel County Government](https://www.aacounty.org/)
 
 ---
@@ -430,7 +430,7 @@ Pasadena attracts:
 3. **AACPS Schools:** [aacounty.org/aacps](https://www.aacps.org)
 4. **Maryland DNR Boating:** [dnr.maryland.gov/boating](https://dnr.maryland.gov/boating/Pages/default.aspx)
 5. **Maryland DNR Fishing:** [dnr.maryland.gov/fishing](https://dnr.maryland.gov/fisheries/Pages/default.aspx)
-6. **FEMA Flood Maps:** [msc.fema.gov](https://msc.fema.gov/portal/advancedsearch)
+6. **FEMA Flood Maps:** [fema.gov/flood-maps](https://www.fema.gov/flood-maps)
 7. **CVPH Pasadena:** [cvph.org](https://www.cvph.org/)
 
 ---

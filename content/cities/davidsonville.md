@@ -153,13 +153,13 @@ Davidsonville residents attend **Anne Arundel County Public Schools (AACPS)**.
 
 #### **Elementary Schools**
 
-**South County Elementary School:**
-- **Address:** 400 South County Road, Crownsville, MD 21032
+**Davidsonville Elementary School:**
+- **Address:** 962 West Central Avenue, Davidsonville, MD 21035
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacps.org/o/southcounty](https://www.aacps.org/o/southcounty)
+- **Website:** [aacps.org/o/davidsonvillees](https://www.aacps.org/o/davidsonvillees)
 
-**Google Maps:** [South County Elementary](https://www.google.com/maps/dir//South+County+Elementary+School,+Crownsville,+MD)
+**Google Maps:** [Davidsonville Elementary](https://www.google.com/maps/dir//Davidsonville+Elementary+School,+Davidsonville,+MD)
 
 **Other Options:**
 - **Crofton Elementary:** Some Davidsonville areas zoned to Crofton schools
@@ -167,25 +167,25 @@ Davidsonville residents attend **Anne Arundel County Public Schools (AACPS)**.
 
 #### **Middle School**
 
-**Crofton Middle School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+**Central Middle School:**
+- **Address:** 221 Central Avenue East, Edgewater, MD 21037
 - **Grades:** 6-8
 - **Rating:** Above average
 
-**Google Maps:** [Crofton Middle](https://www.google.com/maps/dir//Crofton+Middle+School,+Crofton,+MD)
+**Google Maps:** [Central Middle](https://www.google.com/maps/dir//Central+Middle+School,+Edgewater,+MD)
 
 #### **High School**
 
-**Crofton High School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+**South River High School:**
+- **Address:** 201 Central Avenue East, Edgewater, MD 21037
 - **Grades:** 9-12
 - **Rating:** Above average to highly rated
-- **Mascot:** Cougars
-- **Website:** [aacounty.org/croftonhs](https://www.aacps.org/o/croftonhs)
+- **Mascot:** Ravens
+- **Website:** [aacps.org/o/southriverhs](https://www.aacps.org/o/southriverhs)
 
-**Google Maps:** [Crofton High](https://www.google.com/maps/dir//Crofton+High+School,+Crofton,+MD)
+**Google Maps:** [South River High](https://www.google.com/maps/dir//South+River+High+School,+Edgewater,+MD)
 
-**School Performance:** Davidsonville students benefit from Crofton School system's solid academic programs
+**School Performance:** Davidsonville students benefit from South River cluster schools' solid academic programs
 
 ### Private Schools
 

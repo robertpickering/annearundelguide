@@ -16,17 +16,17 @@ Understanding utility costs in Anne Arundel County is essential for budgeting. T
 
 ## Electric Service
 
-### AEP Maryland
+### BGE (Baltimore Gas and Electric)
 
 **Service Area:**
-- Most of Anne Arundel County
+- Most of Anne Arundel County (Delmarva Power serves Annapolis and parts of the south county)
 - Primary electric provider
-- Generation and distribution
+- Also provides natural gas in many areas
 
 **Contact:**
-- Phone: 410-486-1234
-- Website: www.aep.com
-- Outages: 410-486-1234
+- Customer Service: 1-800-685-0123
+- Website: www.bge.com
+- Outages: 1-877-778-2222
 
 ### Electric Rates
 
@@ -497,7 +497,7 @@ Understanding utility costs in Anne Arundel County is essential for budgeting. T
 
 ### Electric Outages
 
-**Report:** 410-486-1234  
+**Report:** 1-877-778-2222  
 **Check:** Outage map online  
 **Prepare:** Emergency kit  
 **After:** Check appliances
@@ -560,8 +560,8 @@ For more budgeting info:
 - Energy Efficiency Programs: [bge.com/efficiency](https://www.bge.com/efficiency)  
 - Customer Service: 1-800-685-0123
 
-**Potomac Electric Power Company (PECO)**  
-- Official PECO Site: [peco.com](https://www.peco.com/)
+**Delmarva Power (Annapolis & southern AAC)**  
+- Official Site: [delmarva.com](https://www.delmarva.com)
 
 ### Water and Sewer
 
@@ -570,7 +570,7 @@ For more budgeting info:
 - Water Bill Info: [www.aacounty.org/utility-billing](https://aacounty.org/finance/bills-payments/watersewer-forms-faqs)
 
 **Annapolis Water System**  
-- Annapolis Water: [annapolismd.gov/water](https://www.annapolismd.gov/water)
+- Annapolis Water: [annapolis.gov/1068/Utilities-Division](https://www.annapolis.gov/1068/Utilities-Division)
 
 ---
 

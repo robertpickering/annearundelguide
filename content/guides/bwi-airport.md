@@ -117,12 +117,6 @@ BWI Thurgood Marshall Airport serves Anne Arundel County and the greater Baltimo
 - **Frequency:** Daily flights
 - **Website:** [alaskaair.com](https://www.alaskaair.com/)
 
-**Spirit Airlines:**
-- **Terminal:** C
-- **Destinations:** Fort Lauderdale, Orlando, Tampa, Las Vegas
-- **Frequency:** Multiple daily flights
-- **Website:** [spirit.com](https://www.spirit.com/)
-
 **Frontier Airlines:**
 - **Terminal:** C
 - **Destinations:** Denver, Las Vegas, Orlando, Tampa

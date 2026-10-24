@@ -26,7 +26,7 @@ Enrolling your child in Anne Arundel County Public Schools requires specific doc
 - Shows assigned elementary, middle, and high school
 - Verify before moving or buying property
 
-**Website:** www.aacps.org/schools/findyourschool
+**Website:** www.aacps.org/locateyourschool
 
 **Important:** School boundaries can change. Always verify current assignment for your address.
 
@@ -425,9 +425,9 @@ For more education info:
 
 **Official School District Website**  
 - AACPS Main Site: [www.aacps.org](https://www.aacps.org)  
-- Enrollment Information: [www.aacps.org/registration](https://www.aacps.org/registration)  
-- Student Information System: [www.aacps.org/sis](https://www.aacps.org/sis)  
-- School Finder: [www.aacps.org/schools](https://www.aacps.org/schools/findyourschool)  
+- Enrollment Information: [www.aacps.org/enrollment](https://www.aacps.org/enrollment)  
+- Student Information System: [www.aacps.org/parentportal](https://www.aacps.org/parentportal)  
+- School Finder: [www.aacps.org/locateyourschool](https://www.aacps.org/locateyourschool)  
 - Main Office: 1655 West Street, Annapolis, MD 21401 | Phone: 410-222-4500
 
 ### Maryland State Department of Education
@@ -435,7 +435,7 @@ For more education info:
 **State Education Resources**  
 - MD Public Schools: [marylandpublicschools.org](https://marylandpublicschools.org)  
 - School Performance Data: [reportcard.msde.maryland.gov](https://reportcard.msde.maryland.gov/)  
-- Enrollment Guidelines: [marylandpublicschools.org/parents](https://marylandpublicschools.org/parents/)  
+- Enrollment — Local School Systems: [msde.maryland.gov/about-us/local-school-systems](https://msde.maryland.gov/about-us/local-school-systems)  
 - MD Department of Education: [marylandpublicschools.org/about](https://marylandpublicschools.org/about)
 
 ### Federal Education Resources
@@ -443,7 +443,7 @@ For more education info:
 **U.S. Department of Education**  
 - Federal Education Info: [ed.gov](https://www.ed.gov/)  
 - Student Resources: [studentaid.gov](https://studentaid.gov/)  
-- Title I Programs: [ed.gov/titlei](https://www.ed.gov/titlei)
+- Title I Programs: [ed.gov Title I](https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/title-i)
 
 ---
 

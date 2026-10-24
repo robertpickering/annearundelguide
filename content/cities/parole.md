@@ -239,7 +239,7 @@ The trade-offs are typical for suburban development: no traditional town center,
 **Official Website**
 - Main Site: https://www.aacps.org
 - Walter S. Mills-Parole Elementary: https://www.aacps.org/o/millsparolees
-- School Directory: https://www.aacps.org/school-directory
+- School Directory: https://www.aacps.org/locateyourschool
 - Enrollment Information: https://www.aacps.org/enrollment
 - Community Schools: https://www.aacps.org/page/community-schools
 

@@ -168,10 +168,10 @@ Severn residents attend **Anne Arundel County Public Schools (AACPS)**.
 #### **Elementary Schools**
 
 **Severn Elementary School:**
-- **Address:** 3200 Severn Station Road, Severn, MD 21144
+- **Address:** 838 Reece Road, Severn, MD 21144
 - **Grades:** K-5
 - **Rating:** Above average
-- **Website:** [aacps.org/o/severn](https://www.aacps.org/o/severn)
+- **Website:** [aacps.org/o/severnes](https://www.aacps.org/o/severnes)
 
 **Google Maps:** [Severn Elementary](https://www.google.com/maps/dir//Severn+Elementary+School,+Severn,+MD)
 
@@ -181,23 +181,23 @@ Severn residents attend **Anne Arundel County Public Schools (AACPS)**.
 
 #### **Middle School**
 
-**Crofton Middle School:**
-- **Address:** 1400 Crofton Boulevard, Crofton, MD 21114
+**MacArthur Middle School:**
+- **Address:** 3500 Rockenbach Road, Fort Meade, MD 20755
 - **Grades:** 6-8
 - **Rating:** Above average
 
-**Google Maps:** [Crofton Middle](https://www.google.com/maps/dir//Crofton+Middle+School,+Crofton,+MD)
+**Google Maps:** [MacArthur Middle](https://www.google.com/maps/dir//MacArthur+Middle+School,+Fort+Meade,+MD)
 
 #### **High School**
 
-**Severn High School:**
-- **Address:** 4545 Severn Station Road, Severn, MD 21144
+**Severn Run High School:**
+- **Address:** 8065 New Cut Road, Severn, MD 21144
 - **Grades:** 9-12
 - **Rating:** Above average
-- **Mascot:** Vikings
-- **Website:** [aacounty.org/severnhs](https://www.aacps.org/o/severnhs)
+- **Mascot:** Hunters
+- **Website:** [aacps.org/o/severnrunhs](https://www.aacps.org/o/severnrunhs)
 
-**Google Maps:** [Severn High](https://www.google.com/maps/dir//Severn+High+School,+Severn,+MD)
+**Google Maps:** [Severn Run High](https://www.google.com/maps/dir//Severn+Run+High+School,+Severn,+MD)
 
 **School Performance:** Severn schools consistently rank above average with solid academic programs
 

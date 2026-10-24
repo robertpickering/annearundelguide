@@ -392,13 +392,13 @@ For more military info:
 ### Defense Manpower Data Center
 
 **DEERS and ID Cards**  
-- DEERS Registration: [milconnect.dmdc.osd.mil](https://www.milconnect.dmdc.osd.mil/)
+- DEERS Registration: [milconnect.dmdc.osd.mil](https://milconnect.dmdc.osd.mil/)
 
 ### U.S. Department of Defense
 
 **Official DOD Site**  
-- Main DOD Website: [dod.gov](https://www.dod.gov/)  
-- Military Installations: [militaryinstallations.dod.gov](https://www.militaryinstallations.dod.gov/)
+- Main DOD Website: [defense.gov](https://www.defense.gov/)  
+- Military Installations: [installations.militaryonesource.mil](https://installations.militaryonesource.mil/)
 
 ### Tricare
 

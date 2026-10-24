@@ -222,7 +222,7 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 
 ## Utility Costs
 
-### Electricity - AEP Maryland
+### Electricity - BGE (Baltimore Gas and Electric)
 
 **Average Monthly Electric Bills:**
 
@@ -243,12 +243,12 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 - **Winter:** $180-280/month
 - **Annual average:** $180-230/month
 
-**AEP Maryland Rates:**
+**BGE Rates:**
 - **Variable rates** based on market
 - **Time-of-use plans** available (cheaper off-peak)
 - **Budget billing** available (even monthly payments)
-- **Website:** www.aep.com
-- **Phone:** 410-486-1234
+- **Website:** www.bge.com
+- **Phone:** 1-800-335-5520
 
 **Energy Efficiency Tips:**
 - Use programmable thermostat
@@ -289,10 +289,10 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 
 **Natural Gas Providers:**
 
-**Delmarva Power:**
-- **Service area:** Some parts of AAC
-- **Website:** www.delmarva.com
-- **Phone:** 1-800-662-4500
+**BGE (Baltimore Gas and Electric):**
+- **Service area:** All of Anne Arundel County for both electric and natural gas
+- **Website:** www.bge.com
+- **Phone:** 1-800-335-5520
 
 **Average Monthly Gas Bills:**
 
@@ -625,7 +625,7 @@ aliases: ["/budgeting-cost-living/", "/cost-of-living/"]
 - **Green programs:** Rebates for water conservation
 
 **Utility Programs:**
-- **AEP energy assistance:** Low-income programs
+- **BGE energy assistance:** Low-income programs
 - **Budget billing:** Predictable payments
 - **Time-of-use rates:** Cheaper off-peak electricity
 
