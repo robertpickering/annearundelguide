@@ -20,7 +20,7 @@ Use our interactive calculator to estimate home prices, rent, mortgage payments,
 
 <a href="#calculator" class="btn">Use Calculator</a>
 <a href="#town-breakdown" class="btn">Town Breakdown</a>
-<a href="/" class="btn">View All Guides</a>
+<a href="/guides/" class="btn">View All Guides</a>
 </div>
 
 <!-- INTERACTIVE CALCULATOR SECTION -->
